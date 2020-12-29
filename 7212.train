@@ -1,0 +1,1 @@
+{turkish=Kahve}{morphologicalAnalysis=kahve+NOUN+A3SG+PNON+NOM}{metaMorphemes=kahve}{semantics=TUR10-0399500}{universalDependency=2$ADVCL} {turkish=çekmek}{morphologicalAnalysis=çek+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=çek+mAk}{semantics=TUR10-0879780}{universalDependency=0$ROOT} {turkish=.}{universalDependency=2$PUNCT}

@@ -1,0 +1,1 @@
+{turkish=Yangına}{morphologicalAnalysis=yangın+NOUN+A3SG+PNON+DAT}{metaMorphemes=yangın+yA} {turkish=su}{morphologicalAnalysis=su+NOUN+A3SG+PNON+NOM}{metaMorphemes=su} {turkish=sıkmak}{morphologicalAnalysis=sık+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=sık+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

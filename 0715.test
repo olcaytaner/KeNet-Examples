@@ -1,0 +1,1 @@
+{turkish=Beyinsi}{morphologicalAnalysis=beyin+NOUN^DB+ADJ+ALMOST}{metaMorphemes=beyin+SH}{universalDependency=1$AMOD} {turkish=boğumlar}{morphologicalAnalysis=boğum+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL}{metaMorphemes=boğum+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,0 +1,1 @@
+{turkish=Sinemaya}{morphologicalAnalysis=sinema+NOUN+A3SG+PNON+DAT}{metaMorphemes=sinema+yA} {turkish=evcek}{morphologicalAnalysis=evcek+ADV}{metaMorphemes=evcek}{universalDependency=3$ADVCL} {turkish=gidiyoruz}{morphologicalAnalysis=git+VERB+POS+PROG1+A1PL}{metaMorphemes=git+Hyor+yHz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

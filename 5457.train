@@ -1,0 +1,1 @@
+{turkish=Kitabı}{morphologicalAnalysis=kitap+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kitap+sH} {turkish=kâğıda}{morphologicalAnalysis=kâğıt+NOUN+A3SG+PNON+DAT}{metaMorphemes=kâğıt+yA} {turkish=sarmak}{morphologicalAnalysis=sar+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=sar+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

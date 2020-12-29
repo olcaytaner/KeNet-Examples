@@ -1,0 +1,1 @@
+{turkish=Sıçırgan}{morphologicalAnalysis=sıçırgan+ADJ}{metaMorphemes=sıçırgan}{universalDependency=1$AMOD} {turkish=bir}{morphologicalAnalysis=bir+NUM+CARD}{metaMorphemes=bir}{universalDependency=3$NUMMOD} {turkish=kedi}{morphologicalAnalysis=kedi+NOUN+A3SG+PNON+NOM}{metaMorphemes=kedi} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

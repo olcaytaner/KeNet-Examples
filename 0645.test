@@ -1,0 +1,1 @@
+{turkish=Noktalama}{morphologicalAnalysis=noktalama+NOUN+A3SG+PNON+NOM}{metaMorphemes=noktalama}{universalDependency=2$NMOD} {turkish=işaretleri}{morphologicalAnalysis=işaret+NOUN+A3PL+P3SG+NOM}{metaMorphemes=işaret+lAr+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

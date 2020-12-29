@@ -1,0 +1,1 @@
+{turkish=Aşılama}{morphologicalAnalysis=aşıla+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=aşıla+mA}{universalDependency=2$NMOD} {turkish=su}{morphologicalAnalysis=su+NOUN+A3SG+PNON+NOM}{metaMorphemes=su}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,0 +1,1 @@
+{turkish=Milyarlık}{morphologicalAnalysis=milyar+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=milyar+lHk}{universalDependency=2$AMOD} {turkish=sporcular}{morphologicalAnalysis=sporcu+NOUN+A3PL+PNON+NOM}{metaMorphemes=sporcu+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

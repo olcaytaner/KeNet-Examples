@@ -1,0 +1,1 @@
+{turkish=Mürekkepli}{morphologicalAnalysis=mürekkep+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=mürekkep+lH}{universalDependency=2$AMOD} {turkish=kalem}{morphologicalAnalysis=kalem+NOUN+A3SG+PNON+NOM}{metaMorphemes=kalem}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
