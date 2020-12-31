@@ -1,1 +1,1 @@
-{turkish=Tuzlama}{morphologicalAnalysis=tuzlama+ADJ}{metaMorphemes=tuzlama} {turkish=balık}{morphologicalAnalysis=balık+NOUN+A3SG+PNON+NOM}{metaMorphemes=balık} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Tuzlama}{morphologicalAnalysis=tuzlama+ADJ}{metaMorphemes=tuzlama}{semantics=TUR10-0791700} {turkish=balık}{morphologicalAnalysis=balık+NOUN+A3SG+PNON+NOM}{metaMorphemes=balık}{semantics=TUR10-0074020} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}
