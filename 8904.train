@@ -1,1 +1,1 @@
-{turkish=Yeter}{morphologicalAnalysis=yeter+ADJ}{metaMorphemes=yeter}{universalDependency=1$AMOD} {turkish=artık}{morphologicalAnalysis=artık+ADV}{metaMorphemes=artık} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Yeter}{morphologicalAnalysis=yeter+ADJ}{metaMorphemes=yeter}{semantics=TUR10-0852070}{universalDependency=1$AMOD} {turkish=artık}{morphologicalAnalysis=artık+ADV}{metaMorphemes=artık}{semantics=TUR10-0072560} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{semantics=TUR10-0808050}
