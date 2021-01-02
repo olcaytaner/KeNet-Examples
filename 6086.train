@@ -1,1 +1,1 @@
-{turkish=Tarhanalık}{morphologicalAnalysis=tarhanalık+ADJ}{metaMorphemes=tarhanalık} {turkish=hamur}{morphologicalAnalysis=hamur+NOUN+A3SG+PNON+NOM}{metaMorphemes=hamur} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Tarhanalık}{morphologicalAnalysis=tarhanalık+ADJ}{metaMorphemes=tarhanalık}{semantics=TUR10-0746950} {turkish=hamur}{morphologicalAnalysis=hamur+NOUN+A3SG+PNON+NOM}{metaMorphemes=hamur}{semantics=TUR10-0325360} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}

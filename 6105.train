@@ -1,1 +1,1 @@
-{turkish=Dilde}{morphologicalAnalysis=dil+NOUN+A3SG+PNON+LOC}{metaMorphemes=dil+DA} {turkish=tasfiye}{morphologicalAnalysis=tasfiye+NOUN+A3SG+PNON+NOM}{metaMorphemes=tasfiye} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Dilde}{morphologicalAnalysis=dil+NOUN+A3SG+PNON+LOC}{metaMorphemes=dil+DA}{semantics=TUR10-0204850} {turkish=tasfiye}{morphologicalAnalysis=tasfiye+NOUN+A3SG+PNON+NOM}{metaMorphemes=tasfiye}{semantics=TUR10-0061230} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}

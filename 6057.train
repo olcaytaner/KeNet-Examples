@@ -1,1 +1,1 @@
-{turkish=Üzüm}{morphologicalAnalysis=üzüm+NOUN+A3SG+PNON+NOM}{metaMorphemes=üzüm} {turkish=tanesi}{morphologicalAnalysis=tane+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tane+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Üzüm}{morphologicalAnalysis=üzüm+NOUN+A3SG+PNON+NOM}{metaMorphemes=üzüm}{semantics=TUR10-0811920} {turkish=tanesi}{morphologicalAnalysis=tane+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tane+sH}{semantics=TUR10-0743390} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}

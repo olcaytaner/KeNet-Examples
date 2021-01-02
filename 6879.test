@@ -1,1 +1,1 @@
-{turkish=Araba}{morphologicalAnalysis=araba+NOUN+A3SG+PNON+NOM}{metaMorphemes=araba} {turkish=yayı}{morphologicalAnalysis=yay+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yay+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Araba}{morphologicalAnalysis=araba+NOUN+A3SG+PNON+NOM}{metaMorphemes=araba}{semantics=TUR10-0520720} {turkish=yayı}{morphologicalAnalysis=yay+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yay+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}{universalDependency=2$PUNCT}

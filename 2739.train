@@ -1,1 +1,1 @@
-{turkish=Hediyelik}{morphologicalAnalysis=hediye+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=hediye+lHk} {turkish=vazo}{morphologicalAnalysis=vazo+NOUN+A3SG+PNON+NOM}{metaMorphemes=vazo} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Hediyelik}{morphologicalAnalysis=hediye+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=hediye+lHk}{semantics=TUR10-0337850} {turkish=vazo}{morphologicalAnalysis=vazo+NOUN+A3SG+PNON+NOM}{metaMorphemes=vazo}{semantics=TUR10-0816360} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}

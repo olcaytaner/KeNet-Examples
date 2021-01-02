@@ -1,1 +1,1 @@
-{turkish=Kuyu}{morphologicalAnalysis=kuyu+NOUN+A3SG+PNON+NOM}{metaMorphemes=kuyu} {turkish=bakracı}{morphologicalAnalysis=bakraç+NOUN+A3SG+P3SG+NOM}{metaMorphemes=bakraç+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kuyu}{morphologicalAnalysis=kuyu+NOUN+A3SG+PNON+NOM}{metaMorphemes=kuyu}{semantics=TUR10-0498850} {turkish=bakracı}{morphologicalAnalysis=bakraç+NOUN+A3SG+P3SG+NOM}{metaMorphemes=bakraç+sH}{semantics=TUR10-0339720} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}
