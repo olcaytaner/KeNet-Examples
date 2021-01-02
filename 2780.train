@@ -1,1 +1,1 @@
-{turkish=Hırsızlama}{morphologicalAnalysis=hırsızlama+ADJ}{metaMorphemes=hırsızlama} {turkish=eşya}{morphologicalAnalysis=eşya+NOUN+A3SG+PNON+NOM}{metaMorphemes=eşya} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Hırsızlama}{morphologicalAnalysis=hırsızlama+ADJ}{metaMorphemes=hırsızlama}{semantics=TUR10-0342290} {turkish=eşya}{morphologicalAnalysis=eşya+NOUN+A3SG+PNON+NOM}{metaMorphemes=eşya}{semantics=TUR10-0256750} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}
