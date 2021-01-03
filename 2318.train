@@ -1,1 +1,1 @@
-{turkish=Geçme}{morphologicalAnalysis=geç+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=geç+mA} {turkish=çerçeve}{morphologicalAnalysis=çerçeve+NOUN+A3SG+PNON+NOM}{metaMorphemes=çerçeve} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Geçme}{morphologicalAnalysis=geç+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=geç+mA}{semantics=TUR10-0288350} {turkish=çerçeve}{morphologicalAnalysis=çerçeve+NOUN+A3SG+PNON+NOM}{metaMorphemes=çerçeve}{semantics=TUR10-0159950} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

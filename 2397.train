@@ -1,1 +1,1 @@
-{turkish=Beni} {turkish=eski}{morphologicalAnalysis=eski+ADJ}{metaMorphemes=eski} {turkish=kıyafetle}{morphologicalAnalysis=kıyafet+NOUN+A3SG+PNON+INS}{metaMorphemes=kıyafet+ylA} {turkish=gezdiriyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Beni} {turkish=eski}{morphologicalAnalysis=eski+ADJ}{metaMorphemes=eski}{semantics=TUR10-0253240} {turkish=kıyafetle}{morphologicalAnalysis=kıyafet+NOUN+A3SG+PNON+INS}{metaMorphemes=kıyafet+ylA}{semantics=TUR10-0176380} {turkish=gezdiriyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
