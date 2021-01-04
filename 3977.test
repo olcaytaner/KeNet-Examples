@@ -1,1 +1,1 @@
-{turkish=Kumsal}{morphologicalAnalysis=kumsal+ADJ}{metaMorphemes=kumsal} {turkish=toprak}{morphologicalAnalysis=toprak+NOUN+A3SG+PNON+NOM}{metaMorphemes=toprak} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kumsal}{morphologicalAnalysis=kumsal+ADJ}{metaMorphemes=kumsal}{semantics=TUR10-0490790}{universalDependency=2$AMOD} {turkish=toprak}{morphologicalAnalysis=toprak+NOUN+A3SG+PNON+NOM}{metaMorphemes=toprak}{semantics=TUR10-0415100}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

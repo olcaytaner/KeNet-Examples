@@ -1,1 +1,1 @@
-{turkish=O} {turkish=meseleyi}{morphologicalAnalysis=mesele+NOUN+A3SG+PNON+ACC}{metaMorphemes=mesele+yH} {turkish=geçelim} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=O} {turkish=meseleyi}{morphologicalAnalysis=mesele+NOUN+A3SG+PNON+ACC}{metaMorphemes=mesele+yH} {turkish=geçelim} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

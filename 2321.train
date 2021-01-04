@@ -1,1 +1,1 @@
-{turkish=Bu} {turkish=titizlik} {turkish=ona} {turkish=babasından}{morphologicalAnalysis=baba+NOUN+A3SG+P3SG+ABL}{metaMorphemes=baba+sH+nDAn} {turkish=geçmiş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bu} {turkish=titizlik} {turkish=ona} {turkish=babasından}{morphologicalAnalysis=baba+NOUN+A3SG+P3SG+ABL}{metaMorphemes=baba+sH+nDAn} {turkish=geçmiş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=5$PUNCT}

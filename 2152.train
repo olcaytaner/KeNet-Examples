@@ -1,1 +1,1 @@
-{turkish=Kadınlar} {turkish=fedakârlık} {turkish=ettikleri} {turkish=erkekleri}{morphologicalAnalysis=erkek+NOUN+A3PL+P3SG+NOM}{metaMorphemes=erkek+lAr+sH} {turkish=severler} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kadınlar} {turkish=fedakârlık} {turkish=ettikleri} {turkish=erkekleri}{morphologicalAnalysis=erkek+NOUN+A3PL+P3SG+NOM}{metaMorphemes=erkek+lAr+sH}{semantics=TUR10-0251110} {turkish=severler} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=5$PUNCT}

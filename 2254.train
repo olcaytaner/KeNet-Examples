@@ -1,1 +1,1 @@
-{turkish=Adam} {turkish=fena}{morphologicalAnalysis=fena+ADJ}{metaMorphemes=fena} {turkish=sinirlendi} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Adam} {turkish=fena}{morphologicalAnalysis=fena+ADJ}{metaMorphemes=fena} {turkish=sinirlendi} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

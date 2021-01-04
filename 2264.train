@@ -1,1 +1,1 @@
-{turkish=Gailesiz} {turkish=iş}{morphologicalAnalysis=iş+NOUN+A3SG+PNON+NOM}{metaMorphemes=iş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Gailesiz} {turkish=iş}{morphologicalAnalysis=iş+NOUN+A3SG+PNON+NOM}{metaMorphemes=iş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

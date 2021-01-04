@@ -1,1 +1,1 @@
-{turkish=Altı}{morphologicalAnalysis=altı+NUM+CARD}{metaMorphemes=altı} {turkish=fincanlık} {turkish=tepsi}{morphologicalAnalysis=tepsi+NOUN+A3SG+PNON+NOM}{metaMorphemes=tepsi} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Altı}{morphologicalAnalysis=altı+NUM+CARD}{metaMorphemes=altı}{universalDependency=2$NUMMOD} {turkish=fincanlık} {turkish=tepsi}{morphologicalAnalysis=tepsi+NOUN+A3SG+PNON+NOM}{metaMorphemes=tepsi} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

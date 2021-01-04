@@ -1,1 +1,1 @@
-{turkish=Fosfatlı} {turkish=yapay}{morphologicalAnalysis=yapay+ADJ}{metaMorphemes=yapay} {turkish=gübre}{morphologicalAnalysis=gübre+NOUN+A3SG+PNON+NOM}{metaMorphemes=gübre} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Fosfatlı} {turkish=yapay}{morphologicalAnalysis=yapay+ADJ}{metaMorphemes=yapay}{universalDependency=3$AMOD} {turkish=gübre}{morphologicalAnalysis=gübre+NOUN+A3SG+PNON+NOM}{metaMorphemes=gübre} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

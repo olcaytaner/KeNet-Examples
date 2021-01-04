@@ -1,1 +1,1 @@
-{turkish=Sık} {turkish=sık} {turkish=görüşürüz}{morphologicalAnalysis=görüş+VERB+POS+AOR+A1PL}{metaMorphemes=görüş+Hr+yHz} {turkish=gayri}{morphologicalAnalysis=gayri+ADV}{metaMorphemes=gayri} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sık} {turkish=sık} {turkish=görüşürüz}{morphologicalAnalysis=görüş+VERB+POS+AOR+A1PL}{metaMorphemes=görüş+Hr+yHz} {turkish=gayri}{morphologicalAnalysis=gayri+ADV}{metaMorphemes=gayri} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Bir} {turkish=başka} {turkish=masada} {turkish=gazinocuyu}{morphologicalAnalysis=gazinocu+NOUN+A3SG+PNON+ACC}{metaMorphemes=gazinocu+yH} {turkish=çekiştiriyorlardı} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bir} {turkish=başka} {turkish=masada} {turkish=gazinocuyu}{morphologicalAnalysis=gazinocu+NOUN+A3SG+PNON+ACC}{metaMorphemes=gazinocu+yH} {turkish=çekiştiriyorlardı} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=5$PUNCT}

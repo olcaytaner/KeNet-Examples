@@ -1,1 +1,1 @@
-{turkish=Türkçe} {turkish=dersinden}{morphologicalAnalysis=ders+NOUN+A3SG+P3SG+ABL}{metaMorphemes=ders+sH+nDAn} {turkish=geçer} {turkish=almışım} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Türkçe} {turkish=dersinden}{morphologicalAnalysis=ders+NOUN+A3SG+P3SG+ABL}{metaMorphemes=ders+sH+nDAn} {turkish=geçer} {turkish=almışım} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Gayretkeş}{morphologicalAnalysis=gayretkeş+ADJ}{metaMorphemes=gayretkeş} {turkish=bir} {turkish=polise}{morphologicalAnalysis=polis+NOUN+A3SG+PNON+DAT}{metaMorphemes=polis+yA} {turkish=kızdı} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Gayretkeş}{morphologicalAnalysis=gayretkeş+ADJ}{metaMorphemes=gayretkeş} {turkish=bir} {turkish=polise}{morphologicalAnalysis=polis+NOUN+A3SG+PNON+DAT}{metaMorphemes=polis+yA} {turkish=kızdı} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

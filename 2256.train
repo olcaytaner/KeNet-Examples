@@ -1,1 +1,1 @@
-{turkish=Frigorifik}{morphologicalAnalysis=frigorifik+ADJ}{metaMorphemes=frigorifik} {turkish=vagon}{morphologicalAnalysis=vagon+NOUN+A3SG+PNON+NOM}{metaMorphemes=vagon} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Frigorifik}{morphologicalAnalysis=frigorifik+ADJ}{metaMorphemes=frigorifik}{universalDependency=2$AMOD} {turkish=vagon}{morphologicalAnalysis=vagon+NOUN+A3SG+PNON+NOM}{metaMorphemes=vagon} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

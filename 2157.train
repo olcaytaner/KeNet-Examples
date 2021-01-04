@@ -1,1 +1,1 @@
-{turkish=Sokrates}{morphologicalAnalysis=sokrates+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=sokrates} {turkish=felsefesi}{morphologicalAnalysis=felsefe+NOUN+A3SG+P3SG+NOM}{metaMorphemes=felsefe+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sokrates}{morphologicalAnalysis=sokrates+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=sokrates} {turkish=felsefesi}{morphologicalAnalysis=felsefe+NOUN+A3SG+P3SG+NOM}{metaMorphemes=felsefe+sH}{semantics=TUR10-0267320} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
