@@ -1,1 +1,1 @@
-{turkish=İki}{morphologicalAnalysis=iki+NUM+CARD}{metaMorphemes=iki} {turkish=litrelik}{morphologicalAnalysis=litre+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=litre+lHk} {turkish=şişe} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İki}{morphologicalAnalysis=iki+NUM+CARD}{metaMorphemes=iki}{semantics=TUR10-0364810} {turkish=litrelik}{morphologicalAnalysis=litre+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=litre+lHk}{semantics=TUR10-0512710} {turkish=şişe} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
