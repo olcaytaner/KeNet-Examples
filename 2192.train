@@ -1,1 +1,1 @@
-{turkish=Fırfırlı} {turkish=etek}{morphologicalAnalysis=etek+NOUN+A3SG+PNON+NOM}{metaMorphemes=etek} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Fırfırlı} {turkish=etek}{morphologicalAnalysis=etek+NOUN+A3SG+PNON+NOM}{metaMorphemes=etek}{semantics=TUR10-0257050} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

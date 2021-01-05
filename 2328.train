@@ -1,1 +1,1 @@
-{turkish=Bu} {turkish=karpuz}{morphologicalAnalysis=karpuz+NOUN+A3SG+PNON+NOM}{metaMorphemes=karpuz} {turkish=geçmiş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}
+{turkish=Bu} {turkish=karpuz}{morphologicalAnalysis=karpuz+NOUN+A3SG+PNON+NOM}{metaMorphemes=karpuz}{semantics=TUR10-0422680} {turkish=geçmiş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Genel}{morphologicalAnalysis=genel+ADJ}{metaMorphemes=genel}{universalDependency=2$AMOD} {turkish=başkan}{morphologicalAnalysis=başkan+NOUN+A3SG+PNON+NOM}{metaMorphemes=başkan} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Genel}{morphologicalAnalysis=genel+ADJ}{metaMorphemes=genel}{semantics=TUR10-0291240}{universalDependency=2$AMOD} {turkish=başkan}{morphologicalAnalysis=başkan+NOUN+A3SG+PNON+NOM}{metaMorphemes=başkan} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

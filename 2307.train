@@ -1,1 +1,1 @@
-{turkish=Geçimli} {turkish=insan}{morphologicalAnalysis=insan+NOUN+A3SG+PNON+NOM}{metaMorphemes=insan} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Geçimli} {turkish=insan}{morphologicalAnalysis=insan+NOUN+A3SG+PNON+NOM}{metaMorphemes=insan}{semantics=TUR10-0375940} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

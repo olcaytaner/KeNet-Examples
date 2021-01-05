@@ -1,1 +1,1 @@
-{turkish=Yazının} {turkish=gerisi} {turkish=yarın}{morphologicalAnalysis=yarın+NOUN+A3SG+PNON+NOM}{metaMorphemes=yarın} {turkish=yayımlanacak} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}
+{turkish=Yazının} {turkish=gerisi} {turkish=yarın}{morphologicalAnalysis=yarın+NOUN+A3SG+PNON+NOM}{metaMorphemes=yarın}{semantics=TUR10-0055940} {turkish=yayımlanacak} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}
