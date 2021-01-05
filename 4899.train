@@ -1,1 +1,1 @@
-{turkish=Bütün} {turkish=bir} {turkish=günü}{morphologicalAnalysis=gün+NOUN+A3SG+P3SG+NOM}{metaMorphemes=gün+sH} {turkish=öldürdük} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}
+{turkish=Bütün} {turkish=bir} {turkish=günü}{morphologicalAnalysis=gün+NOUN+A3SG+P3SG+NOM}{metaMorphemes=gün+sH}{semantics=TUR10-0314950} {turkish=öldürdük} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}
