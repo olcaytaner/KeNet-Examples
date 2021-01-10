@@ -1,1 +1,1 @@
-{turkish=Çıkma}{morphologicalAnalysis=çık+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=çık+mA} {turkish=jant}{morphologicalAnalysis=jant+NOUN+A3SG+PNON+NOM}{metaMorphemes=jant} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Çıkma}{morphologicalAnalysis=çık+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=çık+mA}{universalDependency=2$NMOD} {turkish=jant}{morphologicalAnalysis=jant+NOUN+A3SG+PNON+NOM}{metaMorphemes=jant} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

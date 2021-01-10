@@ -1,1 +1,1 @@
-{turkish=Mineral}{morphologicalAnalysis=mineral+ADJ}{metaMorphemes=mineral} {turkish=maddeler}{morphologicalAnalysis=madde+NOUN+A3PL+PNON+NOM}{metaMorphemes=madde+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Mineral}{morphologicalAnalysis=mineral+ADJ}{metaMorphemes=mineral}{universalDependency=2$AMOD} {turkish=maddeler}{morphologicalAnalysis=madde+NOUN+A3PL+PNON+NOM}{metaMorphemes=madde+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

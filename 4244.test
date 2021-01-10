@@ -1,1 +1,1 @@
-{turkish=Saatin}{morphologicalAnalysis=saat+NOUN+A3SG+PNON+GEN}{metaMorphemes=saat+nHn} {turkish=makinesi}{morphologicalAnalysis=makine+NOUN+A3SG+P3SG+NOM}{metaMorphemes=makine+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Saatin}{morphologicalAnalysis=saat+NOUN+A3SG+PNON+GEN}{metaMorphemes=saat+nHn}{universalDependency=2$NMOD} {turkish=makinesi}{morphologicalAnalysis=makine+NOUN+A3SG+P3SG+NOM}{metaMorphemes=makine+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

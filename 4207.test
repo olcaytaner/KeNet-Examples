@@ -1,1 +1,1 @@
-{turkish=Maden}{morphologicalAnalysis=maden+ADJ}{metaMorphemes=maden} {turkish=kap}{morphologicalAnalysis=kap+NOUN+A3SG+PNON+NOM}{metaMorphemes=kap} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Maden}{morphologicalAnalysis=maden+ADJ}{metaMorphemes=maden}{universalDependency=2$AMOD} {turkish=kap}{morphologicalAnalysis=kap+NOUN+A3SG+PNON+NOM}{metaMorphemes=kap} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

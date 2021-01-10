@@ -1,1 +1,1 @@
-{turkish=Cam}{morphologicalAnalysis=cam+NOUN+A3SG+PNON+NOM}{metaMorphemes=cam} {turkish=macunu}{morphologicalAnalysis=macun+NOUN+A3SG+P3SG+NOM}{metaMorphemes=macun+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Cam}{morphologicalAnalysis=cam+NOUN+A3SG+PNON+NOM}{metaMorphemes=cam}{universalDependency=2$NMOD} {turkish=macunu}{morphologicalAnalysis=macun+NOUN+A3SG+P3SG+NOM}{metaMorphemes=macun+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=İnönü}{morphologicalAnalysis=inönü+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=inönü} {turkish=gezisi}{morphologicalAnalysis=gezi+NOUN+A3SG+P3SG+NOM}{metaMorphemes=gezi+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İnönü}{morphologicalAnalysis=inönü+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=inönü}{universalDependency=2$NMOD} {turkish=gezisi}{morphologicalAnalysis=gezi+NOUN+A3SG+P3SG+NOM}{metaMorphemes=gezi+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

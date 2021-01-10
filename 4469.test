@@ -1,1 +1,1 @@
-{turkish=Melodi}{morphologicalAnalysis=melodi+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=melodi} {turkish=motifi}{morphologicalAnalysis=motif+NOUN+A3SG+P3SG+NOM}{metaMorphemes=motif+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Melodi}{morphologicalAnalysis=melodi+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=melodi}{universalDependency=2$NMOD} {turkish=motifi}{morphologicalAnalysis=motif+NOUN+A3SG+P3SG+NOM}{metaMorphemes=motif+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

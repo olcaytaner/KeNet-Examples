@@ -1,1 +1,1 @@
-{turkish=Gaz}{morphologicalAnalysis=gaz+NOUN+A3SG+PNON+NOM}{metaMorphemes=gaz} {turkish=maskesi}{morphologicalAnalysis=maske+NOUN+A3SG+P3SG+NOM}{metaMorphemes=maske+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Gaz}{morphologicalAnalysis=gaz+NOUN+A3SG+PNON+NOM}{metaMorphemes=gaz}{universalDependency=2$NMOD} {turkish=maskesi}{morphologicalAnalysis=maske+NOUN+A3SG+P3SG+NOM}{metaMorphemes=maske+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

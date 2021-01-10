@@ -1,1 +1,1 @@
-{turkish=Mısır}{morphologicalAnalysis=mısır+NOUN+A3SG+PNON+NOM}{metaMorphemes=mısır} {turkish=mollası}{morphologicalAnalysis=molla+NOUN+A3SG+P3SG+NOM}{metaMorphemes=molla+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Mısır}{morphologicalAnalysis=mısır+NOUN+A3SG+PNON+NOM}{metaMorphemes=mısır}{universalDependency=2$NMOD} {turkish=mollası}{morphologicalAnalysis=molla+NOUN+A3SG+P3SG+NOM}{metaMorphemes=molla+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Ayva}{morphologicalAnalysis=ayva+NOUN+A3SG+PNON+NOM}{metaMorphemes=ayva} {turkish=marmeladı}{morphologicalAnalysis=marmelat+NOUN+A3SG+P3SG+NOM}{metaMorphemes=marmelat+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ayva}{morphologicalAnalysis=ayva+NOUN+A3SG+PNON+NOM}{metaMorphemes=ayva}{universalDependency=2$NMOD} {turkish=marmeladı}{morphologicalAnalysis=marmelat+NOUN+A3SG+P3SG+NOM}{metaMorphemes=marmelat+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
