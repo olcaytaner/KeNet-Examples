@@ -1,1 +1,1 @@
-{turkish=Vay}{morphologicalAnalysis=vay+INTERJ}{metaMorphemes=vay} {turkish=başım}{morphologicalAnalysis=baş+NOUN+A3SG+P1SG+NOM}{metaMorphemes=baş+Hm} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{semantics=TUR10-0808050}
+{turkish=Vay}{morphologicalAnalysis=vay+INTERJ}{metaMorphemes=vay}{universalDependency=2$CASE} {turkish=başım}{morphologicalAnalysis=baş+NOUN+A3SG+P1SG+NOM}{metaMorphemes=baş+Hm}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{semantics=TUR10-0808050}{universalDependency=2$PUNCT}

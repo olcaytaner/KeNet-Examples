@@ -1,1 +1,1 @@
-Sezonluk yarış .
+{turkish=Sezonluk}{morphologicalAnalysis=sezon+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=sezon+lHk}{universalDependency=2$AMOD} {turkish=yarış}{morphologicalAnalysis=yarış+NOUN+A3SG+PNON+NOM}{metaMorphemes=yarış}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-Daireden çıkmak .
+{turkish=Daireden}{morphologicalAnalysis=daire+NOUN+A3SG+PNON+ABL}{metaMorphemes=daire+DAn}{universalDependency=2$OBL} {turkish=çıkmak}{morphologicalAnalysis=çık+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=çık+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

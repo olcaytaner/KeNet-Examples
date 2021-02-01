@@ -1,1 +1,1 @@
-Çiçekleri çok sık diktik .
+{turkish=Çiçekleri}{morphologicalAnalysis=çiçek+NOUN+A3PL+P3SG+NOM}{metaMorphemes=çiçek+lAr+sH}{universalDependency=4$OBJ} {turkish=çok}{morphologicalAnalysis=çok+ADV}{metaMorphemes=çok}{universalDependency=3$ADVMOD} {turkish=sık}{morphologicalAnalysis=sık+ADV}{metaMorphemes=sık}{universalDependency=4$ADVMOD} {turkish=diktik}{morphologicalAnalysis=dik+VERB+POS+PAST+A1PL}{metaMorphemes=dik+DH+k}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

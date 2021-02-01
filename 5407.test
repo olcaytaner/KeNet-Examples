@@ -1,1 +1,1 @@
-{turkish=Düğün}{morphologicalAnalysis=düğün+NOUN+A3SG+PNON+NOM}{metaMorphemes=düğün} {turkish=salonu}{morphologicalAnalysis=salon+NOUN+A3SG+P3SG+NOM}{metaMorphemes=salon+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Düğün}{morphologicalAnalysis=düğün+NOUN+A3SG+PNON+NOM}{metaMorphemes=düğün}{universalDependency=2$NMOD} {turkish=salonu}{morphologicalAnalysis=salon+NOUN+A3SG+P3SG+NOM}{metaMorphemes=salon+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

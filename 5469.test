@@ -1,1 +1,1 @@
-Kartallarla leyleklerin savaşı .
+{turkish=Kartallarla}{morphologicalAnalysis=kartallar+NOUN+A3SG+PNON+INS}{metaMorphemes=kartallar+ylA}{universalDependency=2$OBL} {turkish=leyleklerin}{morphologicalAnalysis=leylekler+NOUN+A3SG+PNON+GEN}{metaMorphemes=leylekler+nHn}{universalDependency=3$NMOD} {turkish=savaşı}{morphologicalAnalysis=savaş+NOUN+A3SG+P3SG+NOM}{metaMorphemes=savaş+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

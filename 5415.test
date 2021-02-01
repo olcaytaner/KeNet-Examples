@@ -1,1 +1,1 @@
-{turkish=Artistik}{morphologicalAnalysis=artistik+ADJ}{metaMorphemes=artistik} {turkish=patinaj}{morphologicalAnalysis=patinaj+NOUN+A3SG+PNON+NOM}{metaMorphemes=patinaj} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Artistik}{morphologicalAnalysis=artistik+ADJ}{metaMorphemes=artistik}{universalDependency=2$AMOD} {turkish=patinaj}{morphologicalAnalysis=patinaj+NOUN+A3SG+PNON+NOM}{metaMorphemes=patinaj}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

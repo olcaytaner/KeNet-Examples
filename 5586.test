@@ -1,1 +1,1 @@
-Sıcak bir karşılama .
+{turkish=Sıcak}{morphologicalAnalysis=sıcak+ADJ}{metaMorphemes=sıcak}{universalDependency=3$AMOD} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir}{universalDependency=3$AMOD} {turkish=karşılama}{morphologicalAnalysis=karşıla+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=karşıla+mA}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

@@ -1,1 +1,1 @@
-Çok sonra öğrenecek bunu .
+{turkish=Çok}{morphologicalAnalysis=çok+ADV}{metaMorphemes=çok}{universalDependency=2$ADVMOD} {turkish=sonra}{morphologicalAnalysis=sonra+ADV}{metaMorphemes=sonra}{universalDependency=3$ADVMOD} {turkish=öğrenecek}{morphologicalAnalysis=öğren+VERB+POS+FUT+A3SG}{metaMorphemes=öğren+yAcAk}{universalDependency=0$ROOT} {turkish=bunu}{morphologicalAnalysis=bu+PRON+DEMONSP+A3SG+PNON+ACC}{metaMorphemes=bu+nH}{universalDependency=3$OBJ} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

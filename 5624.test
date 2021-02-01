@@ -1,1 +1,1 @@
-Sıracı elinde kemanla ayağa kalkarak .
+{turkish=Sıracı}{morphologicalAnalysis=sıracı+NOUN+A3SG+PNON+NOM}{metaMorphemes=sıracı} {turkish=elinde}{morphologicalAnalysis=el+NOUN+A3SG+P3SG+LOC}{metaMorphemes=el+sH+nDA} {turkish=kemanla}{morphologicalAnalysis=keman+NOUN+A3SG+PNON+INS}{metaMorphemes=keman+ylA} {turkish=ayağa}{morphologicalAnalysis=ayak+NOUN+A3SG+PNON+DAT}{metaMorphemes=ayak+yA} {turkish=kalkarak}{morphologicalAnalysis=kalk+VERB+POS^DB+ADV+BYDOINGSO}{metaMorphemes=kalk+yArAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

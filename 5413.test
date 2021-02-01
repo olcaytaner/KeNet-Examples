@@ -1,1 +1,1 @@
-{turkish=Askerlik}{morphologicalAnalysis=asker+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=asker+lHk} {turkish=sanatı}{morphologicalAnalysis=sanat+NOUN+A3SG+P3SG+NOM}{metaMorphemes=sanat+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Askerlik}{morphologicalAnalysis=askerlik+NOUN+A3SG+PNON+NOM}{metaMorphemes=askerlik}{universalDependency=2$NMOD} {turkish=sanatı}{morphologicalAnalysis=sanat+NOUN+A3SG+P3SG+NOM}{metaMorphemes=sanat+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Saçak}{morphologicalAnalysis=saçak+NOUN+A3SG+PNON+NOM}{metaMorphemes=saçak} {turkish=sayvanı}{morphologicalAnalysis=sayvan+NOUN+A3SG+P3SG+NOM}{metaMorphemes=sayvan+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Saçak}{morphologicalAnalysis=saçak+NOUN+A3SG+PNON+NOM}{metaMorphemes=saçak}{universalDependency=2$NMOD} {turkish=sayvanı}{morphologicalAnalysis=sayvan+NOUN+A3SG+P3SG+NOM}{metaMorphemes=sayvan+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

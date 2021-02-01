@@ -1,1 +1,1 @@
-Paradan çıkmak .
+{turkish=Paradan}{morphologicalAnalysis=para+NOUN+A3SG+PNON+ABL}{metaMorphemes=para+DAn}{universalDependency=2$COMPOUND} {turkish=çıkmak}{morphologicalAnalysis=çık+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=çık+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

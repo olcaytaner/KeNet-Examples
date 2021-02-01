@@ -1,1 +1,1 @@
-Sarnıcın suyunu savurmak .
+{turkish=Sarnıcın}{morphologicalAnalysis=sarnıç+NOUN+A3SG+PNON+GEN}{metaMorphemes=sarnıç+nHn}{universalDependency=2$NMOD} {turkish=suyunu}{morphologicalAnalysis=su+NOUN+A3SG+P2SG+ACC}{metaMorphemes=su+Hn+yH}{universalDependency=3$OBJ} {turkish=savurmak}{morphologicalAnalysis=savur+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=savur+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

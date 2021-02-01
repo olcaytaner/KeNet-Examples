@@ -1,1 +1,1 @@
-Arkadaşa piyango çıkmış .
+{turkish=Arkadaşa}{morphologicalAnalysis=arkadaş+NOUN+A3SG+PNON+DAT}{metaMorphemes=arkadaş+yA}{universalDependency=3$OBL} {turkish=piyango}{morphologicalAnalysis=piyango+NOUN+A3SG+PNON+NOM}{metaMorphemes=piyango}{universalDependency=3$NSUBJ} {turkish=çıkmış}{morphologicalAnalysis=çık+VERB+POS+NARR+A3SG}{metaMorphemes=çık+mHs}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

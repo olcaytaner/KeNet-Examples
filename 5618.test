@@ -1,1 +1,1 @@
-Düşman ordusunu bozmak .
+{turkish=Düşman}{morphologicalAnalysis=düşman+NOUN+A3SG+PNON+NOM}{metaMorphemes=düşman}{universalDependency=2$NMOD} {turkish=ordusunu}{morphologicalAnalysis=ordu+NOUN+A3SG+P3SG+ACC}{metaMorphemes=ordu+sH+nH}{universalDependency=3$OBJ} {turkish=bozmak}{morphologicalAnalysis=boz+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=boz+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

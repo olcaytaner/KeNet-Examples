@@ -1,1 +1,1 @@
-Fotoğraf çekmek .
+{turkish=Fotoğraf}{morphologicalAnalysis=fotoğraf+NOUN+A3SG+PNON+NOM}{metaMorphemes=fotoğraf}{universalDependency=2$OBJ} {turkish=çekmek}{morphologicalAnalysis=çek+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=çek+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

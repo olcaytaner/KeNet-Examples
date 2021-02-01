@@ -1,1 +1,1 @@
-Bir sap tire .
+{turkish=Bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir}{universalDependency=2$AMOD} {turkish=sap}{morphologicalAnalysis=sap+NOUN+A3SG+PNON+NOM}{metaMorphemes=sap}{universalDependency=3$AMOD} {turkish=tire}{morphologicalAnalysis=tire+NOUN+A3SG+PNON+NOM}{metaMorphemes=tire}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

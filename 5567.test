@@ -1,1 +1,1 @@
-Bu sabrın ecri büyüktür .
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu}{universalDependency=2$DET} {turkish=sabrın}{morphologicalAnalysis=sabır+NOUN+A3SG+PNON+GEN}{metaMorphemes=sabır+nHn}{universalDependency=3$NMOD} {turkish=ecri}{morphologicalAnalysis=ecir+NOUN+A3SG+P3SG+NOM}{metaMorphemes=ecir+sH}{universalDependency=4$NSUBJ} {turkish=büyüktür}{morphologicalAnalysis=büyük+ADJ^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=büyük+DHr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

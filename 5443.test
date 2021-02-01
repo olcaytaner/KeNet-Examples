@@ -1,1 +1,1 @@
-Zafer sarhoşu .
+{turkish=Zafer}{morphologicalAnalysis=zafer+NOUN+A3SG+PNON+NOM}{metaMorphemes=zafer}{universalDependency=2$NMOD} {turkish=sarhoşu}{morphologicalAnalysis=sarhoş+ADJ^DB+NOUN+ZERO+A3SG+P3SG+NOM}{metaMorphemes=sarhoş+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

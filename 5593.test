@@ -1,1 +1,1 @@
-Hesabı sıfırladım babacım .
+{turkish=Hesabı}{morphologicalAnalysis=hesap+NOUN+A3SG+P3SG+NOM}{metaMorphemes=hesap+sH}{universalDependency=2$OBJ} {turkish=sıfırladım}{morphologicalAnalysis=sıfırla+VERB+POS+PAST+A1SG}{metaMorphemes=sıfırla+DH+m}{universalDependency=0$ROOT} {turkish=babacım}{morphologicalAnalysis=babacı+NOUN+A3SG+P1SG+NOM}{metaMorphemes=babacı+Hm}{universalDependency=2$DISCOURSE} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

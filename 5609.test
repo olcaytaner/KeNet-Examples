@@ -1,1 +1,1 @@
-Limon sıkmak .
+{turkish=Limon}{morphologicalAnalysis=limon+NOUN+A3SG+PNON+NOM}{metaMorphemes=limon}{universalDependency=2$OBJ} {turkish=sıkmak}{morphologicalAnalysis=sık+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=sık+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

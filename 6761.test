@@ -1,1 +1,1 @@
-{turkish=Benim}{universalDependency=3$AUX} {turkish=adım} {turkish=dertli} {turkish=dolap} {turkish=/} {turkish=Suyum}{universalDependency=8$COMPOUND} {turkish=akar} {turkish=yalap} {turkish=yalap}
+{turkish=Benim}{universalDependency=3$AUX} {turkish=adım} {turkish=dertli}{universalDependency=4$AMOD} {turkish=dolap} {turkish=/} {turkish=Suyum}{universalDependency=8$COMPOUND} {turkish=akar} {turkish=yalap}{universalDependency=9$COMPOUND} {turkish=yalap}{universalDependency=7$ADVMOD}
