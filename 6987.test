@@ -1,1 +1,1 @@
-{turkish=Ölü}{morphologicalAnalysis=ölü+ADJ}{metaMorphemes=ölü} {turkish=yıkayıcısı}{morphologicalAnalysis=yıka+VERB+POS^DB+ADJ+AGT^DB+ADJ+JUSTLIKE}{metaMorphemes=yıka+yHcH+SH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ölü}{morphologicalAnalysis=ölü+ADJ}{metaMorphemes=ölü}{universalDependency=2$NMOD} {turkish=yıkayıcısı}{morphologicalAnalysis=yıka+VERB+POS^DB+ADJ+AGT^DB+ADJ+JUSTLIKE}{metaMorphemes=yıka+yHcH+SH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

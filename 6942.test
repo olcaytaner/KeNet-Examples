@@ -1,1 +1,1 @@
-{turkish=Yemlik}{morphologicalAnalysis=yem+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=yem+lHk} {turkish=ot}{morphologicalAnalysis=ot+NOUN+A3SG+PNON+NOM}{metaMorphemes=ot} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yemlik}{morphologicalAnalysis=yem+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=yem+lHk}{universalDependency=2$AMOD} {turkish=ot}{morphologicalAnalysis=ot+NOUN+A3SG+PNON+NOM}{metaMorphemes=ot}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
