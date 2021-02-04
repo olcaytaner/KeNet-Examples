@@ -1,1 +1,1 @@
-Leblebiden nem kapar .
+{turkish=Leblebiden}{morphologicalAnalysis=leblebi+NOUN+A3SG+PNON+ABL}{metaMorphemes=leblebi+DAn}{universalDependency=3$COMPOUND} {turkish=nem}{morphologicalAnalysis=nem+NOUN+A3SG+PNON+NOM}{metaMorphemes=nem}{universalDependency=3$COMPOUND} {turkish=kapar}{morphologicalAnalysis=kap+VERB+POS+AOR+A3SG}{metaMorphemes=kap+Ar}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}
