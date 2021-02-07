@@ -1,1 +1,1 @@
-{turkish=Kıydınız}{morphologicalAnalysis=kıy+VERB+POS+PAST+A2PL}{metaMorphemes=kıy+DH+nHz} {turkish=yavrucağa}{morphologicalAnalysis=yavrucak+NOUN+A3SG+PNON+DAT}{metaMorphemes=yavrucak+yA} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kıydınız}{morphologicalAnalysis=kıy+VERB+POS+PAST+A2PL}{metaMorphemes=kıy+DH+nHz}{universalDependency=0$ROOT} {turkish=yavrucağa}{morphologicalAnalysis=yavrucak+NOUN+A3SG+PNON+DAT}{metaMorphemes=yavrucak+yA}{universalDependency=1$OBL} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=1$PUNCT}
