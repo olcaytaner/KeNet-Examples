@@ -1,1 +1,1 @@
-{turkish=Biraz}{morphologicalAnalysis=biraz+ADV}{metaMorphemes=biraz} {turkish=abdalımsıyım}{morphologicalAnalysis=abdalımsı+ADJ^DB+VERB+ZERO+PRES+A1SG}{metaMorphemes=abdalımsı+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Biraz}{morphologicalAnalysis=biraz+ADV}{metaMorphemes=biraz}{universalDependency=2$ADVMOD} {turkish=abdalımsıyım}{morphologicalAnalysis=abdalımsı+ADJ^DB+VERB+ZERO+PRES+A1SG}{metaMorphemes=abdalımsı+yHm}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

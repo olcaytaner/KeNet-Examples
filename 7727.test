@@ -1,1 +1,1 @@
-{turkish=Akılsızca}{morphologicalAnalysis=akılsızca+ADJ}{metaMorphemes=akılsızca} {turkish=bir}{morphologicalAnalysis=bir+ADJ}{metaMorphemes=bir} {turkish=davranış}{morphologicalAnalysis=davranış+NOUN+A3SG+PNON+NOM}{metaMorphemes=davranış}
+{turkish=Akılsızca}{morphologicalAnalysis=akılsızca+ADJ}{metaMorphemes=akılsızca}{universalDependency=3$AMOD} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir}{universalDependency=3$DET} {turkish=davranış}{morphologicalAnalysis=davranış+NOUN+A3SG+PNON+NOM}{metaMorphemes=davranış}{universalDependency=0$ROOT}
