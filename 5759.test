@@ -1,1 +1,1 @@
-Saplandığı fikirlerden sökemezdiniz .
+{turkish=Saplandığı}{morphologicalAnalysis=saplan+VERB+POS^DB+ADJ+PASTPART+P3SG}{metaMorphemes=saplan+DHk+sH}{universalDependency=2$ACL} {turkish=fikirlerden}{morphologicalAnalysis=fikir+NOUN+A3PL+PNON+ABL}{metaMorphemes=fikir+lAr+DAn}{universalDependency=3$OBL} {turkish=sökemezdiniz}{morphologicalAnalysis=sök+VERB^DB+VERB+ABLE+NEG+AOR+A3SG+PAST+A2PL}{metaMorphemes=sök+yAmA+z+yDH+nHz}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

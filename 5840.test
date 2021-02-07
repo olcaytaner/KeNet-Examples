@@ -1,1 +1,1 @@
-{turkish=Elektrik}{morphologicalAnalysis=elektrik+NOUN+A3SG+PNON+NOM}{metaMorphemes=elektrik} {turkish=abonmanı}{morphologicalAnalysis=abonman+NOUN+A3SG+P3SG+NOM}{metaMorphemes=abonman+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Elektrik}{morphologicalAnalysis=elektrik+NOUN+A3SG+PNON+NOM}{metaMorphemes=elektrik}{universalDependency=2$NMOD} {turkish=abonmanı}{morphologicalAnalysis=abonman+NOUN+A3SG+P3SG+NOM}{metaMorphemes=abonman+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

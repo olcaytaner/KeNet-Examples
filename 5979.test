@@ -1,1 +1,1 @@
-Şöylece bir etrafıma baktım .
+{turkish=Şöylece}{morphologicalAnalysis=şöylece+ADV}{metaMorphemes=şöylece}{universalDependency=4$ADVMOD} {turkish=bir}{morphologicalAnalysis=bir+ADV}{metaMorphemes=bir}{universalDependency=4$ADVMOD} {turkish=etrafıma}{morphologicalAnalysis=etraf+NOUN+A3SG+P1SG+DAT}{metaMorphemes=etraf+Hm+yA}{universalDependency=4$OBL} {turkish=baktım}{morphologicalAnalysis=bak+VERB+POS+PAST+A1SG}{metaMorphemes=bak+DH+m}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

@@ -1,1 +1,1 @@
-Alışveriş sıvırya gidiyor .
+{turkish=Alışveriş}{morphologicalAnalysis=alışveriş+NOUN+A3SG+PNON+NOM}{metaMorphemes=alışveriş}{universalDependency=3$NSUBJ} {turkish=sıvırya}{morphologicalAnalysis=sıvırya+ADV}{metaMorphemes=sıvırya}{universalDependency=3$ADVMOD} {turkish=gidiyor}{morphologicalAnalysis=git+VERB+POS+PROG1+A3SG}{metaMorphemes=git+Hyor}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

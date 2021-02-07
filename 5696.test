@@ -1,1 +1,1 @@
-Sivil savunma .
+{turkish=Sivil}{morphologicalAnalysis=sivil+ADJ}{metaMorphemes=sivil}{universalDependency=2$AMOD} {turkish=savunma}{morphologicalAnalysis=savun+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=savun+mA}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

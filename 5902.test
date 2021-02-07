@@ -1,1 +1,1 @@
-{turkish=Şartlı}{morphologicalAnalysis=şart+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=şart+lH} {turkish=kafalar}{morphologicalAnalysis=kafa+NOUN+A3PL+PNON+NOM}{metaMorphemes=kafa+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Şartlı}{morphologicalAnalysis=şart+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=şart+lH}{universalDependency=2$AMOD} {turkish=kafalar}{morphologicalAnalysis=kafa+NOUN+A3PL+PNON+NOM}{metaMorphemes=kafa+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

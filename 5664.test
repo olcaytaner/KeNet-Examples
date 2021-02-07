@@ -1,1 +1,1 @@
-Bu sayfada silintiler var .
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu}{universalDependency=2$DET} {turkish=sayfada}{morphologicalAnalysis=sayfa+NOUN+A3SG+PNON+LOC}{metaMorphemes=sayfa+DA}{universalDependency=4$OBL} {turkish=silintiler}{morphologicalAnalysis=silinti+NOUN+A3PL+PNON+NOM}{metaMorphemes=silinti+lAr}{universalDependency=4$NSUBJ} {turkish=var}{morphologicalAnalysis=var+ADJ}{metaMorphemes=var}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

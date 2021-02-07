@@ -1,1 +1,1 @@
-Şuraya oturmuştu .
+{turkish=Şuraya}{morphologicalAnalysis=şura+NOUN+A3SG+PNON+DAT}{metaMorphemes=şura+yA}{universalDependency=2$OBL} {turkish=oturmuştu}{morphologicalAnalysis=oturmuş+ADJ^DB+VERB+ZERO+PAST+A3SG}{metaMorphemes=oturmuş+yDH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Süse}{morphologicalAnalysis=süs+NOUN+A3SG+PNON+DAT}{metaMorphemes=süs+yA} {turkish=düşkün}{morphologicalAnalysis=düşkün+ADJ}{metaMorphemes=düşkün} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Süse}{morphologicalAnalysis=süs+NOUN+A3SG+PNON+DAT}{metaMorphemes=süs+yA}{universalDependency=2$OBL} {turkish=düşkün}{morphologicalAnalysis=düşkün+ADJ}{metaMorphemes=düşkün}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

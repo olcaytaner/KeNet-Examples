@@ -1,1 +1,1 @@
-{turkish=Bıçağın}{morphologicalAnalysis=bıçak+NOUN+A3SG+PNON+GEN}{metaMorphemes=bıçak+nHn} {turkish=sırtı}{morphologicalAnalysis=sırt+NOUN+A3SG+P3SG+NOM}{metaMorphemes=sırt+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bıçağın}{morphologicalAnalysis=bıçak+NOUN+A3SG+PNON+GEN}{metaMorphemes=bıçak+nHn}{universalDependency=2$NMOD} {turkish=sırtı}{morphologicalAnalysis=sırt+NOUN+A3SG+P3SG+NOM}{metaMorphemes=sırt+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

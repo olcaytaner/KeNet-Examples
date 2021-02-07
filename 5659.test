@@ -1,1 +1,1 @@
-Sigortalı işçi .
+{turkish=Sigortalı}{morphologicalAnalysis=sigorta+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=sigorta+lH}{universalDependency=2$AMOD} {turkish=işçi}{morphologicalAnalysis=işçi+NOUN+A3SG+PNON+NOM}{metaMorphemes=işçi}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

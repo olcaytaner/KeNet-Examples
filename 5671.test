@@ -1,1 +1,1 @@
-Takımı sahadan silmek .
+{turkish=Takımı}{morphologicalAnalysis=takım+NOUN+A3SG+P3SG+NOM}{metaMorphemes=takım+sH}{universalDependency=3$OBJ} {turkish=sahadan}{morphologicalAnalysis=saha+NOUN+A3SG+PNON+ABL}{metaMorphemes=saha+DAn}{universalDependency=3$OBL} {turkish=silmek}{morphologicalAnalysis=sil+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=sil+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Çakının}{morphologicalAnalysis=çakı+NOUN+A3SG+PNON+GEN}{metaMorphemes=çakı+nHn} {turkish=sustası}{morphologicalAnalysis=susta+NOUN+A3SG+P3SG+NOM}{metaMorphemes=susta+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Çakının}{morphologicalAnalysis=çakı+NOUN+A3SG+PNON+GEN}{metaMorphemes=çakı+nHn}{universalDependency=2$NMOD} {turkish=sustası}{morphologicalAnalysis=susta+NOUN+A3SG+P3SG+NOM}{metaMorphemes=susta+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-Çocuk balonu söndürdü .
+{turkish=Çocuk}{morphologicalAnalysis=çocuk+NOUN+A3SG+PNON+NOM}{metaMorphemes=çocuk}{universalDependency=3$NSUBJ} {turkish=balonu}{morphologicalAnalysis=balon+NOUN+A3SG+P3SG+NOM}{metaMorphemes=balon+sH}{universalDependency=3$OBJ} {turkish=söndürdü}{morphologicalAnalysis=söndür+VERB+POS+PAST+A3SG}{metaMorphemes=söndür+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

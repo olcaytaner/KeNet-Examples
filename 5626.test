@@ -1,1 +1,1 @@
-{turkish=Sıralı}{morphologicalAnalysis=sıralı+ADJ}{metaMorphemes=sıralı} {turkish=konuşma}{morphologicalAnalysis=konuş+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=konuş+mA} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sıralı}{morphologicalAnalysis=sıralı+ADJ}{metaMorphemes=sıralı}{universalDependency=2$AMOD} {turkish=konuşma}{morphologicalAnalysis=konuş+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=konuş+mA}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

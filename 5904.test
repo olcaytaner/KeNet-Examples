@@ -1,1 +1,1 @@
-{turkish=Şaşı}{morphologicalAnalysis=şaşı+ADJ}{metaMorphemes=şaşı} {turkish=bakmak}{morphologicalAnalysis=bak+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=bak+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Şaşı}{morphologicalAnalysis=şaşı+ADJ}{metaMorphemes=şaşı}{universalDependency=2$ADVMOD} {turkish=bakmak}{morphologicalAnalysis=bak+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=bak+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

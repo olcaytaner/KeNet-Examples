@@ -1,1 +1,1 @@
-Bu konuşmayı artık sonuçlayalım .
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu}{universalDependency=2$DET} {turkish=konuşmayı}{morphologicalAnalysis=konuş+VERB+POS^DB+NOUN+INF2+A3SG+PNON+ACC}{metaMorphemes=konuş+mA+yH}{universalDependency=4$OBJ} {turkish=artık}{morphologicalAnalysis=artık+ADV}{metaMorphemes=artık}{universalDependency=4$ADVMOD} {turkish=sonuçlayalım}{morphologicalAnalysis=sonuçla+VERB+POS+OPT+A1PL}{metaMorphemes=sonuçla+yA+lHm}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

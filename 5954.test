@@ -1,1 +1,1 @@
-{turkish=Şıralı}{morphologicalAnalysis=şıralı+ADJ}{metaMorphemes=şıralı} {turkish=üzüm}{morphologicalAnalysis=üzüm+NOUN+A3SG+PNON+NOM}{metaMorphemes=üzüm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Şıralı}{morphologicalAnalysis=şıralı+ADJ}{metaMorphemes=şıralı}{universalDependency=2$AMOD} {turkish=üzüm}{morphologicalAnalysis=üzüm+NOUN+A3SG+PNON+NOM}{metaMorphemes=üzüm}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-Ankara sofu .
+{turkish=Ankara}{morphologicalAnalysis=ankara+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=ankara}{universalDependency=2$AMOD} {turkish=sofu}{morphologicalAnalysis=sofu+ADJ}{metaMorphemes=sofu}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

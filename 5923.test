@@ -1,1 +1,1 @@
-{turkish=Şekerlik}{morphologicalAnalysis=şeker+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=şeker+lHk} {turkish=pancar}{morphologicalAnalysis=pancar+NOUN+A3SG+PNON+NOM}{metaMorphemes=pancar} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Şekerlik}{morphologicalAnalysis=şeker+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=şeker+lHk}{universalDependency=2$AMOD} {turkish=pancar}{morphologicalAnalysis=pancar+NOUN+A3SG+PNON+NOM}{metaMorphemes=pancar} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Yönetim}{morphologicalAnalysis=yönetim+NOUN+A3SG+PNON+NOM}{metaMorphemes=yönetim} {turkish=şekli}{morphologicalAnalysis=şekil+NOUN+A3SG+P3SG+NOM}{metaMorphemes=şekil+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yönetim}{morphologicalAnalysis=yönetim+NOUN+A3SG+PNON+NOM}{metaMorphemes=yönetim}{universalDependency=2$NMOD} {turkish=şekli}{morphologicalAnalysis=şekil+NOUN+A3SG+P3SG+NOM}{metaMorphemes=şekil+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

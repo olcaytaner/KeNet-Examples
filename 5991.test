@@ -1,1 +1,1 @@
-Tozu yaymak .
+{turkish=Tozu}{morphologicalAnalysis=tozu+VERB+POS+IMP+A2SG}{metaMorphemes=tozu}{universalDependency=2$OBJ} {turkish=yaymak}{morphologicalAnalysis=yay+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=yay+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
