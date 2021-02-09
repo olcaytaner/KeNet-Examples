@@ -1,1 +1,1 @@
-Birçok söz daha söylemişti .
+{turkish=Birçok}{morphologicalAnalysis=birçok+DET}{metaMorphemes=birçok}{universalDependency=2$DET} {turkish=söz}{morphologicalAnalysis=söz+NOUN+A3SG+PNON+NOM}{metaMorphemes=söz}{universalDependency=4$OBJ} {turkish=daha}{morphologicalAnalysis=daha+ADV}{metaMorphemes=daha}{universalDependency=2$ADVMOD} {turkish=söylemişti}{morphologicalAnalysis=söyle+VERB+POS+NARR+PAST+A3SG}{metaMorphemes=söyle+mHs+yDH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}
