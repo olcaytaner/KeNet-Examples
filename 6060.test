@@ -1,1 +1,1 @@
-Tanıdıklar vasıtasıyla işini hallediyordu
+{turkish=Tanıdıklar}{morphologicalAnalysis=tanıdık+ADJ^DB+NOUN+ZERO+A3PL+PNON+NOM}{metaMorphemes=tanıdık+lAr}{universalDependency=2$NMOD} {turkish=vasıtasıyla}{morphologicalAnalysis=vasıtasıyla+ADV}{metaMorphemes=vasıtasıyla}{universalDependency=4$OBL} {turkish=işini}{morphologicalAnalysis=iş+NOUN+A3SG+P3SG+ACC}{metaMorphemes=iş+sH+nH}{universalDependency=4$OBJ} {turkish=hallediyordu}{morphologicalAnalysis=hallet+VERB+POS+PROG1+PAST+A3SG}{metaMorphemes=hallet+Hyor+yDH}{universalDependency=0$ROOT}

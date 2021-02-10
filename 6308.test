@@ -1,1 +1,1 @@
-{turkish=Asker}{morphologicalAnalysis=asker+NOUN+A3SG+PNON+NOM}{metaMorphemes=asker} {turkish=tıraşı}{morphologicalAnalysis=tıraş+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tıraş+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Asker}{morphologicalAnalysis=asker+NOUN+A3SG+PNON+NOM}{metaMorphemes=asker}{universalDependency=2$COMPOUND} {turkish=tıraşı}{morphologicalAnalysis=tıraş+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tıraş+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Telsi}{morphologicalAnalysis=telsi+ADJ}{metaMorphemes=telsi} {turkish=kas}{morphologicalAnalysis=kas+NOUN+A3SG+PNON+NOM}{metaMorphemes=kas} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Telsi}{morphologicalAnalysis=telsi+ADJ}{metaMorphemes=telsi}{universalDependency=2$AMOD} {turkish=kas}{morphologicalAnalysis=kas+NOUN+A3SG+PNON+NOM}{metaMorphemes=kas}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

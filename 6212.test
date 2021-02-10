@@ -1,1 +1,1 @@
-{turkish=Temiz}{morphologicalAnalysis=temiz+ADJ}{metaMorphemes=temiz} {turkish=giyinmek}{morphologicalAnalysis=giy+VERB+REFLEX+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=giy+Hn+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Temiz}{morphologicalAnalysis=temiz+ADJ}{metaMorphemes=temiz}{universalDependency=2$ADVMOD} {turkish=giyinmek}{morphologicalAnalysis=giy+VERB+REFLEX+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=giy+Hn+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

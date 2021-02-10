@@ -1,1 +1,1 @@
-Taşlı yüzük .
+{turkish=Taşlı}{morphologicalAnalysis=taşlı+ADJ}{metaMorphemes=taşlı}{universalDependency=2$AMOD} {turkish=yüzük}{morphologicalAnalysis=yüzük+NOUN+A3SG+PNON+NOM}{metaMorphemes=yüzük}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

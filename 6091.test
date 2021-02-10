@@ -1,1 +1,1 @@
-İstiridye tarlası .
+{turkish=İstiridye}{morphologicalAnalysis=istiridye+NOUN+A3SG+PNON+NOM}{metaMorphemes=istiridye}{universalDependency=2$NMOD} {turkish=tarlası}{morphologicalAnalysis=tarla+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tarla+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

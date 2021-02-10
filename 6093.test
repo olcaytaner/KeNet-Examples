@@ -1,1 +1,1 @@
-Tartılı bir davranış .
+{turkish=Tartılı}{morphologicalAnalysis=tartılı+ADJ}{metaMorphemes=tartılı}{universalDependency=3$AMOD} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir}{universalDependency=3$DET} {turkish=davranış}{morphologicalAnalysis=davranış+NOUN+A3SG+PNON+NOM}{metaMorphemes=davranış}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

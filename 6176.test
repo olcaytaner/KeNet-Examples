@@ -1,1 +1,1 @@
-{turkish=Araba}{morphologicalAnalysis=araba+NOUN+A3SG+PNON+NOM}{metaMorphemes=araba} {turkish=tekeri}{morphologicalAnalysis=teker+NOUN+A3SG+P3SG+NOM}{metaMorphemes=teker+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Araba}{morphologicalAnalysis=araba+NOUN+A3SG+PNON+NOM}{metaMorphemes=araba}{universalDependency=2$NMOD} {turkish=tekeri}{morphologicalAnalysis=teker+NOUN+A3SG+P3SG+NOM}{metaMorphemes=teker+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

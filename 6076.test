@@ -1,1 +1,1 @@
-Karşı tarafın adamları .
+{turkish=Karşı}{morphologicalAnalysis=karşı+ADJ}{metaMorphemes=karşı}{universalDependency=2$AMOD} {turkish=tarafın}{morphologicalAnalysis=taraf+NOUN+A3SG+PNON+GEN}{metaMorphemes=taraf+nHn}{universalDependency=3$NMOD} {turkish=adamları}{morphologicalAnalysis=adam+NOUN+A3PL+P3SG+NOM}{metaMorphemes=adam+lAr+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

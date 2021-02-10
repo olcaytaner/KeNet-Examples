@@ -1,1 +1,1 @@
-Çadır direği tablası .
+{turkish=Çadır}{morphologicalAnalysis=çadır+NOUN+A3SG+PNON+NOM}{metaMorphemes=çadır}{universalDependency=2$NMOD} {turkish=direği}{morphologicalAnalysis=direk+NOUN+A3SG+PNON+ACC}{metaMorphemes=direk+yH}{universalDependency=3$NMOD} {turkish=tablası}{morphologicalAnalysis=tabla+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tabla+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

@@ -1,1 +1,1 @@
-Ten rengi çorap .
+{turkish=Ten}{morphologicalAnalysis=ten+NOUN+A3SG+PNON+NOM}{metaMorphemes=ten}{universalDependency=2$NMOD} {turkish=rengi}{morphologicalAnalysis=renk+NOUN+A3SG+P3SG+NOM}{metaMorphemes=renk+sH}{universalDependency=3$AMOD} {turkish=çorap}{morphologicalAnalysis=çorap+NOUN+A3SG+PNON+NOM}{metaMorphemes=çorap}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

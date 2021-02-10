@@ -1,1 +1,1 @@
-Anıtkabir'in ışıklandırma düzeni .
+{turkish=Anıtkabir'in}{morphologicalAnalysis=anıtkabir+NOUN+PROP+A3SG+PNON+GEN}{metaMorphemes=anıtkabir+'nHn}{universalDependency=3$NMOD} {turkish=ışıklandırma}{morphologicalAnalysis=ışıklandırma+NOUN+A3SG+PNON+NOM}{metaMorphemes=ışıklandırma}{universalDependency=3$NMOD} {turkish=düzeni}{morphologicalAnalysis=düzen+NOUN+A3SG+P3SG+NOM}{metaMorphemes=düzen+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

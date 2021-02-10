@@ -1,1 +1,1 @@
-Doğru haber .
+{turkish=Doğru}{morphologicalAnalysis=doğru+ADJ}{metaMorphemes=doğru}{universalDependency=2$AMOD} {turkish=haber}{morphologicalAnalysis=haber+NOUN+A3SG+PNON+NOM}{metaMorphemes=haber}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

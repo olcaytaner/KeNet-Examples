@@ -1,1 +1,1 @@
-{turkish=Balık}{morphologicalAnalysis=balık+NOUN+A3SG+PNON+NOM}{metaMorphemes=balık} {turkish=tavası}{morphologicalAnalysis=tava+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tava+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Balık}{morphologicalAnalysis=balık+NOUN+A3SG+PNON+NOM}{metaMorphemes=balık}{universalDependency=2$NMOD} {turkish=tavası}{morphologicalAnalysis=tava+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tava+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-Kireç taşı .
+{turkish=Kireç}{morphologicalAnalysis=kireç+NOUN+A3SG+PNON+NOM}{metaMorphemes=kireç}{universalDependency=2$NMOD} {turkish=taşı}{morphologicalAnalysis=taş+NOUN+A3SG+P3SG+NOM}{metaMorphemes=taş+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
