@@ -1,1 +1,1 @@
-Güneş doğarken yola düzüldük .
+{turkish=Güneş}{morphologicalAnalysis=güneş+NOUN+A3SG+PNON+NOM}{metaMorphemes=güneş} {turkish=doğarken}{morphologicalAnalysis=doğ+VERB+POS+AOR^DB+ADV+WHILE}{metaMorphemes=doğ+Ar+yken} {turkish=yola}{morphologicalAnalysis=yol+NOUN+A3SG+PNON+DAT}{metaMorphemes=yol+yA} {turkish=düzüldük}{morphologicalAnalysis=düz+VERB^DB+VERB+PASS+POS+PAST+A1PL}{metaMorphemes=düz+Hl+DH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

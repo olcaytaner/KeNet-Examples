@@ -1,1 +1,1 @@
-Saat dörtte Vedat'ı yolcu etmiştik .
+{turkish=Saat}{morphologicalAnalysis=saat+NOUN+A3SG+PNON+NOM}{metaMorphemes=saat} {turkish=dörtte}{morphologicalAnalysis=dört+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC}{metaMorphemes=dört+DA} {turkish=Vedat'ı}{morphologicalAnalysis=vedat+NOUN+PROP+A3SG+PNON+ACC}{metaMorphemes=vedat+'yH} {turkish=yolcu}{morphologicalAnalysis=yolcu+NOUN+A3SG+PNON+NOM}{metaMorphemes=yolcu} {turkish=etmiştik}{morphologicalAnalysis=et+VERB+POS+NARR+PAST+A1PL}{metaMorphemes=et+mHs+yDH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
