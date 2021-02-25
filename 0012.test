@@ -1,1 +1,1 @@
-{turkish=PTT}{morphologicalAnalysis=ptt+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=ptt} {turkish=acenteliği}{morphologicalAnalysis=acentelik+NOUN+A3SG+P3SG+NOM}{metaMorphemes=acentelik+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=PTT}{morphologicalAnalysis=ptt+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=ptt}{universalDependency=2$NMOD} {turkish=acenteliği}{morphologicalAnalysis=acentelik+NOUN+A3SG+P3SG+NOM}{metaMorphemes=acentelik+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

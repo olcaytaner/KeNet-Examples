@@ -1,1 +1,1 @@
-{turkish=Vasıtalı}{morphologicalAnalysis=vasıtalı+ADJ}{metaMorphemes=vasıtalı} {turkish=vergi}{morphologicalAnalysis=vergi+NOUN+A3SG+PNON+NOM}{metaMorphemes=vergi} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Vasıtalı}{morphologicalAnalysis=vasıtalı+ADJ}{metaMorphemes=vasıtalı}{universalDependency=2$AMOD} {turkish=vergi}{morphologicalAnalysis=vergi+NOUN+A3SG+PNON+NOM}{metaMorphemes=vergi}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
