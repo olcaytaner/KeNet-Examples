@@ -1,1 +1,1 @@
-{turkish=Üçüncü}{morphologicalAnalysis=üçüncü+NUM+ORD}{metaMorphemes=üçüncü} {turkish=yol}{morphologicalAnalysis=yol+NOUN+A3SG+PNON+NOM}{metaMorphemes=yol} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Üçüncü}{morphologicalAnalysis=üçüncü+NUM+ORD}{metaMorphemes=üçüncü}{universalDependency=2$NUMMOD} {turkish=yol}{morphologicalAnalysis=yol+NOUN+A3SG+PNON+NOM}{metaMorphemes=yol}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

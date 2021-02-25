@@ -1,1 +1,1 @@
-{turkish=Acul}{morphologicalAnalysis=acul+ADJ}{metaMorphemes=acul} {turkish=bir}{morphologicalAnalysis=bir+NUM+CARD}{metaMorphemes=bir} {turkish=adam}{morphologicalAnalysis=adam+NOUN+A3SG+PNON+NOM}{metaMorphemes=adam} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Acul}{morphologicalAnalysis=acul+ADJ}{metaMorphemes=acul} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=adam}{morphologicalAnalysis=adam+NOUN+A3SG+PNON+NOM}{metaMorphemes=adam} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
