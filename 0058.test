@@ -1,1 +1,1 @@
-{turkish=Adaylık}{morphologicalAnalysis=adaylık+NOUN+A3SG+PNON+NOM}{metaMorphemes=adaylık} {turkish=süresi}{morphologicalAnalysis=süre+NOUN+A3SG+P3SG+NOM}{metaMorphemes=süre+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Adaylık}{morphologicalAnalysis=adaylık+NOUN+A3SG+PNON+NOM}{metaMorphemes=adaylık}{universalDependency=2$NMOD} {turkish=süresi}{morphologicalAnalysis=süre+NOUN+A3SG+P3SG+NOM}{metaMorphemes=süre+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
