@@ -1,1 +1,1 @@
-{turkish=Özne}{morphologicalAnalysis=özne+NOUN+A3SG+PNON+NOM}{metaMorphemes=özne} {turkish=öbeği}{morphologicalAnalysis=öbek+NOUN+A3SG+P3SG+NOM}{metaMorphemes=öbek+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Özne}{morphologicalAnalysis=özne+NOUN+A3SG+PNON+NOM}{metaMorphemes=özne}{universalDependency=2$NMOD} {turkish=öbeği}{morphologicalAnalysis=öbek+NOUN+A3SG+P3SG+NOM}{metaMorphemes=öbek+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

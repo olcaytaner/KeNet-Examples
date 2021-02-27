@@ -1,1 +1,1 @@
-{turkish=Ölçüsüz}{morphologicalAnalysis=ölçüsüz+ADJ}{metaMorphemes=ölçüsüz} {turkish=konuşmak}{morphologicalAnalysis=konuş+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=konuş+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ölçüsüz}{morphologicalAnalysis=ölçüsüz+ADJ}{metaMorphemes=ölçüsüz}{universalDependency=2$ADVMOD} {turkish=konuşmak}{morphologicalAnalysis=konuş+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=konuş+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

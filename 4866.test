@@ -1,1 +1,1 @@
-{turkish=Oyuncu}{morphologicalAnalysis=oyuncu+NOUN+A3SG+PNON+NOM}{metaMorphemes=oyuncu} {turkish=kedi}{morphologicalAnalysis=kedi+NOUN+A3SG+PNON+NOM}{metaMorphemes=kedi} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Oyuncu}{morphologicalAnalysis=oyun+NOUN+A3SG+PNON+NOM^DB+ADJ+AGT}{metaMorphemes=oyun+CH}{universalDependency=2$AMOD} {turkish=kedi}{morphologicalAnalysis=kedi+NOUN+A3SG+PNON+NOM}{metaMorphemes=kedi}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
