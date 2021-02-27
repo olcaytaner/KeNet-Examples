@@ -1,1 +1,1 @@
-Benden yana helal olsun .
+{turkish=Benden}{morphologicalAnalysis=ben+PRON+PERS+A1SG+PNON+ABL}{metaMorphemes=ben+DAn}{universalDependency=2$NMOD} {turkish=yana}{morphologicalAnalysis=yan+NOUN+A3SG+PNON+DAT}{metaMorphemes=yan+yA}{universalDependency=4$OBL} {turkish=helal}{morphologicalAnalysis=helal+NOUN+A3SG+PNON+NOM}{metaMorphemes=helal}{universalDependency=4$COMPOUND} {turkish=olsun}{morphologicalAnalysis=ol+VERB+POS+IMP+A3SG}{metaMorphemes=ol+SHn}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

@@ -1,1 +1,1 @@
-Ona iyilik yaramaz .
+{turkish=Ona}{morphologicalAnalysis=o+PRON+PERS+A3SG+PNON+DAT}{metaMorphemes=o+nA}{universalDependency=3$OBL} {turkish=iyilik}{morphologicalAnalysis=iyilik+NOUN+A3SG+PNON+NOM}{metaMorphemes=iyilik}{universalDependency=3$COMPOUND} {turkish=yaramaz}{morphologicalAnalysis=yaramaz+ADJ}{metaMorphemes=yaramaz}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

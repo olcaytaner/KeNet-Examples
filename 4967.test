@@ -1,1 +1,1 @@
-Mide öz suyu .
+{turkish=Mide}{morphologicalAnalysis=mide+NOUN+A3SG+PNON+NOM}{metaMorphemes=mide}{universalDependency=3$NMOD} {turkish=öz}{morphologicalAnalysis=öz+ADJ}{metaMorphemes=öz}{universalDependency=3$COMPOUND} {turkish=suyu}{morphologicalAnalysis=su+NOUN+A3SG+PNON+ACC}{metaMorphemes=su+yH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

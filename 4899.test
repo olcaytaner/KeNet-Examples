@@ -1,1 +1,1 @@
-Bu hava bizi öldürüyor .
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu}{universalDependency=2$DET} {turkish=hava}{morphologicalAnalysis=hava+NOUN+A3SG+PNON+NOM}{metaMorphemes=hava}{universalDependency=4$NSUBJ} {turkish=bizi}{morphologicalAnalysis=biz+PRON+PERS+A1PL+PNON+ACC}{metaMorphemes=biz+nH}{universalDependency=4$OBJ} {turkish=öldürüyor}{morphologicalAnalysis=öl+VERB^DB+VERB+CAUS+POS+PROG1+A3SG}{metaMorphemes=öl+DHr+Hyor}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

@@ -1,1 +1,1 @@
-Özürsüz geç kalanlar .
+{turkish=Özürsüz}{morphologicalAnalysis=özürsüz+ADV}{metaMorphemes=özürsüz}{universalDependency=3$ADVMOD} {turkish=geç}{morphologicalAnalysis=geç+ADV}{metaMorphemes=geç}{universalDependency=3$ADVMOD} {turkish=kalanlar}{morphologicalAnalysis=kalan+NOUN+A3PL+PNON+NOM}{metaMorphemes=kalan+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

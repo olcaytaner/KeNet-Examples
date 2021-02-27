@@ -1,1 +1,1 @@
-Yanarak ölümü , feciydi .
+{turkish=Yanarak}{morphologicalAnalysis=yan+VERB+POS^DB+ADV+BYDOINGSO}{metaMorphemes=yan+yArAk}{universalDependency=2$ADVMOD} {turkish=ölümü}{morphologicalAnalysis=ölüm+NOUN+A3SG+P3SG+NOM}{metaMorphemes=ölüm+sH}{universalDependency=4$CSUBJ} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,}{universalDependency=2$PUNCT} {turkish=feciydi}{morphologicalAnalysis=feci+ADJ^DB+VERB+ZERO+PAST+A3SG}{metaMorphemes=feci+yDH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

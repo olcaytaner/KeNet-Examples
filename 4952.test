@@ -1,1 +1,1 @@
-Bize öyle öğrettiler .
+{turkish=Bize}{morphologicalAnalysis=biz+PRON+PERS+A1PL+PNON+DAT}{metaMorphemes=biz+yA}{universalDependency=3$OBL} {turkish=öyle}{morphologicalAnalysis=öyle+ADV}{metaMorphemes=öyle}{universalDependency=3$ADVMOD} {turkish=öğrettiler}{morphologicalAnalysis=öğret+VERB+POS+PAST+A3PL}{metaMorphemes=öğret+DH+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

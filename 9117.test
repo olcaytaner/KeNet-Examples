@@ -1,1 +1,1 @@
-Annesini yanına almış .
+{turkish=Annesini}{morphologicalAnalysis=anne+NOUN+A3SG+P3SG+ACC}{metaMorphemes=anne+sH+nH}{universalDependency=3$OBJ} {turkish=yanına}{morphologicalAnalysis=yan+NOUN+A3SG+P3SG+DAT}{metaMorphemes=yan+sH+nA}{universalDependency=3$OBL} {turkish=almış}{morphologicalAnalysis=al+VERB+POS+NARR+A3SG}{metaMorphemes=al+mHs}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

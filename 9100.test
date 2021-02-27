@@ -1,1 +1,1 @@
-Kendini pek yabana atma .
+{turkish=Kendini}{morphologicalAnalysis=kendi+PRON+REFLEXP+A3SG+P3SG+ACC}{metaMorphemes=kendi+nH}{universalDependency=4$OBJ} {turkish=pek}{morphologicalAnalysis=pek+ADV}{metaMorphemes=pek}{universalDependency=4$ADVMOD} {turkish=yabana}{morphologicalAnalysis=yaban+NOUN+A3SG+PNON+DAT}{metaMorphemes=yaban+yA}{universalDependency=4$COMPOUND} {turkish=atma}{morphologicalAnalysis=at+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=at+mA}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

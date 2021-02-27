@@ -1,1 +1,1 @@
-{turkish=Kız} {turkish=saçlarını} {turkish=örmüş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}
+{turkish=Kız}{morphologicalAnalysis=kız+NOUN+A3SG+PNON+NOM}{metaMorphemes=kız}{universalDependency=3$NSUBJ} {turkish=saçlarını}{morphologicalAnalysis=saç+NOUN+A3PL+P3SG+ACC}{metaMorphemes=saç+lAr+sH+nH}{universalDependency=3$OBJ} {turkish=örmüş}{morphologicalAnalysis=ör+VERB+POS+NARR+A3SG}{metaMorphemes=ör+mHs}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

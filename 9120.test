@@ -1,1 +1,1 @@
-Anlamamı istediler .
+{turkish=Anlamamı}{morphologicalAnalysis=anla+VERB+POS^DB+NOUN+INF2+A3SG+P1SG+ACC}{metaMorphemes=anla+mA+Hm+yH}{universalDependency=2$CCOMP} {turkish=istediler}{morphologicalAnalysis=iste+VERB+POS+PAST+A3PL}{metaMorphemes=iste+DH+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

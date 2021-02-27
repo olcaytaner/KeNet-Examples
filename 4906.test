@@ -1,1 +1,1 @@
-Küçük sanayinin ölümü .
+{turkish=Küçük}{morphologicalAnalysis=küçük+ADJ}{metaMorphemes=küçük}{universalDependency=2$AMOD} {turkish=sanayinin}{morphologicalAnalysis=sanayi+NOUN+A3SG+PNON+GEN}{metaMorphemes=sanayi+nHn}{universalDependency=3$NMOD} {turkish=ölümü}{morphologicalAnalysis=ölüm+NOUN+A3SG+P3SG+NOM}{metaMorphemes=ölüm+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

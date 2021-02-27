@@ -1,1 +1,1 @@
-Palyatif önlem .
+{turkish=Palyatif}{morphologicalAnalysis=palyatif+ADJ}{metaMorphemes=palyatif}{universalDependency=2$AMOD} {turkish=önlem}{morphologicalAnalysis=önlem+NOUN+A3SG+PNON+NOM}{metaMorphemes=önlem}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

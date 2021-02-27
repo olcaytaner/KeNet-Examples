@@ -1,1 +1,1 @@
-Yorgunluktan yatağa seriliverdim .
+{turkish=Yorgunluktan}{morphologicalAnalysis=yorgunluk+NOUN+A3SG+PNON+ABL}{metaMorphemes=yorgunluk+DAn}{universalDependency=3$OBL} {turkish=yatağa}{morphologicalAnalysis=yatak+NOUN+A3SG+PNON+DAT}{metaMorphemes=yatak+yA}{universalDependency=3$OBL} {turkish=seriliverdim}{morphologicalAnalysis=seril+VERB+POS^DB+VERB+HASTILY+PAST+A1SG}{metaMorphemes=seril+yHver+DH+m}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

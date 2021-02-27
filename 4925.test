@@ -1,1 +1,1 @@
-Ela değil , yeşil !
+{turkish=Ela}{morphologicalAnalysis=ela+NOUN+A3SG+PNON+NOM}{metaMorphemes=ela}{universalDependency=4$PARATAXIS} {turkish=değil}{morphologicalAnalysis=değil+ADJ}{metaMorphemes=değil}{universalDependency=1$AUX} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,}{universalDependency=1$PUNCT} {turkish=yeşil}{morphologicalAnalysis=yeşil+ADJ}{metaMorphemes=yeşil}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=4$PUNCT}

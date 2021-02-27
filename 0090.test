@@ -1,1 +1,1 @@
-{turkish=Topun}{morphologicalAnalysis=top+NOUN+A3SG+PNON+GEN}{metaMorphemes=top+nHn} {turkish=ağzında}{morphologicalAnalysis=ağız+NOUN+A3SG+P2SG+LOC}{metaMorphemes=ağız+Hn+DA} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Topun}{morphologicalAnalysis=top+NOUN+A3SG+PNON+GEN}{metaMorphemes=top+nHn}{universalDependency=2$NMOD} {turkish=ağzında}{morphologicalAnalysis=ağız+NOUN+A3SG+P2SG+LOC}{metaMorphemes=ağız+Hn+DA}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
