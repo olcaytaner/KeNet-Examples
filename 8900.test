@@ -1,1 +1,1 @@
-{turkish=Kızımı} {turkish=bugün} {turkish=taburcu} {turkish=ettiler} {turkish=.}{universalDependency=4$PUNCT}
+{turkish=Kızımı}{morphologicalAnalysis=kız+NOUN+A3SG+P1SG+ACC}{metaMorphemes=kız+Hm+yH} {turkish=bugün}{morphologicalAnalysis=bugün+ADV}{metaMorphemes=bugün} {turkish=taburcu}{morphologicalAnalysis=taburcu+ADJ}{metaMorphemes=taburcu} {turkish=ettiler}{morphologicalAnalysis=et+VERB+POS+PAST+A3PL}{metaMorphemes=et+DH+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}

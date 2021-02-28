@@ -1,1 +1,1 @@
-Biraz durdu .
+{turkish=Biraz}{morphologicalAnalysis=biraz+ADV}{metaMorphemes=biraz}{universalDependency=2$ADVMOD} {turkish=durdu}{morphologicalAnalysis=dur+VERB+POS+PAST+A3SG}{metaMorphemes=dur+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

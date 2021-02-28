@@ -1,1 +1,1 @@
-Kalp atışlarını bu cihazla düzene sokuyoruz
+{turkish=Kalp}{morphologicalAnalysis=kalp+ADJ}{metaMorphemes=kalp} {turkish=atışlarını}{morphologicalAnalysis=at+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC}{metaMorphemes=at+yHs+lAr+sH+nH} {turkish=bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=cihazla}{morphologicalAnalysis=cihaz+NOUN+A3SG+PNON+INS}{metaMorphemes=cihaz+ylA} {turkish=düzene}{morphologicalAnalysis=düzen+NOUN+A3SG+PNON+DAT}{metaMorphemes=düzen+yA} {turkish=sokuyoruz}{morphologicalAnalysis=sok+VERB+POS+PROG1+A1PL}{metaMorphemes=sok+Hyor+yHz}
