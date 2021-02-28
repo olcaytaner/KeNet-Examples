@@ -1,1 +1,1 @@
-{turkish=Ovalık}{morphologicalAnalysis=ovalık+ADJ}{metaMorphemes=ovalık} {turkish=memleket}{morphologicalAnalysis=memleket+NOUN+A3SG+PNON+NOM}{metaMorphemes=memleket} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ovalık}{morphologicalAnalysis=ovalık+ADJ}{metaMorphemes=ovalık}{universalDependency=2$AMOD} {turkish=memleket}{morphologicalAnalysis=memleket+NOUN+A3SG+PNON+NOM}{metaMorphemes=memleket}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
