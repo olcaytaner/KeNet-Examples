@@ -1,1 +1,1 @@
-Zeybek oynak bir müziktir .
+{turkish=Zeybek}{morphologicalAnalysis=zeybek+NOUN+A3SG+PNON+NOM}{metaMorphemes=zeybek}{universalDependency=4$NSUBJ} {turkish=oynak}{morphologicalAnalysis=oynak+ADJ}{metaMorphemes=oynak}{universalDependency=4$AMOD} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir}{universalDependency=4$DET} {turkish=müziktir}{morphologicalAnalysis=müzik+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=müzik+DHr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=4$PUNCT}
