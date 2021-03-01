@@ -1,1 +1,1 @@
-{turkish=Soneriye}{morphologicalAnalysis=soneri+NOUN+A3SG+PNON+DAT}{metaMorphemes=soneri+yA} {turkish=bastı}{morphologicalAnalysis=bas+VERB+POS+PAST+A3SG}{metaMorphemes=bas+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Soneriye}{morphologicalAnalysis=soneri+NOUN+A3SG+PNON+DAT}{metaMorphemes=soneri+yA}{universalDependency=2$OBJ} {turkish=bastı}{morphologicalAnalysis=bas+VERB+POS+PAST+A3SG}{metaMorphemes=bas+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

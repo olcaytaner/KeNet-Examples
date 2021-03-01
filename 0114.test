@@ -1,1 +1,1 @@
-{turkish=Ajurlu}{morphologicalAnalysis=ajur+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=ajur+lH} {turkish=çorap}{morphologicalAnalysis=çorap+NOUN+A3SG+PNON+NOM}{metaMorphemes=çorap} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ajurlu}{morphologicalAnalysis=ajur+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=ajur+lH}{universalDependency=2$AMOD} {turkish=çorap}{morphologicalAnalysis=çorap+NOUN+A3SG+PNON+NOM}{metaMorphemes=çorap}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Baksana}{morphologicalAnalysis=Baksana+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Baksana} {turkish=ahbap}{morphologicalAnalysis=ahbap+NOUN+A3SG+PNON+NOM}{metaMorphemes=ahbap} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Baksana}{morphologicalAnalysis=Baksana+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Baksana}{universalDependency=0$ROOT} {turkish=ahbap}{morphologicalAnalysis=ahbap+NOUN+A3SG+PNON+NOM}{metaMorphemes=ahbap}{universalDependency=1$DISCOURSE} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}

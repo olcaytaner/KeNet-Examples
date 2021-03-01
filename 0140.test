@@ -1,1 +1,1 @@
-{turkish=Akromatik}{morphologicalAnalysis=akromatik+ADJ}{metaMorphemes=akromatik} {turkish=mercek}{morphologicalAnalysis=mercek+NOUN+A3SG+PNON+NOM}{metaMorphemes=mercek} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Akromatik}{morphologicalAnalysis=akromatik+ADJ}{metaMorphemes=akromatik}{universalDependency=2$AMOD} {turkish=mercek}{morphologicalAnalysis=mercek+NOUN+A3SG+PNON+NOM}{metaMorphemes=mercek}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Dam}{morphologicalAnalysis=dam+NOUN+A3SG+PNON+NOM}{metaMorphemes=dam} {turkish=akıyor}{morphologicalAnalysis=ak+VERB+POS+PROG1+A3SG}{metaMorphemes=ak+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Dam}{morphologicalAnalysis=dam+NOUN+A3SG+PNON+NOM}{metaMorphemes=dam}{universalDependency=2$NSUBJ} {turkish=akıyor}{morphologicalAnalysis=ak+VERB+POS+PROG1+A3SG}{metaMorphemes=ak+Hyor}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
