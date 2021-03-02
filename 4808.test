@@ -1,1 +1,1 @@
-Yılın ortası .
+{turkish=Yılın}{morphologicalAnalysis=yıl+NOUN+A3SG+PNON+GEN}{metaMorphemes=yıl+nHn}{universalDependency=2$NMOD} {turkish=ortası}{morphologicalAnalysis=orta+NOUN+A3SG+P3SG+NOM}{metaMorphemes=orta+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

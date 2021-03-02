@@ -1,1 +1,1 @@
-{turkish=Amanın}{morphologicalAnalysis=amanın+INTERJ}{metaMorphemes=amanın} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Amanın}{morphologicalAnalysis=amanın+INTERJ}{metaMorphemes=amanın}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}
