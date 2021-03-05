@@ -1,1 +1,1 @@
-{turkish=Belgelik}{morphologicalAnalysis=belgelik+NOUN+A3SG+PNON+NOM}{metaMorphemes=belgelik} {turkish=müdürü}{morphologicalAnalysis=müdür+NOUN+A3SG+P3SG+NOM}{metaMorphemes=müdür+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Belgelik}{morphologicalAnalysis=belgelik+NOUN+A3SG+PNON+NOM}{metaMorphemes=belgelik}{universalDependency=2$NMOD} {turkish=müdürü}{morphologicalAnalysis=müdür+NOUN+A3SG+P3SG+NOM}{metaMorphemes=müdür+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
