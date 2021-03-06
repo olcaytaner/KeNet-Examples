@@ -1,1 +1,1 @@
-Sıcak basınca sırtındaki ceketi attı .
+{turkish=Sıcak}{morphologicalAnalysis=sıcak+ADJ}{metaMorphemes=sıcak} {turkish=basınca}{morphologicalAnalysis=bas+VERB+POS^DB+ADV+WHEN}{metaMorphemes=bas+yHncA} {turkish=sırtındaki}{morphologicalAnalysis=sırt+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL}{metaMorphemes=sırt+sH+nDA+ki} {turkish=ceketi}{morphologicalAnalysis=ceket+NOUN+A3SG+PNON+ACC}{metaMorphemes=ceket+yH} {turkish=attı}{morphologicalAnalysis=at+VERB+POS+PAST+A3SG}{metaMorphemes=at+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

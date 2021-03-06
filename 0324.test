@@ -1,1 +1,1 @@
-Bir gün içinde yukarıdan aşağı inmiştik .
+{turkish=Bir}{morphologicalAnalysis=bir+NUM+CARD}{metaMorphemes=bir} {turkish=gün}{morphologicalAnalysis=gün+NOUN+A3SG+PNON+NOM}{metaMorphemes=gün} {turkish=içinde}{morphologicalAnalysis=içinde+ADV}{metaMorphemes=içinde} {turkish=yukarıdan}{morphologicalAnalysis=yukarıdan+ADV}{metaMorphemes=yukarıdan} {turkish=aşağı}{morphologicalAnalysis=aşağı+ADV}{metaMorphemes=aşağı} {turkish=inmiştik}{morphologicalAnalysis=in+VERB+POS+NARR+PAST+A1PL}{metaMorphemes=in+mHs+yDH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
