@@ -1,1 +1,1 @@
-Bazen kara gözlerinde şimşekler çakıyordu .
+{turkish=Bazen}{morphologicalAnalysis=bazen+ADV}{metaMorphemes=bazen} {turkish=kara}{morphologicalAnalysis=kara+ADJ}{metaMorphemes=kara} {turkish=gözlerinde}{morphologicalAnalysis=gözle+VERB+POS+AOR^DB+ADJ+ZERO^DB+NOUN+ZERO+A3SG+P3SG+LOC}{metaMorphemes=gözle+Hr+sH+nDA} {turkish=şimşekler}{morphologicalAnalysis=şimşek+NOUN+A3PL+PNON+NOM}{metaMorphemes=şimşek+lAr} {turkish=çakıyordu}{morphologicalAnalysis=çak+VERB+POS+PROG1+PAST+A3SG}{metaMorphemes=çak+Hyor+yDH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

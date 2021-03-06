@@ -1,1 +1,1 @@
-Hayvanına dah edip yola koyuldu .
+{turkish=Hayvanına}{morphologicalAnalysis=hayvan+NOUN+A3SG+P3SG+DAT}{metaMorphemes=hayvan+sH+nA} {turkish=dah}{morphologicalAnalysis=daha+ADV}{metaMorphemes=daha} {turkish=edip}{morphologicalAnalysis=et+VERB+POS^DB+ADV+AFTERDOINGSO}{metaMorphemes=et+yHp} {turkish=yola}{morphologicalAnalysis=yol+NOUN+A3SG+PNON+DAT}{metaMorphemes=yol+yA} {turkish=koyuldu}{morphologicalAnalysis=koy+VERB^DB+VERB+PASS+POS+PAST+A3SG}{metaMorphemes=koy+Hl+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

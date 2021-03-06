@@ -1,1 +1,1 @@
-Doktor geldi , ilaç yazdı .
+{turkish=Doktor}{morphologicalAnalysis=doktor+NOUN+A3SG+PNON+NOM}{metaMorphemes=doktor} {turkish=geldi}{morphologicalAnalysis=gel+VERB+POS+PAST+A3SG}{metaMorphemes=gel+DH} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=ilaç}{morphologicalAnalysis=ilaç+NOUN+A3SG+PNON+NOM}{metaMorphemes=ilaç} {turkish=yazdı}{morphologicalAnalysis=yaz+VERB+POS+PAST+A3SG}{metaMorphemes=yaz+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

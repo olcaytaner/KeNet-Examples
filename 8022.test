@@ -1,1 +1,1 @@
-Yağmur kar demedi , yola çıktı .
+{turkish=Yağmur}{morphologicalAnalysis=yağmur+NOUN+A3SG+PNON+NOM}{metaMorphemes=yağmur} {turkish=kar}{morphologicalAnalysis=kar+NOUN+A3SG+PNON+NOM}{metaMorphemes=kar} {turkish=demedi}{morphologicalAnalysis=de+VERB+NEG+PAST+A3SG}{metaMorphemes=de+mA+DH} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=yola}{morphologicalAnalysis=yol+NOUN+A3SG+PNON+DAT}{metaMorphemes=yol+yA} {turkish=çıktı}{morphologicalAnalysis=çık+VERB+POS+PAST+A3SG}{metaMorphemes=çık+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

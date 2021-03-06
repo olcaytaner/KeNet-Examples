@@ -1,1 +1,1 @@
-Güneşin batmasıyla beraber hava soğuyuverdi .
+{turkish=Güneşin}{morphologicalAnalysis=güneş+NOUN+A3SG+PNON+GEN}{metaMorphemes=güneş+nHn} {turkish=batmasıyla}{morphologicalAnalysis=batma+NOUN+A3SG+P3SG+INS}{metaMorphemes=batma+sH+ylA} {turkish=beraber}{morphologicalAnalysis=beraber+POSTP+PCINS}{metaMorphemes=beraber} {turkish=hava}{morphologicalAnalysis=hava+NOUN+A3SG+PNON+NOM}{metaMorphemes=hava} {turkish=soğuyuverdi}{morphologicalAnalysis=soğu+VERB+POS^DB+VERB+HASTILY+PAST+A3SG}{metaMorphemes=soğu+yHver+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,1 +1,1 @@
-Yıllarca çalışmakla beraber yine başaramadı .
+{turkish=Yıllarca}{morphologicalAnalysis=yıl+NOUN+A3PL+PNON+EQU}{metaMorphemes=yıl+lAr+CA} {turkish=çalışmakla}{morphologicalAnalysis=çalış+VERB+POS^DB+NOUN+INF+A3SG+PNON+INS}{metaMorphemes=çalış+mAk+ylA} {turkish=beraber}{morphologicalAnalysis=beraber+POSTP+PCINS}{metaMorphemes=beraber} {turkish=yine}{morphologicalAnalysis=yine+ADV}{metaMorphemes=yine} {turkish=başaramadı}{morphologicalAnalysis=başar+VERB^DB+VERB+ABLE+NEG+PAST+A3SG}{metaMorphemes=başar+yAmA+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

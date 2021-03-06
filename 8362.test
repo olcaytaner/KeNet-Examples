@@ -1,1 +1,1 @@
-Fabrika sahibinin ismini cismini aldı .
+{turkish=Fabrika}{morphologicalAnalysis=fabrika+NOUN+A3SG+PNON+NOM}{metaMorphemes=fabrika} {turkish=sahibinin}{morphologicalAnalysis=sahip+NOUN+A3SG+P3SG+GEN}{metaMorphemes=sahip+sH+nHn} {turkish=ismini}{morphologicalAnalysis=isim+NOUN+A3SG+P3SG+ACC}{metaMorphemes=isim+sH+nH} {turkish=cismini}{morphologicalAnalysis=cisim+NOUN+A3SG+P3SG+ACC}{metaMorphemes=cisim+sH+nH} {turkish=aldı}{morphologicalAnalysis=al+VERB+POS+PAST+A3SG}{metaMorphemes=al+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
