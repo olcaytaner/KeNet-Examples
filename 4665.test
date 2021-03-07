@@ -1,1 +1,1 @@
-{turkish=İlkokul}{morphologicalAnalysis=ilkokul+NOUN+A3SG+PNON+NOM}{metaMorphemes=ilkokul} {turkish=neresi}{morphologicalAnalysis=nere+PRON+QUESP+A3SG+P3SG+NOM}{metaMorphemes=nere+sH} {turkish=?}{morphologicalAnalysis=?+PUNC}{metaMorphemes=?}
+{turkish=İlkokul}{morphologicalAnalysis=ilkokul+NOUN+A3SG+PNON+NOM}{metaMorphemes=ilkokul}{universalDependency=2$NSUBJ} {turkish=neresi}{morphologicalAnalysis=nere+PRON+QUESP+A3SG+P3SG+NOM}{metaMorphemes=nere+sH}{universalDependency=0$ROOT} {turkish=?}{morphologicalAnalysis=?+PUNC}{metaMorphemes=?}{universalDependency=2$PUNCT}
