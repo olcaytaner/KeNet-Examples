@@ -1,1 +1,1 @@
-{turkish=Nevraljik}{morphologicalAnalysis=nevraljik+ADJ}{metaMorphemes=nevraljik} {turkish=ağrılar}{morphologicalAnalysis=ağrı+NOUN+A3PL+PNON+NOM}{metaMorphemes=ağrı+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Nevraljik}{morphologicalAnalysis=nevraljik+ADJ}{metaMorphemes=nevraljik}{universalDependency=2$AMOD} {turkish=ağrılar}{morphologicalAnalysis=ağrı+NOUN+A3PL+PNON+NOM}{metaMorphemes=ağrı+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
