@@ -1,1 +1,1 @@
-{turkish=İthal}{morphologicalAnalysis=ithal+NOUN+A3SG+PNON+NOM}{metaMorphemes=ithal} {turkish=lisansı}{morphologicalAnalysis=lisans+NOUN+A3SG+P3SG+NOM}{metaMorphemes=lisans+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İthal}{morphologicalAnalysis=ithal+NOUN+A3SG+PNON+NOM}{metaMorphemes=ithal}{universalDependency=2$AMOD} {turkish=lisansı}{morphologicalAnalysis=lisans+NOUN+A3SG+P3SG+NOM}{metaMorphemes=lisans+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

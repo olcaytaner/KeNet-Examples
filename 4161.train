@@ -1,1 +1,1 @@
-{turkish=Lığlı}{morphologicalAnalysis=lığ+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=lığ+lH} {turkish=katman}{morphologicalAnalysis=katman+NOUN+A3SG+PNON+NOM}{metaMorphemes=katman} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Lığlı}{morphologicalAnalysis=lığ+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=lığ+lH}{universalDependency=2$AMOD} {turkish=katman}{morphologicalAnalysis=katman+NOUN+A3SG+PNON+NOM}{metaMorphemes=katman}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
