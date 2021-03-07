@@ -1,1 +1,1 @@
-{turkish=Demir}{morphologicalAnalysis=demir+ADJ}{metaMorphemes=demir} {turkish=asetat}{morphologicalAnalysis=asetat+NOUN+A3SG+PNON+NOM}{metaMorphemes=asetat} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Demir}{morphologicalAnalysis=demir+ADJ}{metaMorphemes=demir}{universalDependency=2$AMOD} {turkish=asetat}{morphologicalAnalysis=asetat+NOUN+A3SG+PNON+NOM}{metaMorphemes=asetat}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

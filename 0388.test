@@ -1,1 +1,1 @@
-Babamı ayarlarsam sinemaya gideceğim .
+{turkish=Babamı}{morphologicalAnalysis=baba+NOUN+A3SG+P1SG+ACC}{metaMorphemes=baba+Hm+yH} {turkish=ayarlarsam}{morphologicalAnalysis=ayarla+VERB+POS+AOR+COND+A1SG}{metaMorphemes=ayarla+Hr+ysA+m} {turkish=sinemaya}{morphologicalAnalysis=sinema+NOUN+A3SG+PNON+DAT}{metaMorphemes=sinema+yA} {turkish=gideceğim}{morphologicalAnalysis=git+VERB+POS^DB+NOUN+FUTPART+A3SG+P1SG+NOM}{metaMorphemes=git+yAcAk+Hm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

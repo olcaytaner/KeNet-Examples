@@ -1,1 +1,1 @@
-{turkish=Aşağı}{morphologicalAnalysis=aşağı+ADJ}{metaMorphemes=aşağı} {turkish=mal}{morphologicalAnalysis=mal+NOUN+A3SG+PNON+NOM}{metaMorphemes=mal} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Aşağı}{morphologicalAnalysis=aşağı+ADJ}{metaMorphemes=aşağı}{universalDependency=2$AMOD} {turkish=mal}{morphologicalAnalysis=mal+NOUN+A3SG+PNON+NOM}{metaMorphemes=mal}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

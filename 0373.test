@@ -1,1 +1,1 @@
-Bu iş ancak üç ayda biter .
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=iş}{morphologicalAnalysis=iş+NOUN+A3SG+PNON+NOM}{metaMorphemes=iş} {turkish=ancak}{morphologicalAnalysis=ancak+ADV}{metaMorphemes=ancak} {turkish=üç}{morphologicalAnalysis=üç+NUM+CARD}{metaMorphemes=üç} {turkish=ayda}{morphologicalAnalysis=ay+NOUN+A3SG+PNON+LOC}{metaMorphemes=ay+DA} {turkish=biter}{morphologicalAnalysis=bit+VERB+POS+AOR+A3SG}{metaMorphemes=bit+Ar} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,1 +1,1 @@
-{turkish=Asistanlık}{morphologicalAnalysis=asistanlık+NOUN+A3SG+PNON+NOM}{metaMorphemes=asistanlık} {turkish=sınavı}{morphologicalAnalysis=sınav+NOUN+A3SG+P3SG+NOM}{metaMorphemes=sınav+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Asistanlık}{morphologicalAnalysis=asistanlık+NOUN+A3SG+PNON+NOM}{metaMorphemes=asistanlık}{universalDependency=2$NMOD} {turkish=sınavı}{morphologicalAnalysis=sınav+NOUN+A3SG+P3SG+NOM}{metaMorphemes=sınav+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
