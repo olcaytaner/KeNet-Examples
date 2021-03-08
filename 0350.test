@@ -1,1 +1,1 @@
-{turkish=Duvardan}{morphologicalAnalysis=duvar+NOUN+A3SG+PNON+ABL}{metaMorphemes=duvar+DAn} {turkish=atlamak}{morphologicalAnalysis=atla+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=atla+mAk} {turkish=.}
+{turkish=Duvardan}{morphologicalAnalysis=duvar+NOUN+A3SG+PNON+ABL}{metaMorphemes=duvar+DAn}{universalDependency=2$OBL} {turkish=atlamak}{morphologicalAnalysis=atla+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=atla+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

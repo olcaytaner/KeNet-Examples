@@ -1,1 +1,1 @@
-{turkish=Horozun}{morphologicalAnalysis=horoz+NOUN+A3SG+PNON+GEN}{metaMorphemes=horoz+nHn} {turkish=küpeleri}{morphologicalAnalysis=küpe+NOUN+A3PL+P3SG+NOM}{metaMorphemes=küpe+lAr+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Horozun}{morphologicalAnalysis=horoz+NOUN+A3SG+PNON+GEN}{metaMorphemes=horoz+nHn}{universalDependency=2$NMOD} {turkish=küpeleri}{morphologicalAnalysis=küpe+NOUN+A3PL+P3SG+NOM}{metaMorphemes=küpe+lAr+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

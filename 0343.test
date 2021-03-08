@@ -1,1 +1,1 @@
-{turkish=Ateşli}{morphologicalAnalysis=ateşli+ADJ}{metaMorphemes=ateşli} {turkish=hasta}{morphologicalAnalysis=has+ADJ^DB+NOUN+ZERO+A3SG+PNON+LOC}{metaMorphemes=has+DA} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ateşli}{morphologicalAnalysis=ateşli+ADJ}{metaMorphemes=ateşli}{universalDependency=2$AMOD} {turkish=hasta}{morphologicalAnalysis=has+ADJ^DB+NOUN+ZERO+A3SG+PNON+LOC}{metaMorphemes=has+DA}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

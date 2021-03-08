@@ -1,1 +1,1 @@
-{turkish=Ay}{morphologicalAnalysis=ay+INTERJ}{metaMorphemes=ay} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Ay}{morphologicalAnalysis=ay+INTERJ}{metaMorphemes=ay}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}

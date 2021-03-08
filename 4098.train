@@ -1,1 +1,1 @@
-{turkish=Kürk}{morphologicalAnalysis=kürk+ADJ}{metaMorphemes=kürk} {turkish=manto}{morphologicalAnalysis=manto+NOUN+A3SG+PNON+NOM}{metaMorphemes=manto} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kürk}{morphologicalAnalysis=kürk+ADJ}{metaMorphemes=kürk}{universalDependency=2$AMOD} {turkish=manto}{morphologicalAnalysis=manto+NOUN+A3SG+PNON+NOM}{metaMorphemes=manto}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

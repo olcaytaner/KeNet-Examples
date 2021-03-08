@@ -1,1 +1,1 @@
-{turkish=Emine}{morphologicalAnalysis=emine+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=emine} {turkish=hatun}{morphologicalAnalysis=hatun+NOUN+A3SG+PNON+NOM}{metaMorphemes=hatun} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Emine}{morphologicalAnalysis=emine+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=emine}{universalDependency=0$ROOT} {turkish=hatun}{morphologicalAnalysis=hatun+NOUN+A3SG+PNON+NOM}{metaMorphemes=hatun}{universalDependency=1$FLAT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Küflü}{morphologicalAnalysis=küf+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=küf+lH} {turkish=ekmek}{morphologicalAnalysis=ekmek+NOUN+A3SG+PNON+NOM}{metaMorphemes=ekmek} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Küflü}{morphologicalAnalysis=küf+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=küf+lH}{universalDependency=2$AMOD} {turkish=ekmek}{morphologicalAnalysis=ekmek+NOUN+A3SG+PNON+NOM}{metaMorphemes=ekmek}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
