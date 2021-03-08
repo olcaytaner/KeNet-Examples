@@ -1,1 +1,1 @@
-Atatürk Türk milletinin babasıdır .
+{turkish=Atatürk}{morphologicalAnalysis=atatürk+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=atatürk} {turkish=Türk}{morphologicalAnalysis=türk+NOUN+A3SG+PNON+NOM}{metaMorphemes=türk} {turkish=milletinin}{morphologicalAnalysis=millet+NOUN+A3SG+P3SG+GEN}{metaMorphemes=millet+sH+nHn} {turkish=babasıdır}{morphologicalAnalysis=baba+NOUN+A3SG+P3SG+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=baba+sH+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
