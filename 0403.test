@@ -1,1 +1,1 @@
-{turkish=Aylık}{morphologicalAnalysis=aylık+NOUN+A3SG+PNON+NOM}{metaMorphemes=aylık} {turkish=iş}{morphologicalAnalysis=iş+NOUN+A3SG+PNON+NOM}{metaMorphemes=iş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Aylık}{morphologicalAnalysis=aylık+NOUN+A3SG+PNON+NOM}{metaMorphemes=aylık}{universalDependency=2$AMOD} {turkish=iş}{morphologicalAnalysis=iş+NOUN+A3SG+PNON+NOM}{metaMorphemes=iş}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

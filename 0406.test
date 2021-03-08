@@ -1,1 +1,1 @@
-{turkish=İşimiz}{morphologicalAnalysis=iş+NOUN+A3SG+P1PL+NOM}{metaMorphemes=iş+HmHz} {turkish=ayna}{morphologicalAnalysis=ayna+NOUN+A3SG+PNON+NOM}{metaMorphemes=ayna} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İşimiz}{morphologicalAnalysis=iş+NOUN+A3SG+P1PL+NOM}{metaMorphemes=iş+HmHz}{universalDependency=2$NSUBJ} {turkish=ayna}{morphologicalAnalysis=ayna+NOUN+A3SG+PNON+NOM}{metaMorphemes=ayna}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
