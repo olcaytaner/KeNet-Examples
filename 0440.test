@@ -1,1 +1,1 @@
-{turkish=Bektaşi}{morphologicalAnalysis=bektaşi+NOUN+A3SG+PNON+NOM}{metaMorphemes=bektaşi} {turkish=babası}{morphologicalAnalysis=baba+NOUN+A3SG+P3SG+NOM}{metaMorphemes=baba+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bektaşi}{morphologicalAnalysis=bektaşi+NOUN+A3SG+PNON+NOM}{metaMorphemes=bektaşi}{universalDependency=2$NMOD} {turkish=babası}{morphologicalAnalysis=baba+NOUN+A3SG+P3SG+NOM}{metaMorphemes=baba+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

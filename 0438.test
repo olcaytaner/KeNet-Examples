@@ -1,1 +1,1 @@
-{turkish=Azotlu}{morphologicalAnalysis=azotlu+ADJ}{metaMorphemes=azotlu} {turkish=gübre}{morphologicalAnalysis=gübre+NOUN+A3SG+PNON+NOM}{metaMorphemes=gübre} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Azotlu}{morphologicalAnalysis=azotlu+ADJ}{metaMorphemes=azotlu}{universalDependency=2$AMOD} {turkish=gübre}{morphologicalAnalysis=gübre+NOUN+A3SG+PNON+NOM}{metaMorphemes=gübre}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
