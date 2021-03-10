@@ -1,1 +1,1 @@
-{turkish=Bağlamalık}{morphologicalAnalysis=bağlamalık+ADJ}{metaMorphemes=bağlamalık} {turkish=ip}{morphologicalAnalysis=ip+NOUN+A3SG+PNON+NOM}{metaMorphemes=ip} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bağlamalık}{morphologicalAnalysis=bağlamalık+ADJ}{metaMorphemes=bağlamalık}{universalDependency=2$AMOD} {turkish=ip}{morphologicalAnalysis=ip+NOUN+A3SG+PNON+NOM}{metaMorphemes=ip}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

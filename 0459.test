@@ -1,1 +1,1 @@
-{turkish=Bağcıklı}{morphologicalAnalysis=bağcıklı+ADJ}{metaMorphemes=bağcıklı} {turkish=ayakkabı}{morphologicalAnalysis=ayakkabı+NOUN+A3SG+PNON+NOM}{metaMorphemes=ayakkabı} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bağcıklı}{morphologicalAnalysis=bağcıklı+ADJ}{metaMorphemes=bağcıklı}{universalDependency=2$AMOD} {turkish=ayakkabı}{morphologicalAnalysis=ayakkabı+NOUN+A3SG+PNON+NOM}{metaMorphemes=ayakkabı}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
