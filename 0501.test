@@ -1,1 +1,1 @@
-Bu iş beş bin liraya bakar .
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=iş}{morphologicalAnalysis=iş+NOUN+A3SG+PNON+NOM}{metaMorphemes=iş} {turkish=beş}{morphologicalAnalysis=beş+NUM+CARD}{metaMorphemes=beş} {turkish=bin}{morphologicalAnalysis=bin+NUM+CARD}{metaMorphemes=bin} {turkish=liraya}{morphologicalAnalysis=lira+NOUN+A3SG+PNON+DAT}{metaMorphemes=lira+yA} {turkish=bakar}{morphologicalAnalysis=bak+VERB+POS+AOR+A3SG}{metaMorphemes=bak+Ar} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

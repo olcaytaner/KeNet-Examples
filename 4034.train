@@ -1,1 +1,1 @@
-{turkish=Isı}{morphologicalAnalysis=ısı+NOUN+A3SG+PNON+NOM}{metaMorphemes=ısı} {turkish=kuşak}{morphologicalAnalysis=kuşak+NOUN+A3SG+PNON+NOM}{metaMorphemes=kuşak} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Isı}{morphologicalAnalysis=ısı+NOUN+A3SG+PNON+NOM}{metaMorphemes=ısı}{universalDependency=2$AMOD} {turkish=kuşak}{morphologicalAnalysis=kuşak+NOUN+A3SG+PNON+NOM}{metaMorphemes=kuşak}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

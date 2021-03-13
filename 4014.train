@@ -1,1 +1,1 @@
-{turkish=At}{morphologicalAnalysis=at+NOUN+A3SG+PNON+NOM}{metaMorphemes=at} {turkish=kurtulmuş}{morphologicalAnalysis=kurtul+VERB+POS+NARR+A3SG}{metaMorphemes=kurtul+mHs} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=At}{morphologicalAnalysis=at+NOUN+A3SG+PNON+NOM}{metaMorphemes=at}{universalDependency=2$NSUBJ} {turkish=kurtulmuş}{morphologicalAnalysis=kurtul+VERB+POS+NARR+A3SG}{metaMorphemes=kurtul+mHs}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

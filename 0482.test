@@ -1,1 +1,1 @@
-{turkish=Bahçıvanlı}{morphologicalAnalysis=bahçıvanlı+ADJ}{metaMorphemes=bahçıvanlı} {turkish=köşk}{morphologicalAnalysis=köşk+NOUN+A3SG+PNON+NOM}{metaMorphemes=köşk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bahçıvanlı}{morphologicalAnalysis=bahçıvanlı+ADJ}{metaMorphemes=bahçıvanlı}{universalDependency=2$AMOD} {turkish=köşk}{morphologicalAnalysis=köşk+NOUN+A3SG+PNON+NOM}{metaMorphemes=köşk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

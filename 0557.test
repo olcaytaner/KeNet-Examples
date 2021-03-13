@@ -1,1 +1,1 @@
-Pompa bozulmuş , suyu basmıyor .
+{turkish=Pompa}{morphologicalAnalysis=pompa+NOUN+A3SG+PNON+NOM}{metaMorphemes=pompa} {turkish=bozulmuş}{morphologicalAnalysis=bozul+VERB+POS+NARR+A3SG}{metaMorphemes=bozul+mHs} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=suyu}{morphologicalAnalysis=su+NOUN+A3SG+PNON+ACC}{metaMorphemes=su+yH} {turkish=basmıyor}{morphologicalAnalysis=bas+VERB+NEG+PROG1+A3SG}{metaMorphemes=bas+mA+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,1 +1,1 @@
-Bu gazetenin baskısı yüz bindir .
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=gazetenin}{morphologicalAnalysis=gazete+NOUN+A3SG+PNON+GEN}{metaMorphemes=gazete+nHn} {turkish=baskısı}{morphologicalAnalysis=baskı+NOUN+A3SG+P3SG+NOM}{metaMorphemes=baskı+sH} {turkish=yüz}{morphologicalAnalysis=yüz+NUM+CARD}{metaMorphemes=yüz} {turkish=bindir}{morphologicalAnalysis=bin+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=bin+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,1 +1,1 @@
-{turkish=Mürettep}{morphologicalAnalysis=mürettep+ADJ}{metaMorphemes=mürettep} {turkish=divan}{morphologicalAnalysis=divan+NOUN+A3SG+PNON+NOM}{metaMorphemes=divan} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Mürettep}{morphologicalAnalysis=mürettep+ADJ}{metaMorphemes=mürettep}{universalDependency=2$AMOD} {turkish=divan}{morphologicalAnalysis=divan+NOUN+A3SG+PNON+NOM}{metaMorphemes=divan}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Kurşun}{morphologicalAnalysis=kurşun+ADJ}{metaMorphemes=kurşun} {turkish=boru}{morphologicalAnalysis=boru+NOUN+A3SG+PNON+NOM}{metaMorphemes=boru} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kurşun}{morphologicalAnalysis=kurşun+ADJ}{metaMorphemes=kurşun}{universalDependency=2$AMOD} {turkish=boru}{morphologicalAnalysis=boru+NOUN+A3SG+PNON+NOM}{metaMorphemes=boru}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
