@@ -1,1 +1,1 @@
-{turkish=Fransız}{morphologicalAnalysis=fransız+ADJ}{metaMorphemes=fransız} {turkish=bandırası}{morphologicalAnalysis=bandıra+NOUN+A3SG+P3SG+NOM}{metaMorphemes=bandıra+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Fransız}{morphologicalAnalysis=fransız+ADJ}{metaMorphemes=fransız}{universalDependency=2$NMOD} {turkish=bandırası}{morphologicalAnalysis=bandıra+NOUN+A3SG+P3SG+NOM}{metaMorphemes=bandıra+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
