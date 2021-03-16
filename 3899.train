@@ -1,1 +1,1 @@
-Diş kökü .
+{turkish=Diş}{morphologicalAnalysis=diş+NOUN+A3SG+PNON+NOM}{metaMorphemes=diş}{universalDependency=2$NMOD} {turkish=kökü}{morphologicalAnalysis=kök+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kök+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

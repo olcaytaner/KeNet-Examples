@@ -1,1 +1,1 @@
-{turkish=Satranç}{morphologicalAnalysis=satranç+NOUN+A3SG+PNON+NOM}{metaMorphemes=satranç} {turkish=kralı}{morphologicalAnalysis=kral+NOUN+A3SG+PNON+ACC}{metaMorphemes=kral+yH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Satranç}{morphologicalAnalysis=satranç+NOUN+A3SG+PNON+NOM}{metaMorphemes=satranç}{universalDependency=2$NMOD} {turkish=kralı}{morphologicalAnalysis=kral+NOUN+A3SG+PNON+ACC}{metaMorphemes=kral+yH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

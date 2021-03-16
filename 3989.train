@@ -1,1 +1,1 @@
-{turkish=Kurban}{morphologicalAnalysis=kurban+NOUN+A3SG+PNON+NOM}{metaMorphemes=kurban} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Kurban}{morphologicalAnalysis=kurban+NOUN+A3SG+PNON+NOM}{metaMorphemes=kurban}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}

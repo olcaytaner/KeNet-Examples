@@ -1,1 +1,1 @@
-Kesesini koynunda taşır .
+{turkish=Kesesini}{morphologicalAnalysis=kese+NOUN+A3SG+P3SG+ACC}{metaMorphemes=kese+sH+nH}{universalDependency=3$OBJ} {turkish=koynunda}{morphologicalAnalysis=koyun+NOUN+A3SG+P3SG+LOC}{metaMorphemes=koyun+sH+nDA}{universalDependency=3$OBL} {turkish=taşır}{morphologicalAnalysis=taşı+VERB+POS+AOR+A3SG}{metaMorphemes=taşı+Hr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

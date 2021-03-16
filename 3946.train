@@ -1,1 +1,1 @@
-{turkish=Krom}{morphologicalAnalysis=krom+NOUN+A3SG+PNON+NOM}{metaMorphemes=krom} {turkish=kaplama}{morphologicalAnalysis=kapla+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=kapla+mA} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Krom}{morphologicalAnalysis=krom+NOUN+A3SG+PNON+NOM}{metaMorphemes=krom}{universalDependency=2$AMOD} {turkish=kaplama}{morphologicalAnalysis=kapla+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=kapla+mA}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

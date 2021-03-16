@@ -1,1 +1,1 @@
-{turkish=Köpüksüz}{morphologicalAnalysis=köpüksüz+ADJ}{metaMorphemes=köpüksüz} {turkish=kahve}{morphologicalAnalysis=kahve+NOUN+A3SG+PNON+NOM}{metaMorphemes=kahve} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Köpüksüz}{morphologicalAnalysis=köpüksüz+ADJ}{metaMorphemes=köpüksüz}{universalDependency=2$AMOD} {turkish=kahve}{morphologicalAnalysis=kahve+NOUN+A3SG+PNON+NOM}{metaMorphemes=kahve}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

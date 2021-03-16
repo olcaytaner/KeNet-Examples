@@ -1,1 +1,1 @@
-{turkish=Turşu}{morphologicalAnalysis=turşu+NOUN+A3SG+PNON+NOM}{metaMorphemes=turşu} {turkish=kurmak}{morphologicalAnalysis=kur+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=kur+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Turşu}{morphologicalAnalysis=turşu+NOUN+A3SG+PNON+NOM}{metaMorphemes=turşu}{universalDependency=2$COMPOUND} {turkish=kurmak}{morphologicalAnalysis=kur+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=kur+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Kömürlü}{morphologicalAnalysis=kömürlü+ADJ}{metaMorphemes=kömürlü} {turkish=lokomotif}{morphologicalAnalysis=lokomotif+NOUN+A3SG+PNON+NOM}{metaMorphemes=lokomotif} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kömürlü}{morphologicalAnalysis=kömürlü+ADJ}{metaMorphemes=kömürlü}{universalDependency=2$AMOD} {turkish=lokomotif}{morphologicalAnalysis=lokomotif+NOUN+A3SG+PNON+NOM}{metaMorphemes=lokomotif}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
