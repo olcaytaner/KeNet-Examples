@@ -1,1 +1,1 @@
-Ah , siz sadik bir adamsınız .
+{turkish=Ah}{morphologicalAnalysis=ah+INTERJ}{metaMorphemes=ah} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=siz}{morphologicalAnalysis=siz+PRON+PERS+A2PL+PNON+NOM}{metaMorphemes=siz} {turkish=sadik}{morphologicalAnalysis=sadik+ADJ}{metaMorphemes=sadik} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=adamsınız}{morphologicalAnalysis=adam+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A2PL}{metaMorphemes=adam+SHnHz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,1 +1,1 @@
-Uyuşturucu kaçakçılığından sekiz yıl yattı
+{turkish=Uyuşturucu}{morphologicalAnalysis=uyuşturucu+ADJ}{metaMorphemes=uyuşturucu} {turkish=kaçakçılığından}{morphologicalAnalysis=kaçakçılık+NOUN+A3SG+P3SG+ABL}{metaMorphemes=kaçakçılık+sH+nDAn} {turkish=sekiz}{morphologicalAnalysis=sekiz+NUM+CARD}{metaMorphemes=sekiz} {turkish=yıl}{morphologicalAnalysis=yıl+NOUN+A3SG+PNON+NOM}{metaMorphemes=yıl} {turkish=yattı}{morphologicalAnalysis=yat+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PAST+A3SG}{metaMorphemes=yat+yDH}

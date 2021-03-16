@@ -1,1 +1,1 @@
-Eğer nişanını bozduysa yazıklar olsun .
+{turkish=Eğer}{morphologicalAnalysis=eğer+CONJ}{metaMorphemes=eğer} {turkish=nişanını}{morphologicalAnalysis=nişan+NOUN+A3SG+P3SG+ACC}{metaMorphemes=nişan+sH+nH} {turkish=bozduysa}{morphologicalAnalysis=boz+VERB+POS+PAST+COND+A3SG}{metaMorphemes=boz+DH+ysA} {turkish=yazıklar}{morphologicalAnalysis=yazık+NOUN+A3PL+PNON+NOM}{metaMorphemes=yazık+lAr} {turkish=olsun}{morphologicalAnalysis=ol+VERB+POS+IMP+A3SG}{metaMorphemes=ol+SHn} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

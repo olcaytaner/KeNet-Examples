@@ -1,1 +1,1 @@
-Öğretmen üç tembel çocuğu bıraktı .
+{turkish=Öğretmen}{morphologicalAnalysis=öğretmen+NOUN+A3SG+PNON+NOM}{metaMorphemes=öğretmen} {turkish=üç}{morphologicalAnalysis=üç+NUM+CARD}{metaMorphemes=üç} {turkish=tembel}{morphologicalAnalysis=tembel+ADJ}{metaMorphemes=tembel} {turkish=çocuğu}{morphologicalAnalysis=çocuk+NOUN+A3SG+P3SG+NOM}{metaMorphemes=çocuk+sH} {turkish=bıraktı}{morphologicalAnalysis=bırak+VERB+POS+PAST+A3SG}{metaMorphemes=bırak+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

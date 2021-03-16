@@ -1,1 +1,1 @@
-On milyonu iki beşlik yapınız .
+{turkish=On}{morphologicalAnalysis=on+NUM+CARD}{metaMorphemes=on} {turkish=milyonu}{morphologicalAnalysis=milyon+NUM+CARD^DB+NOUN+ZERO+A3SG+P3SG+NOM}{metaMorphemes=milyon+sH} {turkish=iki}{morphologicalAnalysis=iki+NUM+CARD}{metaMorphemes=iki} {turkish=beşlik}{morphologicalAnalysis=beş+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=beş+lHk} {turkish=yapınız}{morphologicalAnalysis=yapı+NOUN+A3SG+P2PL+NOM}{metaMorphemes=yapı+HnHz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

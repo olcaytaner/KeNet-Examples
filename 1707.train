@@ -1,1 +1,1 @@
-Bir elektrik zilinin düğmesine dokunduk .
+{turkish=Bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=elektrik}{morphologicalAnalysis=elektrik+NOUN+A3SG+PNON+NOM}{metaMorphemes=elektrik} {turkish=zilinin}{morphologicalAnalysis=zil+NOUN+A3SG+P3SG+GEN}{metaMorphemes=zil+sH+nHn} {turkish=düğmesine}{morphologicalAnalysis=düğme+NOUN+A3SG+P3SG+DAT}{metaMorphemes=düğme+sH+nA} {turkish=dokunduk}{morphologicalAnalysis=dokun+VERB+POS+PAST+A1PL}{metaMorphemes=dokun+DH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

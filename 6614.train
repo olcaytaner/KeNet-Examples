@@ -1,1 +1,1 @@
-Boş kömür vagonetlerine bindik .
+{turkish=Boş}{morphologicalAnalysis=boş+ADJ}{metaMorphemes=boş} {turkish=kömür}{morphologicalAnalysis=kömür+ADJ}{metaMorphemes=kömür} {turkish=vagonetlerine}{morphologicalAnalysis=vagonet+NOUN+A3PL+P3SG+DAT}{metaMorphemes=vagonet+lAr+sH+nA} {turkish=bindik}{morphologicalAnalysis=bin+NUM+CARD^DB+VERB+ZERO+PAST+A1PL}{metaMorphemes=bin+yDH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

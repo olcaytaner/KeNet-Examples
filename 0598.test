@@ -1,1 +1,1 @@
-{turkish=Çürük}{morphologicalAnalysis=çürük+ADJ}{metaMorphemes=çürük} {turkish=dava}{morphologicalAnalysis=dava+NOUN+A3SG+PNON+NOM}{metaMorphemes=dava} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Çürük}{morphologicalAnalysis=çürük+ADJ}{metaMorphemes=çürük}{universalDependency=2$AMOD} {turkish=dava}{morphologicalAnalysis=dava+NOUN+A3SG+PNON+NOM}{metaMorphemes=dava}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

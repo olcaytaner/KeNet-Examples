@@ -1,1 +1,1 @@
-Yemek pek düzgün olmasa aşçıya çatar .
+{turkish=Yemek}{morphologicalAnalysis=yemek+NOUN+A3SG+PNON+NOM}{metaMorphemes=yemek} {turkish=pek}{morphologicalAnalysis=pek+ADV}{metaMorphemes=pek} {turkish=düzgün}{morphologicalAnalysis=düzgün+ADJ}{metaMorphemes=düzgün} {turkish=olmasa}{morphologicalAnalysis=ol+VERB+NEG+DESR+A3SG}{metaMorphemes=ol+mA+SA} {turkish=aşçıya}{morphologicalAnalysis=aşçı+NOUN+A3SG+PNON+DAT}{metaMorphemes=aşçı+yA} {turkish=çatar}{morphologicalAnalysis=çat+VERB+POS+AOR+A3SG}{metaMorphemes=çat+Ar} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

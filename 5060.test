@@ -1,1 +1,1 @@
-Bu düzme cadının peçesini kaldırmalıyız .
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=düzme}{morphologicalAnalysis=düzme+ADJ}{metaMorphemes=düzme} {turkish=cadının}{morphologicalAnalysis=cadı+NOUN+A3SG+PNON+GEN}{metaMorphemes=cadı+nHn} {turkish=peçesini}{morphologicalAnalysis=peçe+NOUN+A3SG+P3SG+ACC}{metaMorphemes=peçe+sH+nH} {turkish=kaldırmalıyız}{morphologicalAnalysis=kaldırma+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH^DB+VERB+ZERO+PRES+A1PL}{metaMorphemes=kaldırma+lH+yHz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

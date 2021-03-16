@@ -1,1 +1,1 @@
-Türk yurduna Türkiye denir .
+{turkish=Türk}{morphologicalAnalysis=türk+NOUN+A3SG+PNON+NOM}{metaMorphemes=türk} {turkish=yurduna}{morphologicalAnalysis=yurdu+NOUN+A3SG+P2SG+DAT}{metaMorphemes=yurdu+Hn+yA} {turkish=Türkiye}{morphologicalAnalysis=türkiye+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=türkiye} {turkish=denir}{morphologicalAnalysis=de+VERB^DB+VERB+REFLEX+POS+AOR+A3SG}{metaMorphemes=de+Hn+Hr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

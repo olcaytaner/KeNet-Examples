@@ -1,1 +1,1 @@
-Çocuk , mamasını tükürüyor .
+{turkish=Çocuk}{morphologicalAnalysis=çocuk+NOUN+A3SG+PNON+NOM}{metaMorphemes=çocuk} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=mamasını}{morphologicalAnalysis=mama+NOUN+A3SG+P3SG+ACC}{metaMorphemes=mama+sH+nH} {turkish=tükürüyor}{morphologicalAnalysis=tükür+VERB+POS+PROG1+A3SG}{metaMorphemes=tükür+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

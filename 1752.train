@@ -1,1 +1,1 @@
-Sonra birdenbire donuklaşarak müdüre sordu .
+{turkish=Sonra}{morphologicalAnalysis=sonra+ADV}{metaMorphemes=sonra} {turkish=birdenbire}{morphologicalAnalysis=birdenbire+ADV}{metaMorphemes=birdenbire} {turkish=donuklaşarak}{morphologicalAnalysis=donuklaş+VERB+POS^DB+ADV+BYDOINGSO}{metaMorphemes=donuklaş+yArAk} {turkish=müdüre}{morphologicalAnalysis=müdür+NOUN+A3SG+PNON+DAT}{metaMorphemes=müdür+yA} {turkish=sordu}{morphologicalAnalysis=sor+VERB+POS+PAST+A3SG}{metaMorphemes=sor+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

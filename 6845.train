@@ -1,1 +1,1 @@
-Isınmayı umarak başımı yastığa gömüyorum .
+{turkish=Isınmayı}{morphologicalAnalysis=ısınma+NOUN+A3SG+PNON+ACC}{metaMorphemes=ısınma+yH} {turkish=umarak}{morphologicalAnalysis=um+VERB+POS^DB+ADV+BYDOINGSO}{metaMorphemes=um+yArAk} {turkish=başımı}{morphologicalAnalysis=baş+NOUN+A3SG+P1SG+ACC}{metaMorphemes=baş+Hm+yH} {turkish=yastığa}{morphologicalAnalysis=yastık+NOUN+A3SG+PNON+DAT}{metaMorphemes=yastık+yA} {turkish=gömüyorum}{morphologicalAnalysis=göm+VERB+POS+PROG1+A1SG}{metaMorphemes=göm+Hyor+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

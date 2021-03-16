@@ -1,1 +1,1 @@
-Bu su içilir mi ?
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=su}{morphologicalAnalysis=su+NOUN+A3SG+PNON+NOM}{metaMorphemes=su} {turkish=içilir}{morphologicalAnalysis=iç+VERB^DB+VERB+PASS+POS+AOR+A3SG}{metaMorphemes=iç+Hl+Hr} {turkish=mi}{morphologicalAnalysis=mi+QUES+PRES+A3SG}{metaMorphemes=mi} {turkish=?}{morphologicalAnalysis=?+PUNC}{metaMorphemes=?}

@@ -1,1 +1,1 @@
-Bir kutu sigarasına bahse girdiler .
+{turkish=Bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=kutu}{morphologicalAnalysis=kutu+NOUN+A3SG+PNON+NOM}{metaMorphemes=kutu} {turkish=sigarasına}{morphologicalAnalysis=sigara+NOUN+A3SG+P3SG+DAT}{metaMorphemes=sigara+sH+nA} {turkish=bahse}{morphologicalAnalysis=bahis+NOUN+A3SG+PNON+DAT}{metaMorphemes=bahis+yA} {turkish=girdiler}{morphologicalAnalysis=gir+VERB+POS+PAST+A3PL}{metaMorphemes=gir+DH+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

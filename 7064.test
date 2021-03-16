@@ -1,1 +1,1 @@
-Yukarı , kocasının odasına çıktı .
+{turkish=Yukarı}{morphologicalAnalysis=yukarı+ADJ}{metaMorphemes=yukarı} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=kocasının}{morphologicalAnalysis=koca+NOUN+A3SG+P3SG+GEN}{metaMorphemes=koca+sH+nHn} {turkish=odasına}{morphologicalAnalysis=oda+NOUN+A3SG+P3SG+DAT}{metaMorphemes=oda+sH+nA} {turkish=çıktı}{morphologicalAnalysis=çık+VERB+POS+PAST+A3SG}{metaMorphemes=çık+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

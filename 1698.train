@@ -1,1 +1,1 @@
-1995 doğumlular askere çağrıldı .
+{turkish=1995}{morphologicalAnalysis=1995+NUM+CARD}{metaMorphemes=1995} {turkish=doğumlular}{morphologicalAnalysis=doğumlu+ADJ^DB+NOUN+ZERO+A3PL+PNON+NOM}{metaMorphemes=doğumlu+lAr} {turkish=askere}{morphologicalAnalysis=asker+NOUN+A3SG+PNON+DAT}{metaMorphemes=asker+yA} {turkish=çağrıldı}{morphologicalAnalysis=çağır+VERB^DB+VERB+PASS+POS+PAST+A3SG}{metaMorphemes=çağır+Hl+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

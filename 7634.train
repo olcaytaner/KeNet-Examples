@@ -1,1 +1,1 @@
-. kimsenin kızına pışt demeden .
+{turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.} {turkish=kimsenin}{morphologicalAnalysis=kimse+PRON+QUANTP+A3SG+P3SG+GEN}{metaMorphemes=kimse+nHn} {turkish=kızına}{morphologicalAnalysis=kız+NOUN+A3SG+P3SG+DAT}{metaMorphemes=kız+sH+nA} {turkish=pışt}{morphologicalAnalysis=pışt+NOUN+A3SG+PNON+NOM}{metaMorphemes=pışt} {turkish=demeden}{morphologicalAnalysis=deme+NOUN+A3SG+PNON+ABL}{metaMorphemes=deme+DAn} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

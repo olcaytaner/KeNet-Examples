@@ -1,1 +1,1 @@
-İki köy arasında erişim kesildi .
+{turkish=İki}{morphologicalAnalysis=iki+NUM+CARD}{metaMorphemes=iki} {turkish=köy}{morphologicalAnalysis=köy+NOUN+A3SG+PNON+NOM}{metaMorphemes=köy} {turkish=arasında}{morphologicalAnalysis=ara+NOUN+A3SG+P3SG+LOC}{metaMorphemes=ara+sH+nDA} {turkish=erişim}{morphologicalAnalysis=erişim+NOUN+A3SG+PNON+NOM}{metaMorphemes=erişim} {turkish=kesildi}{morphologicalAnalysis=kes+VERB^DB+VERB+PASS+POS+PAST+A3SG}{metaMorphemes=kes+Hl+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

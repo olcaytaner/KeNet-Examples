@@ -1,1 +1,1 @@
-Türk alfabesinde 29 harf vardır
+{turkish=Türk}{morphologicalAnalysis=türk+NOUN+A3SG+PNON+NOM}{metaMorphemes=türk} {turkish=alfabesinde}{morphologicalAnalysis=alfabe+NOUN+A3SG+P3SG+LOC}{metaMorphemes=alfabe+sH+nDA} {turkish=29}{morphologicalAnalysis=29+NUM+CARD}{metaMorphemes=29} {turkish=harf}{morphologicalAnalysis=harf+NOUN+A3SG+PNON+NOM}{metaMorphemes=harf} {turkish=vardır}{morphologicalAnalysis=var+ADJ^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=var+DHr}

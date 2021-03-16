@@ -1,1 +1,1 @@
-Sıtmayı çevreye yayan sivrisineklerdir .
+{turkish=Sıtmayı}{morphologicalAnalysis=sıtma+NOUN+A3SG+PNON+ACC}{metaMorphemes=sıtma+yH} {turkish=çevreye}{morphologicalAnalysis=çevre+NOUN+A3SG+PNON+DAT}{metaMorphemes=çevre+yA} {turkish=yayan}{morphologicalAnalysis=yay+VERB+POS^DB+ADJ+PRESPART}{metaMorphemes=yay+yAn} {turkish=sivrisineklerdir}{morphologicalAnalysis=sivrisinek+NOUN+A3PL+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=sivrisinek+lAr+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

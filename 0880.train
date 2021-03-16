@@ -1,1 +1,1 @@
-Kaldırıma boylu boyunca yatmıştı .
+{turkish=Kaldırıma}{morphologicalAnalysis=kaldırım+NOUN+A3SG+PNON+DAT}{metaMorphemes=kaldırım+yA} {turkish=boylu}{morphologicalAnalysis=boy+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=boy+lH} {turkish=boyunca}{morphologicalAnalysis=boyunca+POSTP+PCNOM}{metaMorphemes=boyunca} {turkish=yatmıştı}{morphologicalAnalysis=yat+VERB+POS+NARR+PAST+A3SG}{metaMorphemes=yat+mHs+yDH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

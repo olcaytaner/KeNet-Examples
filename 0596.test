@@ -1,1 +1,1 @@
-{turkish=Sancak}{morphologicalAnalysis=sancak+NOUN+A3SG+PNON+NOM}{metaMorphemes=sancak} {turkish=bataryası}{morphologicalAnalysis=batarya+NOUN+A3SG+P3SG+NOM}{metaMorphemes=batarya+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sancak}{morphologicalAnalysis=sancak+NOUN+A3SG+PNON+NOM}{metaMorphemes=sancak}{universalDependency=2$NMOD} {turkish=bataryası}{morphologicalAnalysis=batarya+NOUN+A3SG+P3SG+NOM}{metaMorphemes=batarya+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

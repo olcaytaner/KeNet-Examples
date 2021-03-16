@@ -1,1 +1,1 @@
-Bu fabrika piyasaya kumaş yağdırdı .
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=fabrika}{morphologicalAnalysis=fabrika+NOUN+A3SG+PNON+NOM}{metaMorphemes=fabrika} {turkish=piyasaya}{morphologicalAnalysis=piyasa+NOUN+A3SG+PNON+DAT}{metaMorphemes=piyasa+yA} {turkish=kumaş}{morphologicalAnalysis=kumaş+NOUN+A3SG+PNON+NOM}{metaMorphemes=kumaş} {turkish=yağdırdı}{morphologicalAnalysis=yağdır+VERB+POS+PAST+A3SG}{metaMorphemes=yağdır+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

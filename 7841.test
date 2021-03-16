@@ -1,1 +1,1 @@
-Yazar , kitabına basıla verdi .
+{turkish=Yazar}{morphologicalAnalysis=yazar+NOUN+A3SG+PNON+NOM}{metaMorphemes=yazar} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=kitabına}{morphologicalAnalysis=kitap+NOUN+A3SG+P3SG+DAT}{metaMorphemes=kitap+sH+nA} {turkish=basıla}{morphologicalAnalysis=basıla+NOUN+A3SG+PNON+NOM}{metaMorphemes=basıla} {turkish=verdi}{morphologicalAnalysis=ver+VERB+POS+PAST+A3SG}{metaMorphemes=ver+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

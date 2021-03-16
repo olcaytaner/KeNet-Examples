@@ -1,1 +1,1 @@
-Bu yaz tatil yapamayacağıma yanıyorum .
+{turkish=Bu}{morphologicalAnalysis=bu+PRON+DEMONSP+A3SG+PNON+NOM}{metaMorphemes=bu} {turkish=yaz}{morphologicalAnalysis=yaz+NOUN+A3SG+PNON+NOM}{metaMorphemes=yaz} {turkish=tatil}{morphologicalAnalysis=tatil+NOUN+A3SG+PNON+NOM}{metaMorphemes=tatil} {turkish=yapamayacağıma}{morphologicalAnalysis=yap+VERB^DB+VERB+ABLE+NEG^DB+NOUN+FUTPART+A3SG+P1SG+DAT}{metaMorphemes=yap+yAmA+yAcAk+Hm+yA} {turkish=yanıyorum}{morphologicalAnalysis=yan+VERB+POS+PROG1+A1SG}{metaMorphemes=yan+Hyor+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

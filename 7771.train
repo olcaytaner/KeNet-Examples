@@ -1,1 +1,1 @@
-Geçmeyen zamanın anasını uyku beller .
+{turkish=Geçmeyen}{morphologicalAnalysis=geç+VERB+NEG^DB+ADJ+PRESPART}{metaMorphemes=geç+mA+yAn} {turkish=zamanın}{morphologicalAnalysis=zaman+NOUN+A3SG+PNON+GEN}{metaMorphemes=zaman+nHn} {turkish=anasını}{morphologicalAnalysis=ana+NOUN+A3SG+P3SG+ACC}{metaMorphemes=ana+sH+nH} {turkish=uyku}{morphologicalAnalysis=uyku+NOUN+A3SG+PNON+NOM}{metaMorphemes=uyku} {turkish=beller}{morphologicalAnalysis=belle+VERB+POS+AOR+A3SG}{metaMorphemes=belle+Hr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

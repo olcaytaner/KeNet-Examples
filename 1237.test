@@ -1,1 +1,1 @@
-Siz bu yolun yükünü çekemezsiniz .
+{turkish=Siz}{morphologicalAnalysis=siz+PRON+PERS+A2PL+PNON+NOM}{metaMorphemes=siz} {turkish=bu}{morphologicalAnalysis=bu+PRON+DEMONSP+A3SG+PNON+NOM}{metaMorphemes=bu} {turkish=yolun}{morphologicalAnalysis=yol+NOUN+A3SG+PNON+GEN}{metaMorphemes=yol+nHn} {turkish=yükünü}{morphologicalAnalysis=yük+NOUN+A3SG+P3SG+ACC}{metaMorphemes=yük+sH+nH} {turkish=çekemezsiniz}{morphologicalAnalysis=çekemez+ADJ^DB+ADJ+JUSTLIKE^DB+NOUN+ZERO+A3SG+P2PL+NOM}{metaMorphemes=çekemez+SH+HnHz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

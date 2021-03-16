@@ -1,1 +1,1 @@
-Uzaktan kılavuzlama yapılacak .
+{turkish=Uzaktan}{morphologicalAnalysis=uzak+ADJ^DB+NOUN+ZERO+A3SG+PNON+ABL}{metaMorphemes=uzak+DAn} {turkish=kılavuzlama}{morphologicalAnalysis=kılavuzlama+NOUN+A3SG+PNON+NOM}{metaMorphemes=kılavuzlama} {turkish=yapılacak}{morphologicalAnalysis=yap+VERB^DB+VERB+PASS+POS+FUT+A3SG}{metaMorphemes=yap+Hl+yAcAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

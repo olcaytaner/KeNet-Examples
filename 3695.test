@@ -1,1 +1,1 @@
-Kurt , kuzuyu kıtır kıtır yemiş .
+{turkish=Kurt}{morphologicalAnalysis=kurt+NOUN+A3SG+PNON+NOM}{metaMorphemes=kurt} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=kuzuyu}{morphologicalAnalysis=kuzu+NOUN+A3SG+PNON+ACC}{metaMorphemes=kuzu+yH} {turkish=kıtır}{morphologicalAnalysis=kıtır+DUP}{metaMorphemes=kıtır} {turkish=kıtır}{morphologicalAnalysis=kıtır+DUP}{metaMorphemes=kıtır} {turkish=yemiş}{morphologicalAnalysis=yemiş+NOUN+A3SG+PNON+NOM}{metaMorphemes=yemiş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

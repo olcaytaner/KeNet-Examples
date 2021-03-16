@@ -1,1 +1,1 @@
-Buradan orası beş konaktır .
+{turkish=Buradan}{morphologicalAnalysis=buradan+ADV}{metaMorphemes=buradan} {turkish=orası}{morphologicalAnalysis=orası+NOUN+A3SG+PNON+NOM}{metaMorphemes=orası} {turkish=beş}{morphologicalAnalysis=beş+NUM+CARD}{metaMorphemes=beş} {turkish=konaktır}{morphologicalAnalysis=konak+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=konak+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

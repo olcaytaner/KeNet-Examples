@@ -1,1 +1,1 @@
-Türklerde yazının kullanılması eskidir .
+{turkish=Türklerde}{morphologicalAnalysis=türk+NOUN+A3PL+PNON+LOC}{metaMorphemes=türk+lAr+DA} {turkish=yazının}{morphologicalAnalysis=yazın+NOUN+A3SG+PNON+GEN}{metaMorphemes=yazın+nHn} {turkish=kullanılması}{morphologicalAnalysis=kullan+VERB^DB+VERB+PASS+POS^DB+NOUN+INF2+A3SG+P3SG+NOM}{metaMorphemes=kullan+Hl+mA+sH} {turkish=eskidir}{morphologicalAnalysis=eski+ADJ^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=eski+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

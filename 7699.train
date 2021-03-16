@@ -1,1 +1,1 @@
-Yalvardım , af diledim , barıştık .
+{turkish=Yalvardım}{morphologicalAnalysis=yalvar+VERB+POS+PAST+A1SG}{metaMorphemes=yalvar+DH+m} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=af}{morphologicalAnalysis=af+NOUN+A3SG+PNON+NOM}{metaMorphemes=af} {turkish=diledim}{morphologicalAnalysis=dile+VERB+POS+PAST+A1SG}{metaMorphemes=dile+DH+m} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=barıştık}{morphologicalAnalysis=barış+VERB+POS+PAST+A1PL}{metaMorphemes=barış+DH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,1 +1,1 @@
-Sözü işine geldiği gibi çevirdi .
+{turkish=Sözü}{morphologicalAnalysis=söz+NOUN+A3SG+P3SG+NOM}{metaMorphemes=söz+sH} {turkish=işine}{morphologicalAnalysis=iş+NOUN+A3SG+P3SG+DAT}{metaMorphemes=iş+sH+nA} {turkish=geldiği}{morphologicalAnalysis=gel+VERB+POS^DB+NOUN+PASTPART+A3SG+P3SG+NOM}{metaMorphemes=gel+DHk+sH} {turkish=gibi}{morphologicalAnalysis=gibi+POSTP+PCNOM}{metaMorphemes=gibi} {turkish=çevirdi}{morphologicalAnalysis=çevir+VERB+POS+PAST+A3SG}{metaMorphemes=çevir+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

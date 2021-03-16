@@ -1,1 +1,1 @@
-Başkan açılış konuşmasını kısa tuttu .
+{turkish=Başkan}{morphologicalAnalysis=başkan+NOUN+A3SG+PNON+NOM}{metaMorphemes=başkan} {turkish=açılış}{morphologicalAnalysis=açılış+NOUN+A3SG+PNON+NOM}{metaMorphemes=açılış} {turkish=konuşmasını}{morphologicalAnalysis=konuş+VERB+POS^DB+NOUN+INF2+A3SG+P3SG+ACC}{metaMorphemes=konuş+mA+sH+nH} {turkish=kısa}{morphologicalAnalysis=kısa+ADJ}{metaMorphemes=kısa} {turkish=tuttu}{morphologicalAnalysis=tut+VERB+POS+PAST+A3SG}{metaMorphemes=tut+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

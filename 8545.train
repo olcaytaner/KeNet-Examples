@@ -1,1 +1,1 @@
-On beş yıl hapse mahkûm ettiler .
+{turkish=On}{morphologicalAnalysis=on+NUM+CARD}{metaMorphemes=on} {turkish=beş}{morphologicalAnalysis=beş+NUM+CARD}{metaMorphemes=beş} {turkish=yıl}{morphologicalAnalysis=yıl+NOUN+A3SG+PNON+NOM}{metaMorphemes=yıl} {turkish=hapse}{morphologicalAnalysis=hapis+NOUN+A3SG+PNON+DAT}{metaMorphemes=hapis+yA} {turkish=mahkûm}{morphologicalAnalysis=mahkûm+ADJ}{metaMorphemes=mahkûm} {turkish=ettiler}{morphologicalAnalysis=et+VERB+POS+PAST+A3PL}{metaMorphemes=et+DH+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

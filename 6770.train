@@ -1,1 +1,1 @@
-İki katlı yayvan bir evdi .
+{turkish=İki}{morphologicalAnalysis=iki+NUM+CARD}{metaMorphemes=iki} {turkish=katlı}{morphologicalAnalysis=kat+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=kat+lH} {turkish=yayvan}{morphologicalAnalysis=yayvan+ADJ}{metaMorphemes=yayvan} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=evdi}{morphologicalAnalysis=ev+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PAST+A3SG}{metaMorphemes=ev+yDH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,1 +1,1 @@
-{turkish=Salıntılı} {turkish=bir} {turkish=ev} {turkish=.}{universalDependency=3$PUNCT}
+{turkish=Salıntılı}{morphologicalAnalysis=salıntılı+ADJ}{metaMorphemes=salıntılı} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=ev}{morphologicalAnalysis=ev+NOUN+A3SG+PNON+NOM}{metaMorphemes=ev} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

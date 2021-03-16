@@ -1,1 +1,1 @@
-Aklı hep evde , Gülsüm'deydi .
+{turkish=Aklı}{morphologicalAnalysis=akıl+NOUN+A3SG+P3SG+NOM}{metaMorphemes=akıl+sH} {turkish=hep}{morphologicalAnalysis=hep+ADV}{metaMorphemes=hep} {turkish=evde}{morphologicalAnalysis=ev+NOUN+A3SG+PNON+LOC}{metaMorphemes=ev+DA} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=Gülsüm'deydi}{morphologicalAnalysis=gülsüm+NOUN+PROP+A3SG+PNON+LOC^DB+VERB+ZERO+PAST+A3SG}{metaMorphemes=gülsüm+'DA+yDH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

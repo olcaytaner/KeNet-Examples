@@ -1,1 +1,1 @@
-Eğitim konusuna dokunan bir yazı .
+{turkish=Eğitim}{morphologicalAnalysis=eğitim+NOUN+A3SG+PNON+NOM}{metaMorphemes=eğitim} {turkish=konusuna}{morphologicalAnalysis=konu+NOUN+A3SG+P3SG+DAT}{metaMorphemes=konu+sH+nA} {turkish=dokunan}{morphologicalAnalysis=dokun+VERB+POS^DB+ADJ+PRESPART}{metaMorphemes=dokun+yAn} {turkish=bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=yazı}{morphologicalAnalysis=yaz+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yaz+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

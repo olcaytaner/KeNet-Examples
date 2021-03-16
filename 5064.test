@@ -1,1 +1,1 @@
-İnsan gülden nazik , taştan pektir .
+{turkish=İnsan}{morphologicalAnalysis=insan+NOUN+A3SG+PNON+NOM}{metaMorphemes=insan} {turkish=gülden}{morphologicalAnalysis=gül+NOUN+A3SG+PNON+ABL}{metaMorphemes=gül+DAn} {turkish=nazik}{morphologicalAnalysis=nazik+ADJ}{metaMorphemes=nazik} {turkish=,}{morphologicalAnalysis=,+PUNC}{metaMorphemes=,} {turkish=taştan}{morphologicalAnalysis=taş+NOUN+A3SG+PNON+ABL}{metaMorphemes=taş+DAn} {turkish=pektir}{morphologicalAnalysis=pektir+NOUN+A3SG+PNON+NOM}{metaMorphemes=pektir} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

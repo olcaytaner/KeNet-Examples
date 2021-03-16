@@ -1,1 +1,1 @@
-Bir bardak suyu içince dirildi .
+{turkish=Bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=bardak}{morphologicalAnalysis=bardak+NOUN+A3SG+PNON+NOM}{metaMorphemes=bardak} {turkish=suyu}{morphologicalAnalysis=su+NOUN+A3SG+PNON+ACC}{metaMorphemes=su+yH} {turkish=içince}{morphologicalAnalysis=iç+NOUN+A3SG+P2SG+EQU}{metaMorphemes=iç+Hn+CA} {turkish=dirildi}{morphologicalAnalysis=diril+VERB+POS+PAST+A3SG}{metaMorphemes=diril+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

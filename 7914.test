@@ -1,1 +1,1 @@
-Bir köşeye çekilip ölümü beklemek .
+{turkish=Bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=köşeye}{morphologicalAnalysis=köşe+NOUN+A3SG+PNON+DAT}{metaMorphemes=köşe+yA} {turkish=çekilip}{morphologicalAnalysis=çekil+VERB+POS^DB+ADV+AFTERDOINGSO}{metaMorphemes=çekil+yHp} {turkish=ölümü}{morphologicalAnalysis=ölüm+NOUN+A3SG+P3SG+NOM}{metaMorphemes=ölüm+sH} {turkish=beklemek}{morphologicalAnalysis=bekle+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=bekle+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,1 +1,1 @@
-{turkish=Ayağına} {turkish=yolda} {turkish=diken} {turkish=batmıştı} {turkish=.}
+{turkish=Ayağına}{morphologicalAnalysis=ayak+NOUN+A3SG+P3SG+DAT}{metaMorphemes=ayak+sH+nA} {turkish=yolda}{morphologicalAnalysis=yol+NOUN+A3SG+PNON+LOC}{metaMorphemes=yol+DA} {turkish=diken}{morphologicalAnalysis=diken+NOUN+A3SG+PNON+NOM}{metaMorphemes=diken} {turkish=batmıştı}{morphologicalAnalysis=bat+VERB+POS+NARR+PAST+A3SG}{metaMorphemes=bat+mHs+yDH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

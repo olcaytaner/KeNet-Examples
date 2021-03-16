@@ -1,1 +1,1 @@
-Bir gün kalbini İclâl'e açtı .
+{turkish=Bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=gün}{morphologicalAnalysis=gün+NOUN+A3SG+PNON+NOM}{metaMorphemes=gün} {turkish=kalbini}{morphologicalAnalysis=kalp+NOUN+A3SG+P3SG+ACC}{metaMorphemes=kalp+sH+nH} {turkish=İclal'a}{morphologicalAnalysis=iclal+NOUN+PROP+A3SG+PNON+DAT}{metaMorphemes=iclal+'yA} {turkish=açtı}{morphologicalAnalysis=aç+VERB+POS+PAST+A3SG}{metaMorphemes=aç+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,1 +1,1 @@
-Şimdi bu elemanları ince ince dileceğim .
+{turkish=Şimdi}{morphologicalAnalysis=şimdi+ADV}{metaMorphemes=şimdi} {turkish=bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=elemanları}{morphologicalAnalysis=eleman+NOUN+A3PL+P3SG+NOM}{metaMorphemes=eleman+lAr+sH} {turkish=ince}{morphologicalAnalysis=ince+ADJ}{metaMorphemes=ince} {turkish=ince}{morphologicalAnalysis=ince+ADJ}{metaMorphemes=ince} {turkish=dileceğim}{morphologicalAnalysis=dil+VERB+POS+FUT+A1SG}{metaMorphemes=dil+yAcAk+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

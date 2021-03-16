@@ -1,1 +1,1 @@
-Bir âlem bu toprakların üstü .
+{turkish=Bir}{morphologicalAnalysis=bir+DET}{metaMorphemes=bir} {turkish=âlem}{morphologicalAnalysis=âlem+NOUN+A3SG+PNON+NOM}{metaMorphemes=âlem} {turkish=bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=toprakların}{morphologicalAnalysis=toprakla+VERB+POS+AOR^DB+ADJ+ZERO^DB+NOUN+ZERO+A3SG+P2SG+NOM}{metaMorphemes=toprakla+Hr+Hn} {turkish=üstü}{morphologicalAnalysis=üst+NOUN+A3SG+P3SG+NOM}{metaMorphemes=üst+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

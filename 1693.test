@@ -1,1 +1,1 @@
-Şafağa doğru otomobil sesi duyuldu .
+{turkish=Şafağa}{morphologicalAnalysis=şafak+NOUN+A3SG+PNON+DAT}{metaMorphemes=şafak+yA} {turkish=doğru}{morphologicalAnalysis=doğru+POSTP+PCDAT}{metaMorphemes=doğru} {turkish=otomobil}{morphologicalAnalysis=otomobil+NOUN+A3SG+PNON+NOM}{metaMorphemes=otomobil} {turkish=sesi}{morphologicalAnalysis=ses+NOUN+A3SG+P3SG+NOM}{metaMorphemes=ses+sH} {turkish=duyuldu}{morphologicalAnalysis=duy+VERB^DB+VERB+PASS+POS+PAST+A3SG}{metaMorphemes=duy+Hl+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

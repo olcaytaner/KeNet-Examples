@@ -1,1 +1,1 @@
-1,5 veya 1,3 kesirli sayılardır .
+{turkish=1,5}{morphologicalAnalysis=1,5+NOUN+A3SG+PNON+NOM}{metaMorphemes=1,5} {turkish=veya}{morphologicalAnalysis=veya+CONJ}{metaMorphemes=veya} {turkish=1,3}{morphologicalAnalysis=1,3+NOUN+A3SG+PNON+NOM}{metaMorphemes=1,3} {turkish=kesirli}{morphologicalAnalysis=kesirli+ADJ}{metaMorphemes=kesirli} {turkish=sayılardır}{morphologicalAnalysis=sayıla+VERB+POS+AOR+COP+A3SG}{metaMorphemes=sayıla+Hr+DHr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

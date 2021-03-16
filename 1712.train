@@ -1,1 +1,1 @@
-Bu sargı ancak üç dolam dolanabilir .
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=sargı}{morphologicalAnalysis=sargı+NOUN+A3SG+PNON+NOM}{metaMorphemes=sargı} {turkish=ancak}{morphologicalAnalysis=ancak+CONJ}{metaMorphemes=ancak} {turkish=üç}{morphologicalAnalysis=üç+NUM+CARD}{metaMorphemes=üç} {turkish=dolam}{morphologicalAnalysis=dolam+NOUN+A3SG+PNON+NOM}{metaMorphemes=dolam} {turkish=dolanabilir}{morphologicalAnalysis=dolan+VERB+POS^DB+VERB+ABLE+AOR+A3SG}{metaMorphemes=dolan+yAbil+Hr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

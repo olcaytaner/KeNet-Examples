@@ -1,1 +1,1 @@
-Bu otobüs direkt İstanbul'a gider .
+{turkish=Bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=otobüs}{morphologicalAnalysis=otobüs+NOUN+A3SG+PNON+NOM}{metaMorphemes=otobüs} {turkish=direkt}{morphologicalAnalysis=direkt+ADV}{metaMorphemes=direkt} {turkish=İstanbul'a}{morphologicalAnalysis=istanbul+NOUN+PROP+A3SG+PNON+DAT}{metaMorphemes=istanbul+'yA} {turkish=gider}{morphologicalAnalysis=git+VERB+POS+AOR+A3SG}{metaMorphemes=git+Ar} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

@@ -1,1 +1,1 @@
-Kısaca boylu esmer oğlan koştu .
+{turkish=Kısaca}{morphologicalAnalysis=kısa+ADJ^DB+ADV+LY}{metaMorphemes=kısa+CA} {turkish=boylu}{morphologicalAnalysis=boy+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=boy+lH} {turkish=esmer}{morphologicalAnalysis=esmer+ADJ}{metaMorphemes=esmer} {turkish=oğlan}{morphologicalAnalysis=oğlan+NOUN+A3SG+PNON+NOM}{metaMorphemes=oğlan} {turkish=koştu}{morphologicalAnalysis=koş+VERB+POS+PAST+A3SG}{metaMorphemes=koş+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
