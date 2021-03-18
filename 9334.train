@@ -1,1 +1,1 @@
-{turkish=Pastayı}{morphologicalAnalysis=pasta+NOUN+A3SG+PNON+ACC}{metaMorphemes=pasta+yH} {turkish=kestik}{morphologicalAnalysis=kes+VERB+POS+PAST+A1PL}{metaMorphemes=kes+DH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Pastayı}{morphologicalAnalysis=pasta+NOUN+A3SG+PNON+ACC}{metaMorphemes=pasta+yH}{universalDependency=2$OBJ} {turkish=kestik}{morphologicalAnalysis=kes+VERB+POS+PAST+A1PL}{metaMorphemes=kes+DH+k}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
