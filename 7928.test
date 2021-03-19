@@ -1,1 +1,1 @@
-{turkish=Nankörler}{morphologicalAnalysis=nankör+ADJ^DB+NOUN+ZERO+A3PL+PNON+NOM}{metaMorphemes=nankör+lAr} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Nankörler}{morphologicalAnalysis=nankör+ADJ^DB+NOUN+ZERO+A3PL+PNON+NOM}{metaMorphemes=nankör+lAr}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}
