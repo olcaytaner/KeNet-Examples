@@ -1,1 +1,1 @@
-{turkish=İşi}{morphologicalAnalysis=iş+NOUN+A3SG+P3SG+NOM}{metaMorphemes=iş+sH} {turkish=ortaladık}{morphologicalAnalysis=ortala+VERB+POS+PAST+A1PL}{metaMorphemes=ortala+DH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İşi}{morphologicalAnalysis=iş+NOUN+A3SG+P3SG+NOM}{metaMorphemes=iş+sH}{universalDependency=2$OBJ} {turkish=ortaladık}{morphologicalAnalysis=ortala+VERB+POS+PAST+A1PL}{metaMorphemes=ortala+DH+k}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

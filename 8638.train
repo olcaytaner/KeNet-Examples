@@ -1,1 +1,1 @@
-{turkish=Neymiş}{morphologicalAnalysis=neymiş+NOUN+A3SG+PNON+NOM}{metaMorphemes=neymiş} {turkish=?}{morphologicalAnalysis=?+PUNC}{metaMorphemes=?}
+{turkish=Neymiş}{morphologicalAnalysis=neymiş+NOUN+A3SG+PNON+NOM}{metaMorphemes=neymiş}{universalDependency=0$ROOT} {turkish=?}{morphologicalAnalysis=?+PUNC}{metaMorphemes=?}{universalDependency=1$PUNCT}

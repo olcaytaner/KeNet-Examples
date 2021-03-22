@@ -1,1 +1,1 @@
-{turkish=Olur}{morphologicalAnalysis=ol+VERB+POS+AOR^DB+ADJ+ZERO}{metaMorphemes=ol+Hr} {turkish=a}{morphologicalAnalysis=a+ADJ}{metaMorphemes=a} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Olur}{morphologicalAnalysis=ol+VERB+POS+AOR+A3SG}{metaMorphemes=ol+Hr}{universalDependency=0$ROOT} {turkish=ya}{morphologicalAnalysis=a+ADJ}{metaMorphemes=a}{universalDependency=1$DISCOURSE} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=2$PUNCT}
