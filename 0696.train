@@ -1,1 +1,1 @@
-{turkish=Beşerî}{morphologicalAnalysis=beşerî+ADJ}{metaMorphemes=beşerî} {turkish=ilişkiler}{morphologicalAnalysis=ilişki+NOUN+A3PL+PNON+NOM}{metaMorphemes=ilişki+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Beşerî}{morphologicalAnalysis=beşerî+ADJ}{metaMorphemes=beşerî}{universalDependency=2$AMOD} {turkish=ilişkiler}{morphologicalAnalysis=ilişki+NOUN+A3PL+PNON+NOM}{metaMorphemes=ilişki+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

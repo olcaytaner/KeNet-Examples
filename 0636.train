@@ -1,1 +1,1 @@
-{turkish=İnsaftan}{morphologicalAnalysis=insaf+NOUN+A3SG+PNON+ABL}{metaMorphemes=insaf+DAn} {turkish=behresiz}{morphologicalAnalysis=behresiz+ADJ}{metaMorphemes=behresiz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İnsaftan}{morphologicalAnalysis=insaf+NOUN+A3SG+PNON+ABL}{metaMorphemes=insaf+DAn}{universalDependency=2$OBL} {turkish=behresiz}{morphologicalAnalysis=behresiz+ADJ}{metaMorphemes=behresiz}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Bayat}{morphologicalAnalysis=bayat+ADJ}{metaMorphemes=bayat} {turkish=haber}{morphologicalAnalysis=haber+NOUN+A3SG+PNON+NOM}{metaMorphemes=haber} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bayat}{morphologicalAnalysis=bayat+ADJ}{metaMorphemes=bayat}{universalDependency=2$AMOD} {turkish=haber}{morphologicalAnalysis=haber+NOUN+A3SG+PNON+NOM}{metaMorphemes=haber}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

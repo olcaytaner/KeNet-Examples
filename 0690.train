@@ -1,1 +1,1 @@
-{turkish=Besleme}{morphologicalAnalysis=besleme+ADJ}{metaMorphemes=besleme} {turkish=gazete}{morphologicalAnalysis=gazete+NOUN+A3SG+PNON+NOM}{metaMorphemes=gazete} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Besleme}{morphologicalAnalysis=besleme+ADJ}{metaMorphemes=besleme}{universalDependency=2$AMOD} {turkish=gazete}{morphologicalAnalysis=gazete+NOUN+A3SG+PNON+NOM}{metaMorphemes=gazete}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Doktor}{morphologicalAnalysis=doktor+NOUN+A3SG+PNON+NOM}{metaMorphemes=doktor} {turkish=bey}{morphologicalAnalysis=bey+NOUN+A3SG+PNON+NOM}{metaMorphemes=bey} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Doktor}{morphologicalAnalysis=doktor+NOUN+A3SG+PNON+NOM}{metaMorphemes=doktor}{universalDependency=2$NMOD} {turkish=bey}{morphologicalAnalysis=bey+NOUN+A3SG+PNON+NOM}{metaMorphemes=bey}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

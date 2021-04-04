@@ -1,1 +1,1 @@
-{turkish=Amerikan}{morphologicalAnalysis=amerikan+ADJ}{metaMorphemes=amerikan} {turkish=bezi}{morphologicalAnalysis=bez+NOUN+A3SG+P3SG+NOM}{metaMorphemes=bez+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Amerikan}{morphologicalAnalysis=amerikan+ADJ}{metaMorphemes=amerikan}{universalDependency=2$AMOD} {turkish=bezi}{morphologicalAnalysis=bez+NOUN+A3SG+P3SG+NOM}{metaMorphemes=bez+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
