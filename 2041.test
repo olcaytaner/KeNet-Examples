@@ -1,1 +1,1 @@
-{turkish=Mebus}{morphologicalAnalysis=mebus+NOUN+A3SG+PNON+NOM}{metaMorphemes=mebus} {turkish=eskisi}{morphologicalAnalysis=eski+ADJ^DB+NOUN+ZERO+A3SG+P3SG+NOM}{metaMorphemes=eski+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Mebus}{morphologicalAnalysis=mebus+NOUN+A3SG+PNON+NOM}{metaMorphemes=mebus}{universalDependency=2$NMOD} {turkish=eskisi}{morphologicalAnalysis=eski+ADJ^DB+NOUN+ZERO+A3SG+P3SG+NOM}{metaMorphemes=eski+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

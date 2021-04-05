@@ -1,1 +1,1 @@
-{turkish=Bostanı}{morphologicalAnalysis=bostan+NOUN+A3SG+P3SG+NOM}{metaMorphemes=bostan+sH} {turkish=bozduk}{morphologicalAnalysis=boz+ADJ^DB+VERB+ZERO+PAST+A1PL}{metaMorphemes=boz+yDH+k} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bostanı}{morphologicalAnalysis=bostan+NOUN+A3SG+P3SG+NOM}{metaMorphemes=bostan+sH}{universalDependency=2$OBJ} {turkish=bozduk}{morphologicalAnalysis=boz+ADJ^DB+VERB+ZERO+PAST+A1PL}{metaMorphemes=boz+yDH+k}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

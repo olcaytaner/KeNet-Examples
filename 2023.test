@@ -1,1 +1,1 @@
-{turkish=Isıl}{morphologicalAnalysis=ısıl+ADJ}{metaMorphemes=ısıl} {turkish=enerji}{morphologicalAnalysis=enerji+NOUN+A3SG+PNON+NOM}{metaMorphemes=enerji} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Isıl}{morphologicalAnalysis=ısıl+ADJ}{metaMorphemes=ısıl}{universalDependency=2$AMOD} {turkish=enerji}{morphologicalAnalysis=enerji+NOUN+A3SG+PNON+NOM}{metaMorphemes=enerji}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Baca}{morphologicalAnalysis=baca+NOUN+A3SG+PNON+NOM}{metaMorphemes=baca} {turkish=eteği}{morphologicalAnalysis=etek+NOUN+A3SG+P3SG+NOM}{metaMorphemes=etek+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Baca}{morphologicalAnalysis=baca+NOUN+A3SG+PNON+NOM}{metaMorphemes=baca}{universalDependency=2$NMOD} {turkish=eteği}{morphologicalAnalysis=etek+NOUN+A3SG+P3SG+NOM}{metaMorphemes=etek+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

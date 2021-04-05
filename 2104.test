@@ -1,1 +1,1 @@
-{turkish=Ezici}{morphologicalAnalysis=ez+VERB+POS^DB+NOUN+AGT+A3SG+PNON+NOM}{metaMorphemes=ez+yHcH} {turkish=çoğunluk}{morphologicalAnalysis=çoğunluk+NOUN+A3SG+PNON+NOM}{metaMorphemes=çoğunluk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ezici}{morphologicalAnalysis=ez+VERB+POS^DB+ADJ+AGT}{metaMorphemes=ez+yHcH}{universalDependency=2$AMOD} {turkish=çoğunluk}{morphologicalAnalysis=çoğunluk+NOUN+A3SG+PNON+NOM}{metaMorphemes=çoğunluk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

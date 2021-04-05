@@ -1,1 +1,1 @@
-{turkish=Böcekkabuğu}{morphologicalAnalysis=böcekkabuğu+NOUN+A3SG+PNON+NOM}{metaMorphemes=böcekkabuğu} {turkish=deri}{morphologicalAnalysis=deri+NOUN+A3SG+PNON+NOM}{metaMorphemes=deri} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Böcekkabuğu}{morphologicalAnalysis=böcekkabuğu+NOUN+A3SG+PNON+NOM}{metaMorphemes=böcekkabuğu}{universalDependency=2$NMOD} {turkish=deri}{morphologicalAnalysis=deri+NOUN+A3SG+PNON+NOM}{metaMorphemes=deri}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
