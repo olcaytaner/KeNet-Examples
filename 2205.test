@@ -1,1 +1,1 @@
-{turkish=Elma}{morphologicalAnalysis=elma+NOUN+A3SG+PNON+NOM}{metaMorphemes=elma} {turkish=fidanı}{morphologicalAnalysis=fidan+NOUN+A3SG+P3SG+NOM}{metaMorphemes=fidan+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Elma}{morphologicalAnalysis=elma+NOUN+A3SG+PNON+NOM}{metaMorphemes=elma}{universalDependency=2$NMOD} {turkish=fidanı}{morphologicalAnalysis=fidan+NOUN+A3SG+P3SG+NOM}{metaMorphemes=fidan+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

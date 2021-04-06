@@ -1,1 +1,1 @@
-{turkish=Fennî}{morphologicalAnalysis=fennî+ADJ}{metaMorphemes=fennî} {turkish=sünnetçi}{morphologicalAnalysis=sünnet+NOUN+A3SG+PNON+NOM^DB+ADJ+AGT}{metaMorphemes=sünnet+CH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Fennî}{morphologicalAnalysis=fennî+ADJ}{metaMorphemes=fennî}{universalDependency=2$AMOD} {turkish=sünnetçi}{morphologicalAnalysis=sünnet+NOUN+A3SG+PNON+NOM^DB+ADJ+AGT}{metaMorphemes=sünnet+CH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

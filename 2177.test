@@ -1,1 +1,1 @@
-{turkish=Kiraz}{morphologicalAnalysis=kiraz+NOUN+A3SG+PNON+NOM}{metaMorphemes=kiraz} {turkish=festivali}{morphologicalAnalysis=festival+NOUN+A3SG+PNON+ACC}{metaMorphemes=festival+yH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kiraz}{morphologicalAnalysis=kiraz+NOUN+A3SG+PNON+NOM}{metaMorphemes=kiraz}{universalDependency=2$NMOD} {turkish=festivali}{morphologicalAnalysis=festival+NOUN+A3SG+PNON+ACC}{metaMorphemes=festival+yH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

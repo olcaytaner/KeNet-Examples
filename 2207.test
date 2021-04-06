@@ -1,1 +1,1 @@
-{turkish=Bale}{morphologicalAnalysis=bale+NOUN+A3SG+PNON+NOM}{metaMorphemes=bale} {turkish=figürü}{morphologicalAnalysis=figür+NOUN+A3SG+PNON+ACC}{metaMorphemes=figür+yH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bale}{morphologicalAnalysis=bale+NOUN+A3SG+PNON+NOM}{metaMorphemes=bale}{universalDependency=2$NMOD} {turkish=figürü}{morphologicalAnalysis=figür+NOUN+A3SG+PNON+ACC}{metaMorphemes=figür+yH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

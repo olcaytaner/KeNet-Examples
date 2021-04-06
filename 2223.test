@@ -1,1 +1,1 @@
-{turkish=Fisto}{morphologicalAnalysis=fisto+NOUN+A3SG+PNON+NOM}{metaMorphemes=fisto} {turkish=bluz}{morphologicalAnalysis=bluz+NOUN+A3SG+PNON+NOM}{metaMorphemes=bluz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Fisto}{morphologicalAnalysis=fisto+NOUN+A3SG+PNON+NOM}{metaMorphemes=fisto}{universalDependency=2$NMOD} {turkish=bluz}{morphologicalAnalysis=bluz+NOUN+A3SG+PNON+NOM}{metaMorphemes=bluz}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
