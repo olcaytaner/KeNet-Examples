@@ -1,1 +1,1 @@
-{turkish=Fasit}{morphologicalAnalysis=fasit+ADJ}{metaMorphemes=fasit} {turkish=adam}{morphologicalAnalysis=ada+NOUN+A3SG+P1SG+NOM}{metaMorphemes=ada+Hm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Fasit}{morphologicalAnalysis=fasit+ADJ}{metaMorphemes=fasit}{universalDependency=2$AMOD} {turkish=adam}{morphologicalAnalysis=ada+NOUN+A3SG+P1SG+NOM}{metaMorphemes=ada+Hm}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
