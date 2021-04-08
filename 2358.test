@@ -1,1 +1,1 @@
-{turkish=Genel}{morphologicalAnalysis=genel+ADJ}{metaMorphemes=genel} {turkish=düşünce}{morphologicalAnalysis=düşünce+NOUN+A3SG+PNON+NOM}{metaMorphemes=düşünce} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Genel}{morphologicalAnalysis=genel+ADJ}{metaMorphemes=genel}{universalDependency=2$AMOD} {turkish=düşünce}{morphologicalAnalysis=düşünce+NOUN+A3SG+PNON+NOM}{metaMorphemes=düşünce}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

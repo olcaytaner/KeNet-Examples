@@ -1,1 +1,1 @@
-{turkish=Geçer}{morphologicalAnalysis=geç+VERB+POS+AOR^DB+ADJ+ZERO}{metaMorphemes=geç+Ar} {turkish=para}{morphologicalAnalysis=para+NOUN+A3SG+PNON+NOM}{metaMorphemes=para} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Geçer}{morphologicalAnalysis=geç+VERB+POS+AOR^DB+ADJ+ZERO}{metaMorphemes=geç+Ar}{universalDependency=2$AMOD} {turkish=para}{morphologicalAnalysis=para+NOUN+A3SG+PNON+NOM}{metaMorphemes=para}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

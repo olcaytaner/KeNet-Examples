@@ -1,1 +1,1 @@
-{turkish=Şemsiyem}{morphologicalAnalysis=şemsiye+NOUN+A3SG+P1SG+NOM}{metaMorphemes=şemsiye+Hm} {turkish=nerede}{morphologicalAnalysis=nerede+ADV}{metaMorphemes=nerede} {turkish=?}{morphologicalAnalysis=?+PUNC}{metaMorphemes=?}
+{turkish=Şemsiyem}{morphologicalAnalysis=şemsiye+NOUN+A3SG+P1SG+NOM}{metaMorphemes=şemsiye+Hm}{universalDependency=2$NSUBJ} {turkish=nerede}{morphologicalAnalysis=nere+PRON+QUESP+A3SG+PNON+LOC}{metaMorphemes=nere+DA}{universalDependency=0$ROOT} {turkish=?}{morphologicalAnalysis=?+PUNC}{metaMorphemes=?}{universalDependency=2$PUNCT}

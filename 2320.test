@@ -1,1 +1,1 @@
-{turkish=Hakkın}{morphologicalAnalysis=hak+NOUN+A3SG+PNON+GEN}{metaMorphemes=hak+nHn} {turkish=var}{morphologicalAnalysis=var+ADJ}{metaMorphemes=var} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Hakkın}{morphologicalAnalysis=hak+NOUN+A3SG+PNON+GEN}{metaMorphemes=hak+nHn}{universalDependency=2$NSUBJ} {turkish=var}{morphologicalAnalysis=var+ADJ}{metaMorphemes=var}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
