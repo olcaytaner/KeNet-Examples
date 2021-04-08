@@ -1,1 +1,1 @@
-{turkish=Bromürlü}{morphologicalAnalysis=bromürlü+ADJ}{metaMorphemes=bromürlü} {turkish=eriyik}{morphologicalAnalysis=eriyik+NOUN+A3SG+PNON+NOM}{metaMorphemes=eriyik} {turkish=.}
+{turkish=Bromürlü}{morphologicalAnalysis=bromürlü+ADJ}{metaMorphemes=bromürlü}{universalDependency=2$AMOD} {turkish=eriyik}{morphologicalAnalysis=eriyik+NOUN+A3SG+PNON+NOM}{metaMorphemes=eriyik}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
