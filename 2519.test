@@ -1,1 +1,1 @@
-{turkish=Motorun}{morphologicalAnalysis=motor+NOUN+A3SG+PNON+GEN}{metaMorphemes=motor+nHn} {turkish=gücü}{morphologicalAnalysis=güç+NOUN+A3SG+P3SG+NOM}{metaMorphemes=güç+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Motorun}{morphologicalAnalysis=motor+NOUN+A3SG+PNON+GEN}{metaMorphemes=motor+nHn}{universalDependency=2$NMOD} {turkish=gücü}{morphologicalAnalysis=güç+NOUN+A3SG+P3SG+NOM}{metaMorphemes=güç+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

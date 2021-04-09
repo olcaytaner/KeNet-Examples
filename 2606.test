@@ -1,1 +1,1 @@
-{turkish=Halaskâr}{morphologicalAnalysis=halaskâr+NOUN+A3SG+PNON+NOM}{metaMorphemes=halaskâr} {turkish=Gazi}{morphologicalAnalysis=gazi+NOUN+A3SG+PNON+NOM}{metaMorphemes=gazi} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Halaskâr}{morphologicalAnalysis=halaskâr+NOUN+A3SG+PNON+NOM}{metaMorphemes=halaskâr}{universalDependency=0$ROOT} {turkish=Gazi}{morphologicalAnalysis=gazi+NOUN+A3SG+PNON+NOM}{metaMorphemes=gazi}{universalDependency=1$FLAT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=1$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Bağdat}{morphologicalAnalysis=bağdat+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=bağdat} {turkish=hatun}{morphologicalAnalysis=hatun+NOUN+A3SG+PNON+NOM}{metaMorphemes=hatun} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bağdat}{morphologicalAnalysis=bağdat+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=bağdat}{universalDependency=0$ROOT} {turkish=hatun}{morphologicalAnalysis=hatun+NOUN+A3SG+PNON+NOM}{metaMorphemes=hatun}{universalDependency=1$FLAT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=1$PUNCT}

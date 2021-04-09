@@ -1,1 +1,1 @@
-{turkish=Görgü}{morphologicalAnalysis=görgü+NOUN+A3SG+PNON+NOM}{metaMorphemes=görgü} {turkish=tanığı}{morphologicalAnalysis=tanık+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tanık+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Görgü}{morphologicalAnalysis=görgü+NOUN+A3SG+PNON+NOM}{metaMorphemes=görgü}{universalDependency=2$NMOD} {turkish=tanığı}{morphologicalAnalysis=tanık+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tanık+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

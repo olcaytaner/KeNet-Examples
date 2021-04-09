@@ -1,1 +1,1 @@
-{turkish=Mühür}{morphologicalAnalysis=mühür+NOUN+A3SG+PNON+NOM}{metaMorphemes=mühür} {turkish=hakki}{morphologicalAnalysis=hakki+NOUN+A3SG+PNON+NOM}{metaMorphemes=hakki} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Mühür}{morphologicalAnalysis=mühür+NOUN+A3SG+PNON+NOM}{metaMorphemes=mühür}{universalDependency=2$NMOD} {turkish=hakki}{morphologicalAnalysis=hakki+NOUN+A3SG+PNON+NOM}{metaMorphemes=hakki}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

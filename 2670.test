@@ -1,1 +1,1 @@
-{turkish=Has}{morphologicalAnalysis=has+ADJ}{metaMorphemes=has} {turkish=ahır}{morphologicalAnalysis=ahır+NOUN+A3SG+PNON+NOM}{metaMorphemes=ahır} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Has}{morphologicalAnalysis=has+ADJ}{metaMorphemes=has}{universalDependency=2$AMOD} {turkish=ahır}{morphologicalAnalysis=ahır+NOUN+A3SG+PNON+NOM}{metaMorphemes=ahır}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

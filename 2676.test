@@ -1,1 +1,1 @@
-{turkish=Hasis}{morphologicalAnalysis=hasis+ADJ}{metaMorphemes=hasis} {turkish=menfaatler}{morphologicalAnalysis=menfaat+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL}{metaMorphemes=menfaat+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Hasis}{morphologicalAnalysis=hasis+ADJ}{metaMorphemes=hasis}{universalDependency=2$AMOD} {turkish=menfaatler}{morphologicalAnalysis=menfaat+NOUN+A3PL+PNON+NOM}{metaMorphemes=menfaat+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

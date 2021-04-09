@@ -1,1 +1,1 @@
-{turkish=Gözsüz}{morphologicalAnalysis=gözsüz+ADJ}{metaMorphemes=gözsüz} {turkish=masa}{morphologicalAnalysis=masa+NOUN+A3SG+PNON+NOM}{metaMorphemes=masa} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Gözsüz}{morphologicalAnalysis=gözsüz+ADJ}{metaMorphemes=gözsüz}{universalDependency=2$AMOD} {turkish=masa}{morphologicalAnalysis=masa+NOUN+A3SG+PNON+NOM}{metaMorphemes=masa}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Hadi}{morphologicalAnalysis=hadi+INTERJ}{metaMorphemes=hadi} {turkish=hadi}{morphologicalAnalysis=hadi+INTERJ}{metaMorphemes=hadi} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Hadi}{morphologicalAnalysis=hadi+INTERJ}{metaMorphemes=hadi}{universalDependency=2$DISCOURSE} {turkish=hadi}{morphologicalAnalysis=hadi+INTERJ}{metaMorphemes=hadi}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Kırım}{morphologicalAnalysis=kırım+NOUN+A3SG+PNON+NOM}{metaMorphemes=kırım} {turkish=hanları}{morphologicalAnalysis=han+NOUN+A3PL+P3SG+NOM}{metaMorphemes=han+lAr+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kırım}{morphologicalAnalysis=kırım+NOUN+A3SG+PNON+NOM}{metaMorphemes=kırım}{universalDependency=2$NMOD} {turkish=hanları}{morphologicalAnalysis=han+NOUN+A3PL+P3SG+NOM}{metaMorphemes=han+lAr+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

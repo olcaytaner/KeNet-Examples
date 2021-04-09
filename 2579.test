@@ -1,1 +1,1 @@
-{turkish=Haydisene}{morphologicalAnalysis=Haydisene+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Haydisene} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Haydisene}{morphologicalAnalysis=Haydisene+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Haydisene}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}
