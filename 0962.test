@@ -1,1 +1,1 @@
-{turkish=Ayağım}{morphologicalAnalysis=ayak+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A1SG}{metaMorphemes=ayak+yHm} {turkish=burktu}{morphologicalAnalysis=burk+VERB+POS+PAST+A3SG}{metaMorphemes=burk+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ayağım}{morphologicalAnalysis=ayak+NOUN+A3SG+P1SG+NOM}{metaMorphemes=ayak+Hm}{universalDependency=2$COMPOUND} {turkish=burktu}{morphologicalAnalysis=burk+VERB+POS+PAST+A3SG}{metaMorphemes=burk+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

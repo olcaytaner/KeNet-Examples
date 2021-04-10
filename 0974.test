@@ -1,1 +1,1 @@
-{turkish=İnek}{morphologicalAnalysis=inek+NOUN+A3SG+PNON+NOM}{metaMorphemes=inek} {turkish=buzağıladı}{morphologicalAnalysis=buzağıla+VERB+POS+PAST+A3SG}{metaMorphemes=buzağıla+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İnek}{morphologicalAnalysis=inek+NOUN+A3SG+PNON+NOM}{metaMorphemes=inek}{universalDependency=2$NSUBJ} {turkish=buzağıladı}{morphologicalAnalysis=buzağıla+VERB+POS+PAST+A3SG}{metaMorphemes=buzağıla+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

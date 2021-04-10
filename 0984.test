@@ -1,1 +1,1 @@
-{turkish=Narkotik}{morphologicalAnalysis=narkotik+ADJ}{metaMorphemes=narkotik} {turkish=büro}{morphologicalAnalysis=büro+NOUN+A3SG+PNON+NOM}{metaMorphemes=büro} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Narkotik}{morphologicalAnalysis=narkotik+ADJ}{metaMorphemes=narkotik}{universalDependency=2$COMPOUND} {turkish=büro}{morphologicalAnalysis=büro+NOUN+A3SG+PNON+NOM}{metaMorphemes=büro}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

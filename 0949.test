@@ -1,1 +1,1 @@
-{turkish=Bumbar}{morphologicalAnalysis=bumbar+NOUN+A3SG+PNON+NOM}{metaMorphemes=bumbar} {turkish=dolması}{morphologicalAnalysis=dol+VERB+POS^DB+NOUN+INF2^DB+ADJ+ALMOST}{metaMorphemes=dol+mA+SH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bumbar}{morphologicalAnalysis=bumbar+NOUN+A3SG+PNON+NOM}{metaMorphemes=bumbar}{universalDependency=2$COMPOUND} {turkish=dolması}{morphologicalAnalysis=dolma+NOUN+A3SG+P3SG+NOM}{metaMorphemes=dolma+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

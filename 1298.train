@@ -1,1 +1,1 @@
-{turkish=Mezuniyet}{morphologicalAnalysis=mezuniyet+NOUN+A3SG+PNON+NOM}{metaMorphemes=mezuniyet} {turkish=sınavı}{morphologicalAnalysis=sınav+NOUN+A3SG+P3SG+NOM}{metaMorphemes=sınav+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Mezuniyet}{morphologicalAnalysis=mezuniyet+NOUN+A3SG+PNON+NOM}{metaMorphemes=mezuniyet}{universalDependency=2$NMOD} {turkish=sınavı}{morphologicalAnalysis=sınav+NOUN+A3SG+P3SG+NOM}{metaMorphemes=sınav+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

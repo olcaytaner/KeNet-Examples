@@ -1,1 +1,1 @@
-{turkish=Ağaç}{morphologicalAnalysis=ağaç+NOUN+A3SG+PNON+NOM}{metaMorphemes=ağaç} {turkish=yongası}{morphologicalAnalysis=yonga+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yonga+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ağaç}{morphologicalAnalysis=ağaç+NOUN+A3SG+PNON+NOM}{metaMorphemes=ağaç}{universalDependency=2$NMOD} {turkish=yongası}{morphologicalAnalysis=yonga+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yonga+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

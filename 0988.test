@@ -1,1 +1,1 @@
-{turkish=Atatürk}{morphologicalAnalysis=atatürk+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=atatürk} {turkish=büstü}{morphologicalAnalysis=büst+NOUN+A3SG+P3SG+NOM}{metaMorphemes=büst+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Atatürk}{morphologicalAnalysis=atatürk+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=atatürk}{universalDependency=2$NMOD} {turkish=büstü}{morphologicalAnalysis=büst+NOUN+A3SG+P3SG+NOM}{metaMorphemes=büst+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
