@@ -1,1 +1,1 @@
-{turkish=Kurşun}{morphologicalAnalysis=kurşun+ADJ}{metaMorphemes=kurşun}{universalDependency=2$AMOD} {turkish=çalımı}{morphologicalAnalysis=çal+NOUN+A3SG+P1SG+ACC}{metaMorphemes=çal+Hm+yH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Kurşun}{morphologicalAnalysis=kurşun+ADJ}{metaMorphemes=kurşun}{universalDependency=2$AMOD} {turkish=çalımı}{morphologicalAnalysis=çal+NOUN+A3SG+P1SG+ACC}{metaMorphemes=çal+Hm+yH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Kura}{morphologicalAnalysis=kura+NOUN+A3SG+PNON+NOM}{metaMorphemes=kura} {turkish=çekiştiler}{morphologicalAnalysis=çekiş+VERB+POS+PAST+A3PL}{metaMorphemes=çekiş+DH+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kura}{morphologicalAnalysis=kura+NOUN+A3SG+PNON+NOM}{metaMorphemes=kura}{universalDependency=2$COMPOUND} {turkish=çekiştiler}{morphologicalAnalysis=çekiş+VERB+POS+PAST+A3PL}{metaMorphemes=çekiş+DH+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

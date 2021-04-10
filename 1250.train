@@ -1,1 +1,1 @@
-{turkish=Çekme}{morphologicalAnalysis=çekme+ADJ}{metaMorphemes=çekme} {turkish=burun}{morphologicalAnalysis=burun+NOUN+A3SG+PNON+NOM}{metaMorphemes=burun} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Çekme}{morphologicalAnalysis=çekme+ADJ}{metaMorphemes=çekme}{universalDependency=2$AMOD} {turkish=burun}{morphologicalAnalysis=burun+NOUN+A3SG+PNON+NOM}{metaMorphemes=burun}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
