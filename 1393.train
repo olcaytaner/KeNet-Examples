@@ -1,1 +1,1 @@
-{turkish=İçi}{morphologicalAnalysis=iç+NOUN+A3SG+P3SG+NOM}{metaMorphemes=iç+sH} {turkish=bulanmak}{morphologicalAnalysis=bulan+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=bulan+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İçi}{morphologicalAnalysis=iç+NOUN+A3SG+P3SG+NOM}{metaMorphemes=iç+sH}{universalDependency=2$OBJ} {turkish=bulanmak}{morphologicalAnalysis=bulan+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=bulan+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
