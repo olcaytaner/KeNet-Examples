@@ -1,1 +1,1 @@
-{turkish=Demirli}{morphologicalAnalysis=demirli+ADJ}{metaMorphemes=demirli} {turkish=sular}{morphologicalAnalysis=sula+VERB+POS+AOR+A3SG}{metaMorphemes=sula+Hr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Demirli}{morphologicalAnalysis=demirli+ADJ}{metaMorphemes=demirli}{universalDependency=2$AMOD} {turkish=sular}{morphologicalAnalysis=sula+VERB+POS+AOR+A3SG}{metaMorphemes=sula+Hr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

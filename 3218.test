@@ -1,1 +1,1 @@
-{turkish=Aslan}{morphologicalAnalysis=aslan+NOUN+A3SG+PNON+NOM}{metaMorphemes=aslan} {turkish=kafesi}{morphologicalAnalysis=kafes+NOUN+A3SG+PNON+ACC}{metaMorphemes=kafes+yH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Aslan}{morphologicalAnalysis=aslan+NOUN+A3SG+PNON+NOM}{metaMorphemes=aslan}{universalDependency=2$NMOD} {turkish=kafesi}{morphologicalAnalysis=kafes+NOUN+A3SG+PNON+ACC}{metaMorphemes=kafes+yH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

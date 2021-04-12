@@ -1,1 +1,1 @@
-{turkish=İstatistik}{morphologicalAnalysis=istatistik+NOUN+A3SG+PNON+NOM}{metaMorphemes=istatistik} {turkish=veriler}{morphologicalAnalysis=veri+NOUN+A3PL+PNON+NOM}{metaMorphemes=veri+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İstatistik}{morphologicalAnalysis=istatistik+NOUN+A3SG+PNON+NOM}{metaMorphemes=istatistik}{universalDependency=2$NMOD} {turkish=veriler}{morphologicalAnalysis=veri+NOUN+A3PL+PNON+NOM}{metaMorphemes=veri+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

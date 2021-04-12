@@ -1,1 +1,1 @@
-{turkish=Yere}{morphologicalAnalysis=yer+NOUN+A3SG+PNON+DAT}{metaMorphemes=yer+yA} {turkish=yatırdı}{morphologicalAnalysis=yat+VERB^DB+VERB+CAUS+POS+PAST+A3SG}{metaMorphemes=yat+Hr+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yere}{morphologicalAnalysis=yer+NOUN+A3SG+PNON+DAT}{metaMorphemes=yer+yA}{universalDependency=2$OBL} {turkish=yatırdı}{morphologicalAnalysis=yat+VERB^DB+VERB+CAUS+POS+PAST+A3SG}{metaMorphemes=yat+Hr+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

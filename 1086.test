@@ -1,1 +1,1 @@
-{turkish=Cıvık}{morphologicalAnalysis=cıvık+ADJ}{metaMorphemes=cıvık} {turkish=hamur}{morphologicalAnalysis=hamur+NOUN+A3SG+PNON+NOM}{metaMorphemes=hamur} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Cıvık}{morphologicalAnalysis=cıvık+ADJ}{metaMorphemes=cıvık}{universalDependency=2$AMOD} {turkish=hamur}{morphologicalAnalysis=hamur+NOUN+A3SG+PNON+NOM}{metaMorphemes=hamur}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

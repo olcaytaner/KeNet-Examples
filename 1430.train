@@ -1,1 +1,1 @@
-{turkish=Sıcak}{morphologicalAnalysis=sıcak+ADJ}{metaMorphemes=sıcak} {turkish=dalgası}{morphologicalAnalysis=dalga+NOUN+A3SG+P3SG+NOM}{metaMorphemes=dalga+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sıcak}{morphologicalAnalysis=sıcak+ADJ}{metaMorphemes=sıcak}{universalDependency=2$AMOD} {turkish=dalgası}{morphologicalAnalysis=dalga+NOUN+A3SG+P3SG+NOM}{metaMorphemes=dalga+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

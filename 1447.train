@@ -1,1 +1,1 @@
-{turkish=Elin}{morphologicalAnalysis=el+NOUN+A3SG+PNON+GEN}{metaMorphemes=el+nHn} {turkish=damarlanması}{morphologicalAnalysis=damarlanma+NOUN^DB+ADJ+ALMOST}{metaMorphemes=damarlanma+SH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Elin}{morphologicalAnalysis=el+NOUN+A3SG+PNON+GEN}{metaMorphemes=el+nHn}{universalDependency=2$NMOD} {turkish=damarlanması}{morphologicalAnalysis=damarlanma+NOUN^DB+ADJ+ALMOST}{metaMorphemes=damarlanma+SH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

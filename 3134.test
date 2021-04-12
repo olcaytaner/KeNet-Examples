@@ -1,1 +1,1 @@
-{turkish=İveğen}{morphologicalAnalysis=iveğen+ADJ}{metaMorphemes=iveğen} {turkish=hastalık}{morphologicalAnalysis=hastalık+NOUN+A3SG+PNON+NOM}{metaMorphemes=hastalık} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İveğen}{morphologicalAnalysis=iveğen+ADJ}{metaMorphemes=iveğen}{universalDependency=2$AMOD} {turkish=hastalık}{morphologicalAnalysis=hastalık+NOUN+A3SG+PNON+NOM}{metaMorphemes=hastalık}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

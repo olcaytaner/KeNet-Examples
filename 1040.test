@@ -1,1 +1,1 @@
-{turkish=Cebrî}{morphologicalAnalysis=cebrî+ADJ}{metaMorphemes=cebrî} {turkish=muamele}{morphologicalAnalysis=muamele+NOUN+A3SG+PNON+NOM}{metaMorphemes=muamele} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Cebrî}{morphologicalAnalysis=cebrî+ADJ}{metaMorphemes=cebrî}{universalDependency=2$AMOD} {turkish=muamele}{morphologicalAnalysis=muamele+NOUN+A3SG+PNON+NOM}{metaMorphemes=muamele}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

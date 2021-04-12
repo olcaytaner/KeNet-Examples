@@ -1,1 +1,1 @@
-{turkish=Aklı}{morphologicalAnalysis=akıl+NOUN+A3SG+P3SG+NOM}{metaMorphemes=akıl+sH} {turkish=çalık}{morphologicalAnalysis=çalık+NOUN+A3SG+PNON+NOM}{metaMorphemes=çalık} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Aklı}{morphologicalAnalysis=akıl+NOUN+A3SG+P3SG+NOM}{metaMorphemes=akıl+sH}{universalDependency=2$NSUBJ} {turkish=çalık}{morphologicalAnalysis=çalık+NOUN+A3SG+PNON+NOM}{metaMorphemes=çalık}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

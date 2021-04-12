@@ -1,1 +1,1 @@
-{turkish=Fare}{morphologicalAnalysis=fare+NOUN+A3SG+PNON+NOM}{metaMorphemes=fare} {turkish=deliği}{morphologicalAnalysis=delik+NOUN+A3SG+P3SG+NOM}{metaMorphemes=delik+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Fare}{morphologicalAnalysis=fare+NOUN+A3SG+PNON+NOM}{metaMorphemes=fare}{universalDependency=2$NMOD} {turkish=deliği}{morphologicalAnalysis=delik+NOUN+A3SG+P3SG+NOM}{metaMorphemes=delik+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

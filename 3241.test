@@ -1,1 +1,1 @@
-{turkish=Armut}{morphologicalAnalysis=armut+NOUN+A3SG+PNON+NOM}{metaMorphemes=armut} {turkish=kakı}{morphologicalAnalysis=kak+NOUN+A3SG+PNON+ACC}{metaMorphemes=kak+yH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Armut}{morphologicalAnalysis=armut+NOUN+A3SG+PNON+NOM}{metaMorphemes=armut}{universalDependency=2$NMOD} {turkish=kakı}{morphologicalAnalysis=kak+NOUN+A3SG+PNON+ACC}{metaMorphemes=kak+yH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

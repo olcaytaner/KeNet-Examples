@@ -1,1 +1,1 @@
-{turkish=Elektrik}{morphologicalAnalysis=elektrik+NOUN+A3SG+PNON+NOM}{metaMorphemes=elektrik} {turkish=cereyanı}{morphologicalAnalysis=cereyan+NOUN+A3SG+P3SG+NOM}{metaMorphemes=cereyan+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Elektrik}{morphologicalAnalysis=elektrik+NOUN+A3SG+PNON+NOM}{metaMorphemes=elektrik}{universalDependency=2$NMOD} {turkish=cereyanı}{morphologicalAnalysis=cereyan+NOUN+A3SG+P3SG+NOM}{metaMorphemes=cereyan+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

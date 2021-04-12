@@ -1,1 +1,1 @@
-{turkish=Ekmek}{morphologicalAnalysis=ekmek+NOUN+A3SG+PNON+NOM}{metaMorphemes=ekmek} {turkish=kadayıfı}{morphologicalAnalysis=kadayıf+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kadayıf+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ekmek}{morphologicalAnalysis=ekmek+NOUN+A3SG+PNON+NOM}{metaMorphemes=ekmek}{universalDependency=2$NMOD} {turkish=kadayıfı}{morphologicalAnalysis=kadayıf+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kadayıf+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
