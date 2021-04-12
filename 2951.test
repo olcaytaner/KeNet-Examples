@@ -1,1 +1,1 @@
-{turkish=İkindiyi}{morphologicalAnalysis=ikindi+NOUN+A3SG+PNON+ACC}{metaMorphemes=ikindi+yH}{semantics=TUR10-0365670} {turkish=kıldım} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=İkindiyi}{morphologicalAnalysis=ikindi+NOUN+A3SG+PNON+ACC}{metaMorphemes=ikindi+yH}{semantics=TUR10-0365670}{universalDependency=2$OBJ} {turkish=kıldım}{morphologicalAnalysis=kıl+VERB+POS+PAST+A1SG}{metaMorphemes=kıl+DH+m}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
