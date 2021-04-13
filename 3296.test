@@ -1,1 +1,1 @@
-{turkish=Kamasız}{morphologicalAnalysis=kamasız+ADJ}{metaMorphemes=kamasız} {turkish=top}{morphologicalAnalysis=top+NOUN+A3SG+PNON+NOM}{metaMorphemes=top} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kamasız}{morphologicalAnalysis=kamasız+ADJ}{metaMorphemes=kamasız}{universalDependency=2$AMOD} {turkish=top}{morphologicalAnalysis=top+NOUN+A3SG+PNON+NOM}{metaMorphemes=top}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
