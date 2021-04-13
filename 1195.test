@@ -1,1 +1,1 @@
-{turkish=Çarıklık}{morphologicalAnalysis=çarıklık+ADJ}{metaMorphemes=çarıklık} {turkish=deri}{morphologicalAnalysis=deri+NOUN+A3SG+PNON+NOM}{metaMorphemes=deri} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Çarıklık}{morphologicalAnalysis=çarıklık+ADJ}{metaMorphemes=çarıklık}{universalDependency=2$AMOD} {turkish=deri}{morphologicalAnalysis=deri+NOUN+A3SG+PNON+NOM}{metaMorphemes=deri}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

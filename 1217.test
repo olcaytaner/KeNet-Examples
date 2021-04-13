@@ -1,1 +1,1 @@
-{turkish=Tüfek}{morphologicalAnalysis=tüfek+NOUN+A3SG+PNON+NOM}{metaMorphemes=tüfek} {turkish=çatkısı}{morphologicalAnalysis=çatkı+NOUN+A3SG+P3SG+NOM}{metaMorphemes=çatkı+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Tüfek}{morphologicalAnalysis=tüfek+NOUN+A3SG+PNON+NOM}{metaMorphemes=tüfek}{universalDependency=2$NMOD} {turkish=çatkısı}{morphologicalAnalysis=çatkı+NOUN+A3SG+P3SG+NOM}{metaMorphemes=çatkı+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
