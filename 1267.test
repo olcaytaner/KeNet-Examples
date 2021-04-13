@@ -1,1 +1,1 @@
-{turkish=Çekirdek}{morphologicalAnalysis=çekirdek+NOUN+A3SG+PNON+NOM}{metaMorphemes=çekirdek} {turkish=zarı}{morphologicalAnalysis=zarı+DUP}{metaMorphemes=zarı} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Çekirdek}{morphologicalAnalysis=çekirdek+NOUN+A3SG+PNON+NOM}{metaMorphemes=çekirdek}{universalDependency=2$NMOD} {turkish=zarı}{morphologicalAnalysis=zar+NOUN+A3SG+P3SG+NOM}{metaMorphemes=zar+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

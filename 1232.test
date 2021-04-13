@@ -1,1 +1,1 @@
-{turkish=Çaylık}{morphologicalAnalysis=çaylık+NOUN+A3SG+PNON+NOM}{metaMorphemes=çaylık} {turkish=şeker}{morphologicalAnalysis=şeker+NOUN+A3SG+PNON+NOM}{metaMorphemes=şeker} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Çaylık}{morphologicalAnalysis=çaylık+NOUN+A3SG+PNON+NOM}{metaMorphemes=çaylık}{universalDependency=2$NMOD} {turkish=şeker}{morphologicalAnalysis=şeker+NOUN+A3SG+PNON+NOM}{metaMorphemes=şeker}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

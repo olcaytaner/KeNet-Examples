@@ -1,1 +1,1 @@
-{turkish=Belim}{morphologicalAnalysis=bel+NOUN+A3SG+P1SG+NOM}{metaMorphemes=bel+Hm} {turkish=kopuyor}{morphologicalAnalysis=kop+VERB+POS+PROG1+A3SG}{metaMorphemes=kop+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Belim}{morphologicalAnalysis=bel+NOUN+A3SG+P1SG+NOM}{metaMorphemes=bel+Hm}{universalDependency=2$COMPOUND} {turkish=kopuyor}{morphologicalAnalysis=kop+VERB+POS+PROG1+A3SG}{metaMorphemes=kop+Hyor}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
