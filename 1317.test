@@ -1,1 +1,1 @@
-{turkish=Çırpı}{morphologicalAnalysis=çırpı+NOUN+A3SG+PNON+NOM}{metaMorphemes=çırpı} {turkish=vurmak}{morphologicalAnalysis=vur+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=vur+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Çırpı}{morphologicalAnalysis=çırpı+NOUN+A3SG+PNON+NOM}{metaMorphemes=çırpı}{universalDependency=2$OBJ} {turkish=vurmak}{morphologicalAnalysis=vur+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=vur+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

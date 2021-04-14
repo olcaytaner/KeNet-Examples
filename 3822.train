@@ -1,1 +1,1 @@
-{turkish=Çorap}{morphologicalAnalysis=çorap+NOUN+A3SG+PNON+NOM}{metaMorphemes=çorap} {turkish=koncu}{morphologicalAnalysis=konç+NOUN+A3SG+P3SG+NOM}{metaMorphemes=konç+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Çorap}{morphologicalAnalysis=çorap+NOUN+A3SG+PNON+NOM}{metaMorphemes=çorap}{universalDependency=2$NMOD} {turkish=koncu}{morphologicalAnalysis=konç+NOUN+A3SG+P3SG+NOM}{metaMorphemes=konç+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Diri}{morphologicalAnalysis=diri+ADJ}{metaMorphemes=diri} {turkish=çiçek}{morphologicalAnalysis=çiçek+NOUN+A3SG+PNON+NOM}{metaMorphemes=çiçek} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Diri}{morphologicalAnalysis=diri+ADJ}{metaMorphemes=diri}{universalDependency=2$AMOD} {turkish=çiçek}{morphologicalAnalysis=çiçek+NOUN+A3SG+PNON+NOM}{metaMorphemes=çiçek}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

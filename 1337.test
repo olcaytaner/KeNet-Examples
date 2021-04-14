@@ -1,1 +1,1 @@
-{turkish=Çileli}{morphologicalAnalysis=çileli+ADJ}{metaMorphemes=çileli} {turkish=başım}{morphologicalAnalysis=baş+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A1SG}{metaMorphemes=baş+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Çileli}{morphologicalAnalysis=çileli+ADJ}{metaMorphemes=çileli}{universalDependency=2$AMOD} {turkish=başım}{morphologicalAnalysis=baş+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A1SG}{metaMorphemes=baş+yHm}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

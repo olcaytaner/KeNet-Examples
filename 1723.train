@@ -1,1 +1,1 @@
-{turkish=Atlar}{morphologicalAnalysis=at+NOUN+A3PL+PNON+NOM}{metaMorphemes=at+lAr} {turkish=koşacak}{morphologicalAnalysis=koş+VERB+POS+FUT+A3SG}{metaMorphemes=koş+yAcAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Atlar}{morphologicalAnalysis=at+NOUN+A3PL+PNON+NOM}{metaMorphemes=at+lAr}{universalDependency=2$NSUBJ} {turkish=koşacak}{morphologicalAnalysis=koş+VERB+POS+FUT+A3SG}{metaMorphemes=koş+yAcAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

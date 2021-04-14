@@ -1,1 +1,1 @@
-{turkish=Dolgun}{morphologicalAnalysis=dolgun+ADJ}{metaMorphemes=dolgun} {turkish=yastık}{morphologicalAnalysis=yastık+NOUN+A3SG+PNON+NOM}{metaMorphemes=yastık} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Dolgun}{morphologicalAnalysis=dolgun+ADJ}{metaMorphemes=dolgun}{universalDependency=2$AMOD} {turkish=yastık}{morphologicalAnalysis=yastık+NOUN+A3SG+PNON+NOM}{metaMorphemes=yastık}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

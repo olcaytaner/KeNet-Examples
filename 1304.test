@@ -1,1 +1,1 @@
-{turkish=Sanayi}{morphologicalAnalysis=sanayi+NOUN+A3SG+PNON+NOM}{metaMorphemes=sanayi} {turkish=çıktısı}{morphologicalAnalysis=çıktı+NOUN+A3SG+P3SG+NOM}{metaMorphemes=çıktı+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sanayi}{morphologicalAnalysis=sanayi+NOUN+A3SG+PNON+NOM}{metaMorphemes=sanayi}{universalDependency=2$NMOD} {turkish=çıktısı}{morphologicalAnalysis=çıktı+NOUN+A3SG+P3SG+NOM}{metaMorphemes=çıktı+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

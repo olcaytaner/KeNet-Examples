@@ -1,1 +1,1 @@
-{turkish=Fatma'dan}{morphologicalAnalysis=fatma+NOUN+PROP+A3SG+PNON+ABL}{metaMorphemes=fatma+'DAn} {turkish=doğma}{morphologicalAnalysis=doğma+NOUN+A3SG+PNON+NOM}{metaMorphemes=doğma} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Fatma'dan}{morphologicalAnalysis=fatma+NOUN+PROP+A3SG+PNON+ABL}{metaMorphemes=fatma+'DAn}{universalDependency=2$NMOD} {turkish=doğma}{morphologicalAnalysis=doğma+NOUN+A3SG+PNON+NOM}{metaMorphemes=doğma}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

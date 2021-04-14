@@ -1,1 +1,1 @@
-{turkish=Dış}{morphologicalAnalysis=dış+ADJ}{metaMorphemes=dış} {turkish=siyaset}{morphologicalAnalysis=siyaset+NOUN+A3SG+PNON+NOM}{metaMorphemes=siyaset} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Dış}{morphologicalAnalysis=dış+ADJ}{metaMorphemes=dış}{universalDependency=2$AMOD} {turkish=siyaset}{morphologicalAnalysis=siyaset+NOUN+A3SG+PNON+NOM}{metaMorphemes=siyaset}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Devrik}{morphologicalAnalysis=devrik+ADJ}{metaMorphemes=devrik} {turkish=başbakan}{morphologicalAnalysis=başbakan+NOUN+A3SG+PNON+NOM}{metaMorphemes=başbakan} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Devrik}{morphologicalAnalysis=devrik+ADJ}{metaMorphemes=devrik}{universalDependency=2$AMOD} {turkish=başbakan}{morphologicalAnalysis=başbakan+NOUN+A3SG+PNON+NOM}{metaMorphemes=başbakan}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
