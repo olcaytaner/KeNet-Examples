@@ -1,1 +1,1 @@
-{turkish=Destanlı}{morphologicalAnalysis=destanlı+ADJ}{metaMorphemes=destanlı} {turkish=hikâye}{morphologicalAnalysis=hikâye+NOUN+A3SG+PNON+NOM}{metaMorphemes=hikâye} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Destanlı}{morphologicalAnalysis=destanlı+ADJ}{metaMorphemes=destanlı}{universalDependency=2$AMOD} {turkish=hikâye}{morphologicalAnalysis=hikâye+NOUN+A3SG+PNON+NOM}{metaMorphemes=hikâye}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Fransız}{morphologicalAnalysis=fransız+ADJ}{metaMorphemes=fransız} {turkish=devrimi}{morphologicalAnalysis=devrim+NOUN+A3SG+P3SG+NOM}{metaMorphemes=devrim+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Fransız}{morphologicalAnalysis=fransız+NOUN+A3SG+PNON+NOM}{metaMorphemes=fransız}{universalDependency=2$NMOD} {turkish=devrimi}{morphologicalAnalysis=devrim+NOUN+A3SG+P3SG+NOM}{metaMorphemes=devrim+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

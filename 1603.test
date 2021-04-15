@@ -1,1 +1,1 @@
-{turkish=Cicim}{morphologicalAnalysis=cicim+NOUN+A3SG+PNON+NOM}{metaMorphemes=cicim} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Cicim}{morphologicalAnalysis=cicim+NOUN+A3SG+PNON+NOM}{metaMorphemes=cicim}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}

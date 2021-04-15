@@ -1,1 +1,1 @@
-{turkish=Dik}{morphologicalAnalysis=dik+ADJ}{metaMorphemes=dik} {turkish=açı}{morphologicalAnalysis=açı+NOUN+A3SG+PNON+NOM}{metaMorphemes=açı} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Dik}{morphologicalAnalysis=dik+ADJ}{metaMorphemes=dik}{universalDependency=2$AMOD} {turkish=açı}{morphologicalAnalysis=açı+NOUN+A3SG+PNON+NOM}{metaMorphemes=açı}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
