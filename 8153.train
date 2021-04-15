@@ -1,1 +1,1 @@
-{turkish=Mersi}{morphologicalAnalysis=mersi+NOUN+A3SG+PNON+NOM}{metaMorphemes=mersi} {turkish=denir}{morphologicalAnalysis=de+VERB^DB+VERB+REFLEX+POS+AOR+A3SG}{metaMorphemes=de+Hn+Hr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Mersi}{morphologicalAnalysis=mersi+NOUN+A3SG+PNON+NOM}{metaMorphemes=mersi}{universalDependency=2$CCOMP} {turkish=denir}{morphologicalAnalysis=de+VERB^DB+VERB+REFLEX+POS+AOR+A3SG}{metaMorphemes=de+Hn+Hr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

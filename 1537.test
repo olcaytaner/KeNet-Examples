@@ -1,1 +1,1 @@
-{turkish=Marmara}{morphologicalAnalysis=marmara+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=marmara} {turkish=Denizi}{morphologicalAnalysis=deniz+NOUN+A3SG+P3SG+NOM}{metaMorphemes=deniz+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Marmara}{morphologicalAnalysis=marmara+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=marmara}{universalDependency=0$ROOT} {turkish=Denizi}{morphologicalAnalysis=deniz+NOUN+A3SG+P3SG+NOM}{metaMorphemes=deniz+sH}{universalDependency=1$FLAT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=1$PUNCT}
