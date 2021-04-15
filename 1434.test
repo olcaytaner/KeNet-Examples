@@ -1,1 +1,1 @@
-{turkish=Dalgalı}{morphologicalAnalysis=dalgalı+ADJ}{metaMorphemes=dalgalı} {turkish=kumaş}{morphologicalAnalysis=kumaş+NOUN+A3SG+PNON+NOM}{metaMorphemes=kumaş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Dalgalı}{morphologicalAnalysis=dalgalı+ADJ}{metaMorphemes=dalgalı}{universalDependency=2$AMOD} {turkish=kumaş}{morphologicalAnalysis=kumaş+NOUN+A3SG+PNON+NOM}{metaMorphemes=kumaş}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

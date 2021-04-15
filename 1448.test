@@ -1,1 +1,1 @@
-{turkish=Damatlık}{morphologicalAnalysis=damatlık+NOUN+A3SG+PNON+NOM}{metaMorphemes=damatlık} {turkish=elbise}{morphologicalAnalysis=elbise+NOUN+A3SG+PNON+NOM}{metaMorphemes=elbise} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Damatlık}{morphologicalAnalysis=damat+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=damat+lHk}{universalDependency=2$AMOD} {turkish=elbise}{morphologicalAnalysis=elbise+NOUN+A3SG+PNON+NOM}{metaMorphemes=elbise}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

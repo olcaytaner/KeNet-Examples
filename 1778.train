@@ -1,1 +1,1 @@
-{turkish=Döner}{morphologicalAnalysis=dön+VERB+POS+AOR+A3SG}{metaMorphemes=dön+Ar} {turkish=dolap}{morphologicalAnalysis=dolap+NOUN+A3SG+PNON+NOM}{metaMorphemes=dolap}
+{turkish=Döner}{morphologicalAnalysis=döner+ADJ}{metaMorphemes=döner}{universalDependency=2$AMOD} {turkish=dolap}{morphologicalAnalysis=dolap+NOUN+A3SG+PNON+NOM}{metaMorphemes=dolap}{universalDependency=0$ROOT}

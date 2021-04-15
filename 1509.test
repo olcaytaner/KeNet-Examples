@@ -1,1 +1,1 @@
-{turkish=Delici}{morphologicalAnalysis=delici+NOUN+A3SG+PNON+NOM}{metaMorphemes=delici} {turkish=bakış}{morphologicalAnalysis=bak+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM}{metaMorphemes=bak+yHs} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Delici}{morphologicalAnalysis=delici+ADJ}{metaMorphemes=delici}{universalDependency=2$AMOD} {turkish=bakış}{morphologicalAnalysis=bak+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM}{metaMorphemes=bak+yHs}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

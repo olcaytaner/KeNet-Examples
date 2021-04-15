@@ -1,1 +1,1 @@
-{turkish=Dönel}{morphologicalAnalysis=dönel+VERB+POS+IMP+A2SG}{metaMorphemes=dönel} {turkish=koni}{morphologicalAnalysis=koni+NOUN+A3SG+PNON+NOM}{metaMorphemes=koni} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Dönel}{morphologicalAnalysis=dönel+VERB+POS+IMP+A2SG}{metaMorphemes=dönel}{universalDependency=2$AMOD} {turkish=koni}{morphologicalAnalysis=koni+NOUN+A3SG+PNON+NOM}{metaMorphemes=koni}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

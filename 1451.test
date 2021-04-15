@@ -1,1 +1,1 @@
-{turkish=Damladan}{morphologicalAnalysis=damla+NOUN+A3SG+PNON+ABL}{metaMorphemes=damla+DAn} {turkish=ölmüş}{morphologicalAnalysis=ölmüş+ADJ}{metaMorphemes=ölmüş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Damladan}{morphologicalAnalysis=damla+NOUN+A3SG+PNON+ABL}{metaMorphemes=damla+DAn}{universalDependency=2$OBL} {turkish=ölmüş}{morphologicalAnalysis=öl+VERB+POS+NARR+A3SG}{metaMorphemes=öl+mHs}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

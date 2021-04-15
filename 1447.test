@@ -1,1 +1,1 @@
-{turkish=Damarlı}{morphologicalAnalysis=damarlı+ADJ}{metaMorphemes=damarlı} {turkish=mermer}{morphologicalAnalysis=mermer+NOUN+A3SG+PNON+NOM}{metaMorphemes=mermer} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Damarlı}{morphologicalAnalysis=damarlı+ADJ}{metaMorphemes=damarlı}{universalDependency=2$AMOD} {turkish=mermer}{morphologicalAnalysis=mermer+NOUN+A3SG+PNON+NOM}{metaMorphemes=mermer}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

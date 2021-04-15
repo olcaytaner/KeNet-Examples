@@ -1,1 +1,1 @@
-{turkish=Dondurulmuş}{morphologicalAnalysis=dondurulmuş+ADJ}{metaMorphemes=dondurulmuş} {turkish=et}{morphologicalAnalysis=et+NOUN+A3SG+PNON+NOM}{metaMorphemes=et} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Dondurulmuş}{morphologicalAnalysis=dondurulmuş+ADJ}{metaMorphemes=dondurulmuş}{universalDependency=2$ACL} {turkish=et}{morphologicalAnalysis=et+NOUN+A3SG+PNON+NOM}{metaMorphemes=et}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

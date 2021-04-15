@@ -1,1 +1,1 @@
-{turkish=Dalya}{morphologicalAnalysis=dalya+NOUN+A3SG+PNON+NOM}{metaMorphemes=dalya} {turkish=yüz}{morphologicalAnalysis=yüz+NOUN+A3SG+PNON+NOM}{metaMorphemes=yüz} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Dalya}{morphologicalAnalysis=dalya+NOUN+A3SG+PNON+NOM}{metaMorphemes=dalya}{universalDependency=2$DISCOURSE} {turkish=yüz}{morphologicalAnalysis=yüz+NUM+CARD}{metaMorphemes=yüz}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=2$PUNCT}
