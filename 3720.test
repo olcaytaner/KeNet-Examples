@@ -1,1 +1,1 @@
-{turkish=Kıymıklı}{morphologicalAnalysis=kıymıklı+ADJ}{metaMorphemes=kıymıklı} {turkish=tahta}{morphologicalAnalysis=tahta+NOUN+A3SG+PNON+NOM}{metaMorphemes=tahta} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kıymıklı}{morphologicalAnalysis=kıymıklı+ADJ}{metaMorphemes=kıymıklı}{universalDependency=2$AMOD} {turkish=tahta}{morphologicalAnalysis=tahta+NOUN+A3SG+PNON+NOM}{metaMorphemes=tahta}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

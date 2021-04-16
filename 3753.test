@@ -1,1 +1,1 @@
-{turkish=Kireçlik}{morphologicalAnalysis=kireçlik+ADJ}{metaMorphemes=kireçlik} {turkish=alan}{morphologicalAnalysis=alan+NOUN+A3SG+PNON+NOM}{metaMorphemes=alan} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kireçlik}{morphologicalAnalysis=kireçlik+ADJ}{metaMorphemes=kireçlik}{universalDependency=2$AMOD} {turkish=alan}{morphologicalAnalysis=alan+NOUN+A3SG+PNON+NOM}{metaMorphemes=alan}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

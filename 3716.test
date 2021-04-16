@@ -1,1 +1,1 @@
-{turkish=Midem}{morphologicalAnalysis=mide+NOUN+A3SG+P1SG+NOM}{metaMorphemes=mide+Hm} {turkish=kıyındı}{morphologicalAnalysis=kıyın+VERB+POS+PAST+A3SG}{metaMorphemes=kıyın+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Midem}{morphologicalAnalysis=mide+NOUN+A3SG+P1SG+NOM}{metaMorphemes=mide+Hm}{universalDependency=2$NSUBJ} {turkish=kıyındı}{morphologicalAnalysis=kıyın+VERB+POS+PAST+A3SG}{metaMorphemes=kıyın+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

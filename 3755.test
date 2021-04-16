@@ -1,1 +1,1 @@
-{turkish=Kirişli}{morphologicalAnalysis=kirişli+ADJ}{metaMorphemes=kirişli} {turkish=doku}{morphologicalAnalysis=doku+NOUN+A3SG+PNON+NOM}{metaMorphemes=doku} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kirişli}{morphologicalAnalysis=kirişli+ADJ}{metaMorphemes=kirişli}{universalDependency=2$AMOD} {turkish=doku}{morphologicalAnalysis=doku+NOUN+A3SG+PNON+NOM}{metaMorphemes=doku}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

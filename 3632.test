@@ -1,1 +1,1 @@
-{turkish=Kılçıksız}{morphologicalAnalysis=kılçıksız+ADJ}{metaMorphemes=kılçıksız} {turkish=balık}{morphologicalAnalysis=balık+NOUN+A3SG+PNON+NOM}{metaMorphemes=balık} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kılçıksız}{morphologicalAnalysis=kılçıksız+ADJ}{metaMorphemes=kılçıksız}{universalDependency=2$AMOD} {turkish=balık}{morphologicalAnalysis=balık+NOUN+A3SG+PNON+NOM}{metaMorphemes=balık}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

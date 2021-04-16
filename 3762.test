@@ -1,1 +1,1 @@
-{turkish=Orhon}{morphologicalAnalysis=orhon+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=orhon} {turkish=yazıtları}{morphologicalAnalysis=yazıt+NOUN+A3PL+P3SG+NOM}{metaMorphemes=yazıt+lAr+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Orhon}{morphologicalAnalysis=orhon+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=orhon}{universalDependency=2$NMOD} {turkish=yazıtları}{morphologicalAnalysis=yazıt+NOUN+A3PL+P3SG+NOM}{metaMorphemes=yazıt+lAr+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

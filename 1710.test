@@ -1,1 +1,1 @@
-{turkish=Dokümanter}{morphologicalAnalysis=dokümanter+ADJ}{metaMorphemes=dokümanter} {turkish=film}{morphologicalAnalysis=film+NOUN+A3SG+PNON+NOM}{metaMorphemes=film} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Dokümanter}{morphologicalAnalysis=dokümanter+ADJ}{metaMorphemes=dokümanter}{universalDependency=2$AMOD} {turkish=film}{morphologicalAnalysis=film+NOUN+A3SG+PNON+NOM}{metaMorphemes=film}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

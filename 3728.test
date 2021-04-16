@@ -1,1 +1,1 @@
-{turkish=Aygır}{morphologicalAnalysis=aygır+NOUN+A3SG+PNON+NOM}{metaMorphemes=aygır} {turkish=kızıştı}{morphologicalAnalysis=kızış+VERB+POS+PAST+A3SG}{metaMorphemes=kızış+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Aygır}{morphologicalAnalysis=aygır+NOUN+A3SG+PNON+NOM}{metaMorphemes=aygır}{universalDependency=2$NSUBJ} {turkish=kızıştı}{morphologicalAnalysis=kızış+VERB+POS+PAST+A3SG}{metaMorphemes=kızış+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

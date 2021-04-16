@@ -1,1 +1,1 @@
-{turkish=Bugün}{morphologicalAnalysis=bugün+ADV}{metaMorphemes=bugün} {turkish=doluyum}{morphologicalAnalysis=dolu+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A1SG}{metaMorphemes=dolu+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Bugün}{morphologicalAnalysis=bugün+ADV}{metaMorphemes=bugün}{universalDependency=2$ADVMOD} {turkish=doluyum}{morphologicalAnalysis=dolu+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A1SG}{metaMorphemes=dolu+yHm}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

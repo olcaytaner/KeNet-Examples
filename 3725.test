@@ -1,1 +1,1 @@
-{turkish=Sular}{morphologicalAnalysis=sula+VERB+POS+AOR^DB+ADJ+ZERO}{metaMorphemes=sula+Hr} {turkish=sarardı}{morphologicalAnalysis=sarar+VERB+POS+PAST+A3SG}{metaMorphemes=sarar+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sular}{morphologicalAnalysis=sula+VERB+POS+AOR^DB+ADJ+ZERO}{metaMorphemes=sula+Hr}{universalDependency=2$NSUBJ} {turkish=sarardı}{morphologicalAnalysis=sarar+VERB+POS+PAST+A3SG}{metaMorphemes=sarar+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

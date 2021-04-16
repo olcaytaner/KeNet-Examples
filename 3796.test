@@ -1,1 +1,1 @@
-{turkish=Polis}{morphologicalAnalysis=polis+NOUN+A3SG+PNON+NOM}{metaMorphemes=polis} {turkish=koleji}{morphologicalAnalysis=kolej+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kolej+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Polis}{morphologicalAnalysis=polis+NOUN+A3SG+PNON+NOM}{metaMorphemes=polis}{universalDependency=2$NMOD} {turkish=koleji}{morphologicalAnalysis=kolej+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kolej+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

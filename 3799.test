@@ -1,1 +1,1 @@
-{turkish=Kollu}{morphologicalAnalysis=kollu+ADJ}{metaMorphemes=kollu} {turkish=sandalye}{morphologicalAnalysis=sandalye+NOUN+A3SG+PNON+NOM}{metaMorphemes=sandalye} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kollu}{morphologicalAnalysis=kollu+ADJ}{metaMorphemes=kollu}{universalDependency=2$AMOD} {turkish=sandalye}{morphologicalAnalysis=sandalye+NOUN+A3SG+PNON+NOM}{metaMorphemes=sandalye}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

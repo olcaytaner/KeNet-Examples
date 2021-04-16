@@ -1,1 +1,1 @@
-{turkish=Oh}{morphologicalAnalysis=oh+INTERJ}{metaMorphemes=oh}{semantics=TUR10-0583240} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{semantics=TUR10-0808050}
+{turkish=Oh}{morphologicalAnalysis=oh+INTERJ}{metaMorphemes=oh}{semantics=TUR10-0583240}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{semantics=TUR10-0808050}{universalDependency=1$PUNCT}

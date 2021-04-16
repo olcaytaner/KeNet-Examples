@@ -1,1 +1,1 @@
-{turkish=Ellerini}{morphologicalAnalysis=el+NOUN+A3PL+P3SG+ACC}{metaMorphemes=el+lAr+sH+nH} {turkish=kınaladı}{morphologicalAnalysis=kınala+VERB+POS+PAST+A3SG}{metaMorphemes=kınala+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ellerini}{morphologicalAnalysis=el+NOUN+A3PL+P3SG+ACC}{metaMorphemes=el+lAr+sH+nH}{universalDependency=2$OBJ} {turkish=kınaladı}{morphologicalAnalysis=kınala+VERB+POS+PAST+A3SG}{metaMorphemes=kınala+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

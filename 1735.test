@@ -1,1 +1,1 @@
-{turkish=Dolmalık}{morphologicalAnalysis=dolmalık+ADJ}{metaMorphemes=dolmalık} {turkish=fıstık}{morphologicalAnalysis=fıstık+NOUN+A3SG+PNON+NOM}{metaMorphemes=fıstık} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Dolmalık}{morphologicalAnalysis=dolmalık+ADJ}{metaMorphemes=dolmalık}{universalDependency=2$AMOD} {turkish=fıstık}{morphologicalAnalysis=fıstık+NOUN+A3SG+PNON+NOM}{metaMorphemes=fıstık}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

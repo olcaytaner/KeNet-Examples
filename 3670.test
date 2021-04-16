@@ -1,1 +1,1 @@
-{turkish=Forma}{morphologicalAnalysis=forma+NOUN+A3SG+PNON+NOM}{metaMorphemes=forma} {turkish=kırmak}{morphologicalAnalysis=kır+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=kır+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Forma}{morphologicalAnalysis=forma+NOUN+A3SG+PNON+NOM}{metaMorphemes=forma}{universalDependency=2$OBJ} {turkish=kırmak}{morphologicalAnalysis=kır+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=kır+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=İnce}{morphologicalAnalysis=ince+ADJ}{metaMorphemes=ince} {turkish=kıyımlı}{morphologicalAnalysis=kıyımlı+ADJ}{metaMorphemes=kıyımlı} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İnce}{morphologicalAnalysis=ince+ADJ}{metaMorphemes=ince}{universalDependency=2$AMOD} {turkish=kıyımlı}{morphologicalAnalysis=kıyımlı+ADJ}{metaMorphemes=kıyımlı}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

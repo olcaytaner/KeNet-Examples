@@ -1,1 +1,1 @@
-{turkish=Cam}{morphologicalAnalysis=cam+ADJ}{metaMorphemes=cam} {turkish=kırığı}{morphologicalAnalysis=kırık+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kırık+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Cam}{morphologicalAnalysis=cam+ADJ}{metaMorphemes=cam}{universalDependency=2$NMOD} {turkish=kırığı}{morphologicalAnalysis=kırık+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kırık+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Kesik}{morphologicalAnalysis=kesik+ADJ}{metaMorphemes=kesik} {turkish=süt}{morphologicalAnalysis=süt+NOUN+A3SG+PNON+NOM}{metaMorphemes=süt} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kesik}{morphologicalAnalysis=kesik+ADJ}{metaMorphemes=kesik}{universalDependency=2$AMOD} {turkish=süt}{morphologicalAnalysis=süt+NOUN+A3SG+PNON+NOM}{metaMorphemes=süt}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

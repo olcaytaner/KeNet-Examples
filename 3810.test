@@ -1,1 +1,1 @@
-{turkish=Kombili}{morphologicalAnalysis=kombili+ADJ}{metaMorphemes=kombili} {turkish=daire}{morphologicalAnalysis=daire+NOUN+A3SG+PNON+NOM}{metaMorphemes=daire} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kombili}{morphologicalAnalysis=kombili+ADJ}{metaMorphemes=kombili}{universalDependency=2$AMOD} {turkish=daire}{morphologicalAnalysis=daire+NOUN+A3SG+PNON+NOM}{metaMorphemes=daire}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Kiloluk}{morphologicalAnalysis=kiloluk+ADJ}{metaMorphemes=kiloluk} {turkish=çay}{morphologicalAnalysis=çay+NOUN+A3SG+PNON+NOM}{metaMorphemes=çay} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kiloluk}{morphologicalAnalysis=kiloluk+ADJ}{metaMorphemes=kiloluk}{universalDependency=2$AMOD} {turkish=çay}{morphologicalAnalysis=çay+NOUN+A3SG+PNON+NOM}{metaMorphemes=çay}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
