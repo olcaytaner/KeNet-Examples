@@ -1,1 +1,1 @@
-{turkish=Dökme}{morphologicalAnalysis=dök+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=dök+mA} {turkish=su}{morphologicalAnalysis=su+NOUN+A3SG+PNON+NOM}{metaMorphemes=su} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Dökme}{morphologicalAnalysis=dök+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=dök+mA}{universalDependency=2$AMOD} {turkish=su}{morphologicalAnalysis=su+NOUN+A3SG+PNON+NOM}{metaMorphemes=su}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

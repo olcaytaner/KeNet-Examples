@@ -1,1 +1,1 @@
-{turkish=Demir} {turkish=filizi} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Demir}{morphologicalAnalysis=demir+ADJ}{metaMorphemes=demir}{universalDependency=2$AMOD} {turkish=filizi}{morphologicalAnalysis=filiz+NOUN+A3SG+PNON+ACC}{metaMorphemes=filiz+yH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

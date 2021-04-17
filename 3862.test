@@ -1,1 +1,1 @@
-{turkish=Korsan}{morphologicalAnalysis=korsan+ADJ}{metaMorphemes=korsan} {turkish=kasetçilik}{morphologicalAnalysis=kasetçilik+NOUN+A3SG+PNON+NOM}{metaMorphemes=kasetçilik} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Korsan}{morphologicalAnalysis=korsan+ADJ}{metaMorphemes=korsan}{universalDependency=2$AMOD} {turkish=kasetçilik}{morphologicalAnalysis=kasetçilik+NOUN+A3SG+PNON+NOM}{metaMorphemes=kasetçilik}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

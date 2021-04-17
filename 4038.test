@@ -1,1 +1,1 @@
-{turkish=Kuşetli}{morphologicalAnalysis=kuşetli+ADJ}{metaMorphemes=kuşetli} {turkish=vagon}{morphologicalAnalysis=vagon+NOUN+A3SG+PNON+NOM}{metaMorphemes=vagon} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kuşetli}{morphologicalAnalysis=kuşetli+ADJ}{metaMorphemes=kuşetli}{universalDependency=2$AMOD} {turkish=vagon}{morphologicalAnalysis=vagon+NOUN+A3SG+PNON+NOM}{metaMorphemes=vagon}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

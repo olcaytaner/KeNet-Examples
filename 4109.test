@@ -1,1 +1,1 @@
-{turkish=Seçmen}{morphologicalAnalysis=seçmen+NOUN+A3SG+PNON+NOM}{metaMorphemes=seçmen} {turkish=kütlesi}{morphologicalAnalysis=kütle+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kütle+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Seçmen}{morphologicalAnalysis=seçmen+NOUN+A3SG+PNON+NOM}{metaMorphemes=seçmen}{universalDependency=2$NMOD} {turkish=kütlesi}{morphologicalAnalysis=kütle+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kütle+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

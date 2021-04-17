@@ -1,1 +1,1 @@
-{turkish=Tel}{morphologicalAnalysis=tel+NOUN+A3SG+PNON+NOM}{metaMorphemes=tel} {turkish=koptu}{morphologicalAnalysis=kop+VERB+POS+PAST+A3SG}{metaMorphemes=kop+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Tel}{morphologicalAnalysis=tel+NOUN+A3SG+PNON+NOM}{metaMorphemes=tel}{universalDependency=2$NSUBJ} {turkish=koptu}{morphologicalAnalysis=kop+VERB+POS+PAST+A3SG}{metaMorphemes=kop+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

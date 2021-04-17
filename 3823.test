@@ -1,1 +1,1 @@
-{turkish=Öpücüğü}{morphologicalAnalysis=öpücük+NOUN+A3SG+P3SG+NOM}{metaMorphemes=öpücük+sH} {turkish=kondurdu}{morphologicalAnalysis=kondur+VERB+POS+PAST+A3SG}{metaMorphemes=kondur+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Öpücüğü}{morphologicalAnalysis=öpücük+NOUN+A3SG+P3SG+NOM}{metaMorphemes=öpücük+sH}{universalDependency=2$OBJ} {turkish=kondurdu}{morphologicalAnalysis=kondur+VERB+POS+PAST+A3SG}{metaMorphemes=kondur+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

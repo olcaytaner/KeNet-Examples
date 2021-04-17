@@ -1,1 +1,1 @@
-{turkish=Kuru}{morphologicalAnalysis=kur+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kur+sH} {turkish=öksürük}{morphologicalAnalysis=öksürük+NOUN+A3SG+PNON+NOM}{metaMorphemes=öksürük} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kuru}{morphologicalAnalysis=kur+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kur+sH}{universalDependency=2$AMOD} {turkish=öksürük}{morphologicalAnalysis=öksürük+NOUN+A3SG+PNON+NOM}{metaMorphemes=öksürük}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

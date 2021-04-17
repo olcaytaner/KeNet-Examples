@@ -1,1 +1,1 @@
-{turkish=Yaver}{morphologicalAnalysis=yaver+NOUN+A3SG+PNON+NOM}{metaMorphemes=yaver} {turkish=kordonu}{morphologicalAnalysis=kordon+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kordon+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yaver}{morphologicalAnalysis=yaver+NOUN+A3SG+PNON+NOM}{metaMorphemes=yaver}{universalDependency=2$NMOD} {turkish=kordonu}{morphologicalAnalysis=kordon+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kordon+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

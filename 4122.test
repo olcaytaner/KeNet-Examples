@@ -1,1 +1,1 @@
-{turkish=Melun}{morphologicalAnalysis=melun+NOUN+A3SG+PNON+NOM}{metaMorphemes=melun} {turkish=şeytan}{morphologicalAnalysis=şeytan+NOUN+A3SG+PNON+NOM}{metaMorphemes=şeytan} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Melun}{morphologicalAnalysis=melun+NOUN+A3SG+PNON+NOM}{metaMorphemes=melun}{universalDependency=2$NMOD} {turkish=şeytan}{morphologicalAnalysis=şeytan+NOUN+A3SG+PNON+NOM}{metaMorphemes=şeytan}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

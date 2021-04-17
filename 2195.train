@@ -1,1 +1,1 @@
-{turkish=Fırınlı} {turkish=kayın} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Fırınlı}{morphologicalAnalysis=fırınlı+ADJ}{metaMorphemes=fırınlı}{universalDependency=2$AMOD} {turkish=kayın}{morphologicalAnalysis=kayın+NOUN+A3SG+PNON+NOM}{metaMorphemes=kayın}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

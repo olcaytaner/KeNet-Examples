@@ -1,1 +1,1 @@
-{turkish=Serbest}{morphologicalAnalysis=serbest+ADJ}{metaMorphemes=serbest}{universalDependency=1$AMOD} {turkish=geçiş}{morphologicalAnalysis=geç+VERB+RECIP+POS+IMP+A2SG}{metaMorphemes=geç+Hs}
+{turkish=Serbest}{morphologicalAnalysis=serbest+ADJ}{metaMorphemes=serbest}{universalDependency=2$AMOD} {turkish=geçiş}{morphologicalAnalysis=geç+VERB+RECIP+POS+IMP+A2SG}{metaMorphemes=geç+Hs}{universalDependency=0$ROOT}

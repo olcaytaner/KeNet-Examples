@@ -1,1 +1,1 @@
-{turkish=Yaprak}{morphologicalAnalysis=yaprak+NOUN+A3SG+PNON+NOM}{metaMorphemes=yaprak} {turkish=dökümü}{morphologicalAnalysis=döküm+NOUN+A3SG+P3SG+NOM}{metaMorphemes=döküm+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yaprak}{morphologicalAnalysis=yaprak+NOUN+A3SG+PNON+NOM}{metaMorphemes=yaprak}{universalDependency=2$COMPOUND} {turkish=dökümü}{morphologicalAnalysis=döküm+NOUN+A3SG+P3SG+NOM}{metaMorphemes=döküm+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

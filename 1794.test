@@ -1,1 +1,1 @@
-{turkish=Sarımsak}{morphologicalAnalysis=sarımsak+NOUN+A3SG+PNON+NOM}{metaMorphemes=sarımsak} {turkish=döveci}{morphologicalAnalysis=döveç+NOUN+A3SG+P3SG+NOM}{metaMorphemes=döveç+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sarımsak}{morphologicalAnalysis=sarımsak+NOUN+A3SG+PNON+NOM}{metaMorphemes=sarımsak}{universalDependency=2$NMOD} {turkish=döveci}{morphologicalAnalysis=döveç+NOUN+A3SG+P3SG+NOM}{metaMorphemes=döveç+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

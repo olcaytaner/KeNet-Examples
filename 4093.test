@@ -1,1 +1,1 @@
-{turkish=Küpeli}{morphologicalAnalysis=küpeli+ADJ}{metaMorphemes=küpeli} {turkish=horoz}{morphologicalAnalysis=horoz+NOUN+A3SG+PNON+NOM}{metaMorphemes=horoz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Küpeli}{morphologicalAnalysis=küpeli+ADJ}{metaMorphemes=küpeli}{universalDependency=2$AMOD} {turkish=horoz}{morphologicalAnalysis=horoz+NOUN+A3SG+PNON+NOM}{metaMorphemes=horoz}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
