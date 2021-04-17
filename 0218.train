@@ -1,1 +1,1 @@
-{turkish=Amipli}{morphologicalAnalysis=amipli+ADJ}{metaMorphemes=amipli} {turkish=dizanteri}{morphologicalAnalysis=dizanteri+NOUN+A3SG+PNON+NOM}{metaMorphemes=dizanteri} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Amipli}{morphologicalAnalysis=amipli+ADJ}{metaMorphemes=amipli}{universalDependency=2$AMOD} {turkish=dizanteri}{morphologicalAnalysis=dizanteri+NOUN+A3SG+PNON+NOM}{metaMorphemes=dizanteri}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
