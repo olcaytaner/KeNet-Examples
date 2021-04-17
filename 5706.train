@@ -1,1 +1,1 @@
-{turkish=Sobalık}{morphologicalAnalysis=sobalık+ADJ}{metaMorphemes=sobalık} {turkish=odun}{morphologicalAnalysis=od+NOUN+A3SG+P2SG+NOM}{metaMorphemes=od+Hn} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sobalık}{morphologicalAnalysis=sobalık+ADJ}{metaMorphemes=sobalık}{universalDependency=2$AMOD} {turkish=odun}{morphologicalAnalysis=od+NOUN+A3SG+P2SG+NOM}{metaMorphemes=od+Hn}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

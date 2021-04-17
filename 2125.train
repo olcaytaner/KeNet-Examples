@@ -1,1 +1,1 @@
-{turkish=Ölümlü} {turkish=dünya}{morphologicalAnalysis=dünya+NOUN+A3SG+PNON+NOM}{metaMorphemes=dünya}{semantics=TUR10-0229310} {turkish=bu} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}
+{turkish=Ölümlü}{morphologicalAnalysis=ölümlü+NOUN+A3SG+PNON+NOM}{metaMorphemes=ölümlü} {turkish=dünya}{morphologicalAnalysis=dünya+NOUN+A3SG+PNON+NOM}{metaMorphemes=dünya}{semantics=TUR10-0229310} {turkish=bu}{morphologicalAnalysis=bu+DET}{metaMorphemes=bu} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}
