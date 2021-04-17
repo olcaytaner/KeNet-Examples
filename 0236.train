@@ -1,1 +1,1 @@
-{turkish=Anbean}{morphologicalAnalysis=anbean+ADV}{metaMorphemes=anbean} {turkish=bekleniyor}{morphologicalAnalysis=bekle+VERB^DB+VERB+PASS+POS+PROG1+A3SG}{metaMorphemes=bekle+n+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Anbean}{morphologicalAnalysis=anbean+ADV}{metaMorphemes=anbean}{universalDependency=2$ADVMOD} {turkish=bekleniyor}{morphologicalAnalysis=bekle+VERB^DB+VERB+PASS+POS+PROG1+A3SG}{metaMorphemes=bekle+n+Hyor}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

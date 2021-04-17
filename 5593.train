@@ -1,1 +1,1 @@
-{turkish=Beyaz}{morphologicalAnalysis=beyaz+ADJ}{metaMorphemes=beyaz}{universalDependency=2$AMOD} {turkish=ev}{morphologicalAnalysis=ev+NOUN+A3SG+PNON+NOM}{metaMorphemes=ev} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Beyaz}{morphologicalAnalysis=beyaz+ADJ}{metaMorphemes=beyaz}{universalDependency=2$AMOD} {turkish=ev}{morphologicalAnalysis=ev+NOUN+A3SG+PNON+NOM}{metaMorphemes=ev}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

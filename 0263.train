@@ -1,1 +1,1 @@
-{turkish=Apazlama}{morphologicalAnalysis=apazlama+ADV}{metaMorphemes=apazlama} {turkish=gidiyoruz}{morphologicalAnalysis=git+VERB+POS+PROG1+A1PL}{metaMorphemes=git+Hyor+yHz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Apazlama}{morphologicalAnalysis=apazlama+ADV}{metaMorphemes=apazlama}{universalDependency=2$ADVMOD} {turkish=gidiyoruz}{morphologicalAnalysis=git+VERB+POS+PROG1+A1PL}{metaMorphemes=git+Hyor+yHz}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

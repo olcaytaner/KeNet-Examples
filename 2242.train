@@ -1,1 +1,1 @@
-{turkish=Formalık} {turkish=kumaş}{morphologicalAnalysis=kumaş+NOUN+A3SG+PNON+NOM}{metaMorphemes=kumaş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Formalık}{morphologicalAnalysis=formalık+ADJ}{metaMorphemes=formalık}{universalDependency=2$AMOD} {turkish=kumaş}{morphologicalAnalysis=kumaş+NOUN+A3SG+PNON+NOM}{metaMorphemes=kumaş}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

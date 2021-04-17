@@ -1,1 +1,1 @@
-{turkish=Geçiş} {turkish=dönemi}{morphologicalAnalysis=dönem+NOUN+A3SG+P3SG+NOM}{metaMorphemes=dönem+sH}{semantics=TUR10-0144540} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Geçiş}{morphologicalAnalysis=geç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM}{metaMorphemes=geç+yHs}{universalDependency=2$NMOD} {turkish=dönemi}{morphologicalAnalysis=dönem+NOUN+A3SG+P3SG+NOM}{metaMorphemes=dönem+sH}{semantics=TUR10-0144540}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

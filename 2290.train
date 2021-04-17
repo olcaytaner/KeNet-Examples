@@ -1,1 +1,1 @@
-{turkish=Ben} {turkish=gazeteciyim}{morphologicalAnalysis=gazeteci+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A1SG}{metaMorphemes=gazeteci+yHm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Ben}{morphologicalAnalysis=ben+PRON+PERS+A1SG+PNON+NOM}{metaMorphemes=ben}{universalDependency=2$NSUBJ} {turkish=gazeteciyim}{morphologicalAnalysis=gazeteci+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A1SG}{metaMorphemes=gazeteci+yHm}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

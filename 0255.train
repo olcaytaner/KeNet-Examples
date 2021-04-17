@@ -1,1 +1,1 @@
-{turkish=Antialerjik}{morphologicalAnalysis=antialerjik+NOUN+A3SG+PNON+NOM}{metaMorphemes=antialerjik} {turkish=yatak}{morphologicalAnalysis=yatak+NOUN+A3SG+PNON+NOM}{metaMorphemes=yatak} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Antialerjik}{morphologicalAnalysis=antialerjik+NOUN+A3SG+PNON+NOM}{metaMorphemes=antialerjik}{universalDependency=2$NMOD} {turkish=yatak}{morphologicalAnalysis=yatak+NOUN+A3SG+PNON+NOM}{metaMorphemes=yatak}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
