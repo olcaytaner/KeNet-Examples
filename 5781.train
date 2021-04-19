@@ -1,1 +1,1 @@
-{turkish=Spontane}{morphologicalAnalysis=spontane+ADJ}{metaMorphemes=spontane} {turkish=çeviri}{morphologicalAnalysis=çeviri+NOUN+A3SG+PNON+NOM}{metaMorphemes=çeviri} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Spontane}{morphologicalAnalysis=spontane+ADJ}{metaMorphemes=spontane}{universalDependency=2$AMOD} {turkish=çeviri}{morphologicalAnalysis=çeviri+NOUN+A3SG+PNON+NOM}{metaMorphemes=çeviri}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

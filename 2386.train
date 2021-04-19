@@ -1,1 +1,1 @@
-{turkish=Baharı}{morphologicalAnalysis=bahar+NOUN+A3SG+P3SG+NOM}{metaMorphemes=bahar+sH}{semantics=TUR10-0070840} {turkish=getirdik} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Baharı}{morphologicalAnalysis=bahar+NOUN+A3SG+P3SG+NOM}{metaMorphemes=bahar+sH}{semantics=TUR10-0070840}{universalDependency=2$OBJ} {turkish=getirdik}{morphologicalAnalysis=getir+VERB+POS+PAST+A1PL}{metaMorphemes=getir+DH+k}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

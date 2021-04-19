@@ -1,1 +1,1 @@
-{turkish=Balım}{morphologicalAnalysis=balım+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=balım} {turkish=Sultan}{morphologicalAnalysis=sultan+NOUN+A3SG+PNON+NOM}{metaMorphemes=sultan} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Balım}{morphologicalAnalysis=balım+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=balım}{universalDependency=0$ROOT} {turkish=Sultan}{morphologicalAnalysis=sultan+NOUN+A3SG+PNON+NOM}{metaMorphemes=sultan}{universalDependency=1$FLAT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=1$PUNCT}

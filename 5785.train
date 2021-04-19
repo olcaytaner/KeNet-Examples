@@ -1,1 +1,1 @@
-{turkish=Kitap}{morphologicalAnalysis=kitap+NOUN+A3SG+PNON+NOM}{metaMorphemes=kitap} {turkish=standı}{morphologicalAnalysis=stand+NOUN+A3SG+P3SG+NOM}{metaMorphemes=stand+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kitap}{morphologicalAnalysis=kitap+NOUN+A3SG+PNON+NOM}{metaMorphemes=kitap}{universalDependency=2$NMOD} {turkish=standı}{morphologicalAnalysis=stand+NOUN+A3SG+P3SG+NOM}{metaMorphemes=stand+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
