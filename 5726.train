@@ -1,1 +1,1 @@
-{turkish=Sokur}{morphologicalAnalysis=sok+VERB+POS+AOR^DB+ADJ+ZERO}{metaMorphemes=sok+Hr} {turkish=göz}{morphologicalAnalysis=göz+NOUN+A3SG+PNON+NOM}{metaMorphemes=göz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sokur}{morphologicalAnalysis=sok+VERB+POS+AOR^DB+ADJ+ZERO}{metaMorphemes=sok+Hr}{universalDependency=2$AMOD} {turkish=göz}{morphologicalAnalysis=göz+NOUN+A3SG+PNON+NOM}{metaMorphemes=göz}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

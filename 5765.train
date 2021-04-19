@@ -1,1 +1,1 @@
-{turkish=Balon}{morphologicalAnalysis=balon+NOUN+A3SG+PNON+NOM}{metaMorphemes=balon} {turkish=söndü}{morphologicalAnalysis=sön+VERB+POS+PAST+A3SG}{metaMorphemes=sön+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Balon}{morphologicalAnalysis=balon+NOUN+A3SG+PNON+NOM}{metaMorphemes=balon}{universalDependency=2$NSUBJ} {turkish=söndü}{morphologicalAnalysis=sön+VERB+POS+PAST+A3SG}{metaMorphemes=sön+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Soğanlı}{morphologicalAnalysis=soğanlı+ADJ}{metaMorphemes=soğanlı} {turkish=yahni}{morphologicalAnalysis=yahni+NOUN+A3SG+PNON+NOM}{metaMorphemes=yahni} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Soğanlı}{morphologicalAnalysis=soğanlı+ADJ}{metaMorphemes=soğanlı}{universalDependency=2$AMOD} {turkish=yahni}{morphologicalAnalysis=yahni+NOUN+A3SG+PNON+NOM}{metaMorphemes=yahni}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

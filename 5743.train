@@ -1,1 +1,1 @@
-{turkish=Sorguçlu}{morphologicalAnalysis=sorguç+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=sorguç+lH} {turkish=kuş}{morphologicalAnalysis=kuş+NOUN+A3SG+PNON+NOM}{metaMorphemes=kuş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sorguçlu}{morphologicalAnalysis=sorguç+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=sorguç+lH}{universalDependency=2$AMOD} {turkish=kuş}{morphologicalAnalysis=kuş+NOUN+A3SG+PNON+NOM}{metaMorphemes=kuş}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

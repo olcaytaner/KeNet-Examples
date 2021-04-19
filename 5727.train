@@ -1,1 +1,1 @@
-{turkish=Sola}{morphologicalAnalysis=sol+NOUN+A3SG+PNON+DAT}{metaMorphemes=sol+yA} {turkish=dönmek}{morphologicalAnalysis=dön+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=dön+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sola}{morphologicalAnalysis=sol+NOUN+A3SG+PNON+DAT}{metaMorphemes=sol+yA}{universalDependency=2$OBL} {turkish=dönmek}{morphologicalAnalysis=dön+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=dön+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
