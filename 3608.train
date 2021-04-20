@@ -1,1 +1,1 @@
-{turkish=Ders}{morphologicalAnalysis=ders+NOUN+A3SG+PNON+NOM}{metaMorphemes=ders} {turkish=kesimi}{morphologicalAnalysis=kes+NOUN+A3SG+P1SG+ACC}{metaMorphemes=kes+Hm+yH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ders}{morphologicalAnalysis=ders+NOUN+A3SG+PNON+NOM}{metaMorphemes=ders}{universalDependency=2$NMOD} {turkish=kesimi}{morphologicalAnalysis=kes+NOUN+A3SG+P1SG+ACC}{metaMorphemes=kes+Hm+yH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

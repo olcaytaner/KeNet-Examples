@@ -1,1 +1,1 @@
-{turkish=Yolundan}{morphologicalAnalysis=yol+NOUN+A3SG+P3SG+ABL}{metaMorphemes=yol+sH+nDAn} {turkish=şaşma}{morphologicalAnalysis=şaş+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=şaş+mA} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yolundan}{morphologicalAnalysis=yol+NOUN+A3SG+P3SG+ABL}{metaMorphemes=yol+sH+nDAn}{universalDependency=2$OBL} {turkish=şaşma}{morphologicalAnalysis=şaş+VERB+NEG+IMP+A2SG}{metaMorphemes=şaş+mA}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

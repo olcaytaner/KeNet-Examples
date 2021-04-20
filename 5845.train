@@ -1,1 +1,1 @@
-{turkish=Sürme}{morphologicalAnalysis=sür+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=sür+mA} {turkish=kapak}{morphologicalAnalysis=kapak+NOUN+A3SG+PNON+NOM}{metaMorphemes=kapak} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sürme}{morphologicalAnalysis=sürme+ADJ}{metaMorphemes=sürme}{universalDependency=2$AMOD} {turkish=kapak}{morphologicalAnalysis=kapak+NOUN+A3SG+PNON+NOM}{metaMorphemes=kapak}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

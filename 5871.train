@@ -1,1 +1,1 @@
-{turkish=Süzme}{morphologicalAnalysis=süz+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=süz+mA} {turkish=bal}{morphologicalAnalysis=bal+NOUN+A3SG+PNON+NOM}{metaMorphemes=bal} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Süzme}{morphologicalAnalysis=süzme+ADJ}{metaMorphemes=süzme}{universalDependency=2$AMOD} {turkish=bal}{morphologicalAnalysis=bal+NOUN+A3SG+PNON+NOM}{metaMorphemes=bal}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

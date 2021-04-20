@@ -1,1 +1,1 @@
-{turkish=Buçuklu}{morphologicalAnalysis=buçuklu+ADJ}{metaMorphemes=buçuklu} {turkish=para}{morphologicalAnalysis=para+NOUN+A3SG+PNON+NOM}{metaMorphemes=para} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Buçuklu}{morphologicalAnalysis=buçuklu+ADJ}{metaMorphemes=buçuklu}{universalDependency=2$AMOD} {turkish=para}{morphologicalAnalysis=para+NOUN+A3SG+PNON+NOM}{metaMorphemes=para}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
