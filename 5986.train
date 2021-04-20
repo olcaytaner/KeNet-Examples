@@ -1,1 +1,1 @@
-{turkish=Kuvvet}{morphologicalAnalysis=kuvvet+NOUN+A3SG+PNON+NOM}{metaMorphemes=kuvvet} {turkish=şurubu}{morphologicalAnalysis=şurubu+NOUN+A3SG+PNON+NOM}{metaMorphemes=şurubu} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kuvvet}{morphologicalAnalysis=kuvvet+NOUN+A3SG+PNON+NOM}{metaMorphemes=kuvvet}{universalDependency=2$NMOD} {turkish=şurubu}{morphologicalAnalysis=şurubu+NOUN+A3SG+PNON+NOM}{metaMorphemes=şurubu}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
