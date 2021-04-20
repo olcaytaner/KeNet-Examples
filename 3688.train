@@ -1,1 +1,1 @@
-{turkish=Kıştı}{morphologicalAnalysis=kış+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PAST+A3SG}{metaMorphemes=kış+yDH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kıştı}{morphologicalAnalysis=kış+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PAST+A3SG}{metaMorphemes=kış+yDH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=1$PUNCT}

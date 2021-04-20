@@ -1,1 +1,1 @@
-{turkish=Çimento}{morphologicalAnalysis=çimento+NOUN+A3SG+PNON+NOM}{metaMorphemes=çimento} {turkish=şerbeti}{morphologicalAnalysis=şerbet+NOUN+A3SG+P3SG+NOM}{metaMorphemes=şerbet+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Çimento}{morphologicalAnalysis=çimento+NOUN+A3SG+PNON+NOM}{metaMorphemes=çimento}{universalDependency=2$NMOD} {turkish=şerbeti}{morphologicalAnalysis=şerbet+NOUN+A3SG+P3SG+NOM}{metaMorphemes=şerbet+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

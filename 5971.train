@@ -1,1 +1,1 @@
-{turkish=Şistli}{morphologicalAnalysis=şist+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=şist+lH} {turkish=kaya}{morphologicalAnalysis=kaya+NOUN+A3SG+PNON+NOM}{metaMorphemes=kaya} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Şistli}{morphologicalAnalysis=şist+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=şist+lH}{universalDependency=2$AMOD} {turkish=kaya}{morphologicalAnalysis=kaya+NOUN+A3SG+PNON+NOM}{metaMorphemes=kaya}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

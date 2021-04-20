@@ -1,1 +1,1 @@
-{turkish=Kır}{morphologicalAnalysis=kır+NOUN+A3SG+PNON+NOM}{metaMorphemes=kır} {turkish=sakal}{morphologicalAnalysis=sakal+NOUN+A3SG+PNON+NOM}{metaMorphemes=sakal} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kır}{morphologicalAnalysis=kır+NOUN+A3SG+PNON+NOM}{metaMorphemes=kır}{universalDependency=2$AMOD} {turkish=sakal}{morphologicalAnalysis=sakal+NOUN+A3SG+PNON+NOM}{metaMorphemes=sakal}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
