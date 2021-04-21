@@ -1,1 +1,1 @@
-{turkish=Aşı}{morphologicalAnalysis=aşı+NOUN+A3SG+PNON+NOM}{metaMorphemes=aşı} {turkish=şehadetnamesi}{morphologicalAnalysis=şehadetname+NOUN+A3SG+P3SG+NOM}{metaMorphemes=şehadetname+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Aşı}{morphologicalAnalysis=aşı+NOUN+A3SG+PNON+NOM}{metaMorphemes=aşı}{universalDependency=2$NMOD} {turkish=şehadetnamesi}{morphologicalAnalysis=şehadetname+NOUN+A3SG+P3SG+NOM}{metaMorphemes=şehadetname+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
