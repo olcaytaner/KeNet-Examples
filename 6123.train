@@ -1,1 +1,1 @@
-{turkish=Tatlı}{morphologicalAnalysis=tatlı+ADJ}{metaMorphemes=tatlı} {turkish=elma}{morphologicalAnalysis=elma+NOUN+A3SG+PNON+NOM}{metaMorphemes=elma} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Tatlı}{morphologicalAnalysis=tatlı+ADJ}{metaMorphemes=tatlı}{universalDependency=2$AMOD} {turkish=elma}{morphologicalAnalysis=elma+NOUN+A3SG+PNON+NOM}{metaMorphemes=elma}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

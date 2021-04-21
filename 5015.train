@@ -1,1 +1,1 @@
-{turkish=Ayna} {turkish=parlıyor}{morphologicalAnalysis=parla+VERB+POS+PROG1+A3SG}{metaMorphemes=parla+Hyor}{semantics=TUR10-0615810} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Ayna}{morphologicalAnalysis=ayna+NOUN+A3SG+PNON+NOM}{metaMorphemes=ayna}{universalDependency=2$NSUBJ} {turkish=parlıyor}{morphologicalAnalysis=parla+VERB+POS+PROG1+A3SG}{metaMorphemes=parla+Hyor}{semantics=TUR10-0615810}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
