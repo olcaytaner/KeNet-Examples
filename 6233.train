@@ -1,1 +1,1 @@
-{turkish=Tepeli}{morphologicalAnalysis=tepeli+ADJ}{metaMorphemes=tepeli} {turkish=arazi}{morphologicalAnalysis=arazi+NOUN+A3SG+PNON+NOM}{metaMorphemes=arazi} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Tepeli}{morphologicalAnalysis=tepeli+ADJ}{metaMorphemes=tepeli}{universalDependency=2$AMOD} {turkish=arazi}{morphologicalAnalysis=arazi+NOUN+A3SG+PNON+NOM}{metaMorphemes=arazi}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

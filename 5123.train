@@ -1,1 +1,1 @@
-{turkish=Pireli}{morphologicalAnalysis=pireli+ADJ}{metaMorphemes=pireli} {turkish=yatak}{morphologicalAnalysis=yatak+NOUN+A3SG+PNON+NOM}{metaMorphemes=yatak} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Pireli}{morphologicalAnalysis=pireli+ADJ}{metaMorphemes=pireli}{universalDependency=2$AMOD} {turkish=yatak}{morphologicalAnalysis=yatak+NOUN+A3SG+PNON+NOM}{metaMorphemes=yatak}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

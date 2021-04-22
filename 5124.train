@@ -1,1 +1,1 @@
-{turkish=Koyun}{morphologicalAnalysis=koy+NOUN+A3SG+PNON+GEN}{metaMorphemes=koy+nHn} {turkish=pirzolası}{morphologicalAnalysis=pirzola+NOUN+A3SG+P3SG+NOM}{metaMorphemes=pirzola+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Koyun}{morphologicalAnalysis=koy+NOUN+A3SG+PNON+GEN}{metaMorphemes=koy+nHn}{universalDependency=2$NMOD} {turkish=pirzolası}{morphologicalAnalysis=pirzola+NOUN+A3SG+P3SG+NOM}{metaMorphemes=pirzola+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

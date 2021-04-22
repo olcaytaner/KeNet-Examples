@@ -1,1 +1,1 @@
-{turkish=Pilavlık}{morphologicalAnalysis=pilavlık+ADJ}{metaMorphemes=pilavlık} {turkish=pirinç}{morphologicalAnalysis=pirinç+NOUN+A3SG+PNON+NOM}{metaMorphemes=pirinç} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Pilavlık}{morphologicalAnalysis=pilavlık+ADJ}{metaMorphemes=pilavlık}{universalDependency=2$AMOD} {turkish=pirinç}{morphologicalAnalysis=pirinç+NOUN+A3SG+PNON+NOM}{metaMorphemes=pirinç}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Telli}{morphologicalAnalysis=telli+ADJ}{metaMorphemes=telli} {turkish=gelin}{morphologicalAnalysis=gel+VERB+POS+IMP+A2PL}{metaMorphemes=gel+yHn} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Telli}{morphologicalAnalysis=telli+ADJ}{metaMorphemes=telli}{universalDependency=2$AMOD} {turkish=gelin}{morphologicalAnalysis=gel+VERB+POS+IMP+A2PL}{metaMorphemes=gel+yHn}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

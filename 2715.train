@@ -1,1 +1,1 @@
-{turkish=Haydi}{morphologicalAnalysis=haydi+INTERJ}{metaMorphemes=haydi}{semantics=TUR10-0335100} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{semantics=TUR10-0808050}{universalDependency=1$PUNCT}
+{turkish=Haydi}{morphologicalAnalysis=haydi+INTERJ}{metaMorphemes=haydi}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{semantics=TUR10-0808050}{universalDependency=1$PUNCT}
