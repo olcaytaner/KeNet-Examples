@@ -1,1 +1,1 @@
-{turkish=Kapı}{morphologicalAnalysis=kapı+NOUN+A3SG+PNON+NOM}{metaMorphemes=kapı} {turkish=tıkırdadı}{morphologicalAnalysis=tıkırda+VERB+POS+PAST+A3SG}{metaMorphemes=tıkırda+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kapı}{morphologicalAnalysis=kapı+NOUN+A3SG+PNON+NOM}{metaMorphemes=kapı}{universalDependency=2$NSUBJ} {turkish=tıkırdadı}{morphologicalAnalysis=tıkırda+VERB+POS+PAST+A3SG}{metaMorphemes=tıkırda+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

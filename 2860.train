@@ -1,1 +1,1 @@
-{turkish=Tohum} {turkish=ıslah} {turkish=istasyonu} {turkish=.}
+{turkish=Tohum}{morphologicalAnalysis=tohum+NOUN+A3SG+PNON+NOM}{metaMorphemes=tohum}{universalDependency=2$NMOD} {turkish=ıslah}{morphologicalAnalysis=ıslah+NOUN+A3SG+PNON+NOM}{metaMorphemes=ıslah}{universalDependency=3$NMOD} {turkish=istasyonu}{morphologicalAnalysis=istasyon+NOUN+A3SG+P3SG+NOM}{metaMorphemes=istasyon+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

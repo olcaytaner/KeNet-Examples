@@ -1,1 +1,1 @@
-{turkish=Tereyağlı}{morphologicalAnalysis=tereyağlı+ADJ}{metaMorphemes=tereyağlı} {turkish=baklava}{morphologicalAnalysis=baklava+NOUN+A3SG+PNON+NOM}{metaMorphemes=baklava} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Tereyağlı}{morphologicalAnalysis=tereyağlı+ADJ}{metaMorphemes=tereyağlı}{universalDependency=2$AMOD} {turkish=baklava}{morphologicalAnalysis=baklava+NOUN+A3SG+PNON+NOM}{metaMorphemes=baklava}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

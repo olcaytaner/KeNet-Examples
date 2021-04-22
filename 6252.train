@@ -1,1 +1,1 @@
-{turkish=Testi}{morphologicalAnalysis=test+NOUN+A3SG+P3SG+NOM}{metaMorphemes=test+sH} {turkish=terliyor}{morphologicalAnalysis=terle+VERB+POS+PROG1+A3SG}{metaMorphemes=terle+Hyor} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Testi}{morphologicalAnalysis=test+NOUN+A3SG+P3SG+NOM}{metaMorphemes=test+sH}{universalDependency=2$NSUBJ} {turkish=terliyor}{morphologicalAnalysis=terle+VERB+POS+PROG1+A3SG}{metaMorphemes=terle+Hyor}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

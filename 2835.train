@@ -1,1 +1,1 @@
-{turkish=Hükûmet} {turkish=değişti} {turkish=.}
+{turkish=Hükûmet}{morphologicalAnalysis=hükûmet+NOUN+A3SG+PNON+NOM}{metaMorphemes=hükûmet}{universalDependency=2$NSUBJ} {turkish=değişti}{morphologicalAnalysis=değiş+VERB+POS+PAST+A3SG}{metaMorphemes=değiş+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Paralı}{morphologicalAnalysis=paralı+ADJ}{metaMorphemes=paralı} {turkish=basma}{morphologicalAnalysis=basma+NOUN+A3SG+PNON+NOM}{metaMorphemes=basma} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Paralı}{morphologicalAnalysis=paralı+ADJ}{metaMorphemes=paralı}{universalDependency=2$AMOD} {turkish=basma}{morphologicalAnalysis=basma+NOUN+A3SG+PNON+NOM}{metaMorphemes=basma}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
