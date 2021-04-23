@@ -1,1 +1,1 @@
-{turkish=Zeytinli}{morphologicalAnalysis=zeytin+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=zeytin+lH} {turkish=kek}{morphologicalAnalysis=kek+NOUN+A3SG+PNON+NOM}{metaMorphemes=kek} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Zeytinli}{morphologicalAnalysis=zeytin+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=zeytin+lH}{universalDependency=2$AMOD} {turkish=kek}{morphologicalAnalysis=kek+NOUN+A3SG+PNON+NOM}{metaMorphemes=kek}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

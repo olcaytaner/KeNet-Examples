@@ -1,1 +1,1 @@
-{turkish=Seçmece}{morphologicalAnalysis=seçmece+ADV}{metaMorphemes=seçmece} {turkish=karpuz}{morphologicalAnalysis=karpuz+NOUN+A3SG+PNON+NOM}{metaMorphemes=karpuz} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Seçmece}{morphologicalAnalysis=seçmece+ADV}{metaMorphemes=seçmece}{universalDependency=2$AMOD} {turkish=karpuz}{morphologicalAnalysis=karpuz+NOUN+A3SG+PNON+NOM}{metaMorphemes=karpuz}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

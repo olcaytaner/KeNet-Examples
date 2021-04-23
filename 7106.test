@@ -1,1 +1,1 @@
-{turkish=Yünlü}{morphologicalAnalysis=yünlü+NOUN+A3SG+PNON+NOM}{metaMorphemes=yünlü} {turkish=etek}{morphologicalAnalysis=etek+NOUN+A3SG+PNON+NOM}{metaMorphemes=etek} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yünlü}{morphologicalAnalysis=yün+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=yün+lH} {turkish=etek}{morphologicalAnalysis=etek+NOUN+A3SG+PNON+NOM}{metaMorphemes=etek} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}

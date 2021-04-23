@@ -1,1 +1,1 @@
-{turkish=Yorgan}{morphologicalAnalysis=yorgan+NOUN+A3SG+PNON+NOM}{metaMorphemes=yorgan} {turkish=yüzü}{morphologicalAnalysis=yüz+NOUN+A3SG+PNON+ACC}{metaMorphemes=yüz+yH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yorgan}{morphologicalAnalysis=yorgan+NOUN+A3SG+PNON+NOM}{metaMorphemes=yorgan}{universalDependency=2$NMOD} {turkish=yüzü}{morphologicalAnalysis=yüz+NOUN+A3SG+PNON+ACC}{metaMorphemes=yüz+yH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

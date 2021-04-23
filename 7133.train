@@ -1,1 +1,1 @@
-{turkish=Güneş}{morphologicalAnalysis=güneş+NOUN+A3SG+PNON+NOM}{metaMorphemes=güneş} {turkish=günü}{morphologicalAnalysis=gün+NOUN+A3SG+P3SG+NOM}{metaMorphemes=gün+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Güneş}{morphologicalAnalysis=güneş+NOUN+A3SG+PNON+NOM}{metaMorphemes=güneş}{universalDependency=2$NMOD} {turkish=günü}{morphologicalAnalysis=gün+NOUN+A3SG+P3SG+NOM}{metaMorphemes=gün+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Yazılı}{morphologicalAnalysis=yazılı+NOUN+A3SG+PNON+NOM}{metaMorphemes=yazılı} {turkish=yoklama}{morphologicalAnalysis=yokla+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=yokla+mA} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yazılı}{morphologicalAnalysis=yazı+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH}{metaMorphemes=yazı+lH} {turkish=yoklama}{morphologicalAnalysis=yoklama+NOUN+A3SG+PNON+NOM}{metaMorphemes=yoklama} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
