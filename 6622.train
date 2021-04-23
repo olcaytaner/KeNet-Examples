@@ -1,1 +1,1 @@
-{turkish=Ergin}{morphologicalAnalysis=ergin+ADJ}{metaMorphemes=ergin} {turkish=yemiş}{morphologicalAnalysis=yemiş+NOUN+A3SG+PNON+NOM}{metaMorphemes=yemiş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Ergin}{morphologicalAnalysis=ergin+ADJ}{metaMorphemes=ergin}{universalDependency=2$AMOD} {turkish=yemiş}{morphologicalAnalysis=yemiş+NOUN+A3SG+PNON+NOM}{metaMorphemes=yemiş}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

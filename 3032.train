@@ -1,1 +1,1 @@
-{turkish=Sular}{universalDependency=2$NSUBJ} {turkish=indi}{universalDependency=1$NSUBJ} {turkish=.}{universalDependency=2$PUNCT}
+{turkish=Sular}{morphologicalAnalysis=su+NOUN+A3PL+PNON+NOM}{metaMorphemes=su+lAr}{universalDependency=2$NSUBJ} {turkish=indi}{morphologicalAnalysis=in+VERB+POS+PAST+A3SG}{metaMorphemes=in+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

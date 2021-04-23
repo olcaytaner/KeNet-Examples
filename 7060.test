@@ -1,1 +1,1 @@
-{turkish=Alaturka}{morphologicalAnalysis=alaturka+ADJ}{metaMorphemes=alaturka} {turkish=çalışma}{morphologicalAnalysis=çalışma+NOUN+A3SG+PNON+NOM}{metaMorphemes=çalışma} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Alaturka}{morphologicalAnalysis=alaturka+ADJ}{metaMorphemes=alaturka}{universalDependency=2$AMOD} {turkish=çalışma}{morphologicalAnalysis=çalışma+NOUN+A3SG+PNON+NOM}{metaMorphemes=çalışma}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

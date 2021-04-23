@@ -1,1 +1,1 @@
-{turkish=İftara} {turkish=çağırmak} {turkish=.}
+{turkish=İftara}{morphologicalAnalysis=iftar+NOUN+A3SG+PNON+DAT}{metaMorphemes=iftar+yA}{universalDependency=2$OBL} {turkish=çağırmak}{morphologicalAnalysis=çağır+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=çağır+mAk}{universalDependency=0$ROOT} {turkish=.}{universalDependency=2$PUNCT}

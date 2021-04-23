@@ -1,1 +1,1 @@
-{turkish=Çaya} {turkish=ikbal} {turkish=yok} {turkish=mu} {turkish=?}
+{turkish=Çaya}{morphologicalAnalysis=çay+NOUN+A3SG+PNON+DAT}{metaMorphemes=çay+yA}{universalDependency=3$OBL} {turkish=ikbal}{morphologicalAnalysis=ikbal+NOUN+A3SG+PNON+NOM}{metaMorphemes=ikbal}{universalDependency=3$NSUBJ} {turkish=yok}{morphologicalAnalysis=yok+ADJ}{metaMorphemes=yok}{universalDependency=0$ROOT} {turkish=mu}{morphologicalAnalysis=mu+QUES+PRES+A3SG}{metaMorphemes=mu}{universalDependency=3$AUX} {turkish=?}{morphologicalAnalysis=?+PUNC}{metaMorphemes=?}{universalDependency=3$PUNCT}

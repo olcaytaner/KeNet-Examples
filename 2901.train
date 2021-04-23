@@ -1,1 +1,1 @@
-{turkish=İçkisiz} {turkish=eğlence} {turkish=yeri} {turkish=.}
+{turkish=İçkisiz}{morphologicalAnalysis=içkisiz+ADJ}{metaMorphemes=içkisiz}{universalDependency=2$AMOD} {turkish=eğlence}{morphologicalAnalysis=eğlence+NOUN+A3SG+PNON+NOM}{metaMorphemes=eğlence}{universalDependency=3$NMOD} {turkish=yeri}{morphologicalAnalysis=yer+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yer+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}

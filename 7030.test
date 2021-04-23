@@ -1,1 +1,1 @@
-{turkish=Yola}{morphologicalAnalysis=yol+NOUN+A3SG+PNON+DAT}{metaMorphemes=yol+yA} {turkish=çıkmak}{morphologicalAnalysis=çık+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=çık+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yola}{morphologicalAnalysis=yol+NOUN+A3SG+PNON+DAT}{metaMorphemes=yol+yA}{universalDependency=2$COMPOUND} {turkish=çıkmak}{morphologicalAnalysis=çık+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=çık+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Çengelli} {turkish=iğne} {turkish=.}
+{turkish=Çengelli}{morphologicalAnalysis=çengelli+ADJ}{metaMorphemes=çengelli}{universalDependency=2$AMOD} {turkish=iğne}{morphologicalAnalysis=iğne+NOUN+A3SG+PNON+NOM}{metaMorphemes=iğne}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

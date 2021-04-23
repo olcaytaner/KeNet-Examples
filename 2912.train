@@ -1,1 +1,1 @@
-{turkish=İdamlık} {turkish=suç} {turkish=.}
+{turkish=İdamlık}{morphologicalAnalysis=idamlık+ADJ}{metaMorphemes=idamlık}{universalDependency=2$AMOD} {turkish=suç}{morphologicalAnalysis=suç+NOUN+A3SG+PNON+NOM}{metaMorphemes=suç}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

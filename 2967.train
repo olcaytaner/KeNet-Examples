@@ -1,1 +1,1 @@
-{turkish=İleri} {turkish=karakol} {turkish=.}
+{turkish=İleri}{morphologicalAnalysis=ileri+ADJ}{metaMorphemes=ileri}{universalDependency=2$AMOD} {turkish=karakol}{morphologicalAnalysis=karakol+NOUN+A3SG+PNON+NOM}{metaMorphemes=karakol}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

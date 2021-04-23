@@ -1,1 +1,1 @@
-{turkish=Ahbaplık} {turkish=ilerledi} {turkish=.}
+{turkish=Ahbaplık}{morphologicalAnalysis=ahbaplık+NOUN+A3SG+PNON+NOM}{metaMorphemes=ahbaplık}{universalDependency=2$NSUBJ} {turkish=ilerledi}{morphologicalAnalysis=ilerle+VERB+POS+PAST+A3SG}{metaMorphemes=ilerle+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
