@@ -1,1 +1,1 @@
-{turkish=Allah}{morphologicalAnalysis=allah+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=allah} {turkish=saklasın}{morphologicalAnalysis=sakla+VERB+POS+IMP+A3SG}{metaMorphemes=sakla+SHn} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Allah}{morphologicalAnalysis=allah+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=allah}{universalDependency=2$NSUBJ} {turkish=saklasın}{morphologicalAnalysis=sakla+VERB+POS+IMP+A3SG}{metaMorphemes=sakla+SHn}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

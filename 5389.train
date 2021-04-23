@@ -1,1 +1,1 @@
-{turkish=Salçalık}{morphologicalAnalysis=salçalık+ADJ}{metaMorphemes=salçalık} {turkish=domates}{morphologicalAnalysis=domates+NOUN+A3SG+PNON+NOM}{metaMorphemes=domates} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Salçalık}{morphologicalAnalysis=salçalık+ADJ}{metaMorphemes=salçalık}{universalDependency=2$AMOD} {turkish=domates}{morphologicalAnalysis=domates+NOUN+A3SG+PNON+NOM}{metaMorphemes=domates}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

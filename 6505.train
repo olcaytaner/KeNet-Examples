@@ -1,1 +1,1 @@
-{turkish=Kim}{universalDependency=2$NSUBJ} {turkish=aldırır}{universalDependency=0$ROOT} {turkish=?}{universalDependency=2$PUNCT}
+{turkish=Kim}{morphologicalAnalysis=kim+PRON+QUESP+A3SG+PNON+NOM}{metaMorphemes=kim}{universalDependency=2$NSUBJ} {turkish=aldırır}{morphologicalAnalysis=aldır+VERB+POS+AOR+A3SG}{metaMorphemes=aldır+Hr}{universalDependency=0$ROOT} {turkish=?}{morphologicalAnalysis=?+PUNC}{metaMorphemes=?}{universalDependency=2$PUNCT}

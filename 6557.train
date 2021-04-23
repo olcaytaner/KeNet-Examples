@@ -1,1 +1,1 @@
-{turkish=Süre}{universalDependency=2$NMOD} {turkish=uzatımı} {turkish=.}{universalDependency=2$PUNCT}
+{turkish=Süre}{morphologicalAnalysis=süre+NOUN+A3SG+PNON+NOM}{metaMorphemes=süre}{universalDependency=2$NMOD} {turkish=uzatımı}{morphologicalAnalysis=uzatım+NOUN+A3SG+P3SG+NOM}{metaMorphemes=uzatım+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

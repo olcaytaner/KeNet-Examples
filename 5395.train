@@ -1,1 +1,1 @@
-{turkish=Salıncaklı}{morphologicalAnalysis=salıncaklı+ADJ}{metaMorphemes=salıncaklı} {turkish=koltuk}{morphologicalAnalysis=koltuk+NOUN+A3SG+PNON+NOM}{metaMorphemes=koltuk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
+{turkish=Salıncaklı}{morphologicalAnalysis=salıncaklı+ADJ}{metaMorphemes=salıncaklı}{universalDependency=2$AMOD} {turkish=koltuk}{morphologicalAnalysis=koltuk+NOUN+A3SG+PNON+NOM}{metaMorphemes=koltuk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

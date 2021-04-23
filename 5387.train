@@ -1,1 +1,1 @@
-{turkish=Domates}{morphologicalAnalysis=domates+NOUN+A3SG+PNON+NOM}{metaMorphemes=domates} {turkish=salatası}{morphologicalAnalysis=salata+NOUN+A3SG+P3SG+NOM}{metaMorphemes=salata+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Domates}{morphologicalAnalysis=domates+NOUN+A3SG+PNON+NOM}{metaMorphemes=domates}{universalDependency=2$NMOD} {turkish=salatası}{morphologicalAnalysis=salata+NOUN+A3SG+P3SG+NOM}{metaMorphemes=salata+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

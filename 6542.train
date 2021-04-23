@@ -1,1 +1,1 @@
-{turkish=Filmi} {turkish=izlerken} {turkish=uyumuşum}{universalDependency=0$ROOT} {turkish=.}{universalDependency=3$PUNCT}
+{turkish=Filmi}{morphologicalAnalysis=film+NOUN+A3SG+PNON+ACC}{metaMorphemes=film+yH}{universalDependency=2$OBJ} {turkish=izlerken}{morphologicalAnalysis=izle+VERB+POS+AOR^DB+ADV+WHILE}{metaMorphemes=izle+Hr+yken}{universalDependency=3$ADVCL} {turkish=uyumuşum}{morphologicalAnalysis=uyu+VERB+POS+NARR+A1SG}{metaMorphemes=uyu+mHs+yHm}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}
