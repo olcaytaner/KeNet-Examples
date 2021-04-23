@@ -1,1 +1,1 @@
-{turkish=Pastoral}{morphologicalAnalysis=pastoral+ADJ}{metaMorphemes=pastoral} {turkish=manzume}{morphologicalAnalysis=manzume+NOUN+A3SG+PNON+NOM}{metaMorphemes=manzume} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Pastoral}{morphologicalAnalysis=pastoral+ADJ}{metaMorphemes=pastoral}{universalDependency=2$AMOD} {turkish=manzume}{morphologicalAnalysis=manzume+NOUN+A3SG+PNON+NOM}{metaMorphemes=manzume}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Proteinli}{morphologicalAnalysis=proteinli+ADJ}{metaMorphemes=proteinli} {turkish=besin}{morphologicalAnalysis=besin+NOUN+A3SG+PNON+NOM}{metaMorphemes=besin} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Proteinli}{morphologicalAnalysis=proteinli+ADJ}{metaMorphemes=proteinli}{universalDependency=2$AMOD} {turkish=besin}{morphologicalAnalysis=besin+NOUN+A3SG+PNON+NOM}{metaMorphemes=besin}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

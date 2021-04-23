@@ -1,1 +1,1 @@
-{turkish=Kalorifer}{morphologicalAnalysis=kalorifer+NOUN+A3SG+PNON+NOM}{metaMorphemes=kalorifer} {turkish=peteği}{morphologicalAnalysis=petek+NOUN+A3SG+P3SG+NOM}{metaMorphemes=petek+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kalorifer}{morphologicalAnalysis=kalorifer+NOUN+A3SG+PNON+NOM}{metaMorphemes=kalorifer}{universalDependency=2$NMOD} {turkish=peteği}{morphologicalAnalysis=petek+NOUN+A3SG+P3SG+NOM}{metaMorphemes=petek+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

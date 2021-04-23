@@ -1,1 +1,1 @@
-{turkish=Patlıcanlı}{morphologicalAnalysis=patlıcanlı+ADJ}{metaMorphemes=patlıcanlı} {turkish=kebap}{morphologicalAnalysis=kebap+NOUN+A3SG+PNON+NOM}{metaMorphemes=kebap} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Patlıcanlı}{morphologicalAnalysis=patlıcanlı+ADJ}{metaMorphemes=patlıcanlı}{universalDependency=2$AMOD} {turkish=kebap}{morphologicalAnalysis=kebap+NOUN+A3SG+PNON+NOM}{metaMorphemes=kebap}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

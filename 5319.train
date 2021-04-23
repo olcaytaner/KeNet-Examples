@@ -1,1 +1,1 @@
-{turkish=Yemek}{morphologicalAnalysis=yemek+NOUN+A3SG+PNON+NOM}{metaMorphemes=yemek} {turkish=saati}{morphologicalAnalysis=saat+NOUN+A3SG+P3SG+NOM}{metaMorphemes=saat+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yemek}{morphologicalAnalysis=yemek+NOUN+A3SG+PNON+NOM}{metaMorphemes=yemek}{universalDependency=2$NMOD} {turkish=saati}{morphologicalAnalysis=saat+NOUN+A3SG+P3SG+NOM}{metaMorphemes=saat+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

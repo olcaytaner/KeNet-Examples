@@ -1,1 +1,1 @@
-{turkish=Pekmezli}{morphologicalAnalysis=pekmezli+ADJ}{metaMorphemes=pekmezli} {turkish=üzüm}{morphologicalAnalysis=üzüm+NOUN+A3SG+PNON+NOM}{metaMorphemes=üzüm} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Pekmezli}{morphologicalAnalysis=pekmezli+ADJ}{metaMorphemes=pekmezli}{universalDependency=2$AMOD} {turkish=üzüm}{morphologicalAnalysis=üzüm+NOUN+A3SG+PNON+NOM}{metaMorphemes=üzüm}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

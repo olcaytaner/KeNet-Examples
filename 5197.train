@@ -1,1 +1,1 @@
-{turkish=Pullu}{morphologicalAnalysis=pullu+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=pullu} {turkish=dilekçe}{morphologicalAnalysis=dilekçe+NOUN+A3SG+PNON+NOM}{metaMorphemes=dilekçe} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Pullu}{morphologicalAnalysis=pullu+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=pullu}{universalDependency=2$AMOD} {turkish=dilekçe}{morphologicalAnalysis=dilekçe+NOUN+A3SG+PNON+NOM}{metaMorphemes=dilekçe}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

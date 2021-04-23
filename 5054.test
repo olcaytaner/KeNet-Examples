@@ -1,1 +1,1 @@
-{turkish=Paydos}{morphologicalAnalysis=paydos+NOUN+A3SG+PNON+NOM}{metaMorphemes=paydos} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Paydos}{morphologicalAnalysis=paydos+NOUN+A3SG+PNON+NOM}{metaMorphemes=paydos}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}

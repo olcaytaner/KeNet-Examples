@@ -1,1 +1,1 @@
-{turkish=İngilizce}{morphologicalAnalysis=ingilizce+ADJ}{metaMorphemes=ingilizce} {turkish=th}{morphologicalAnalysis=th+NOUN+A3SG+PNON+ACC}{metaMorphemes=th+yH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İngilizce}{morphologicalAnalysis=ingilizce+ADJ}{metaMorphemes=ingilizce}{universalDependency=2$AMOD} {turkish=th}{morphologicalAnalysis=th+NOUN+A3SG+PNON+ACC}{metaMorphemes=th+yH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

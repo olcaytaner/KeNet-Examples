@@ -1,1 +1,1 @@
-{turkish=Parlamenter}{morphologicalAnalysis=parlamenter+NOUN+A3SG+PNON+NOM}{metaMorphemes=parlamenter} {turkish=düzen}{morphologicalAnalysis=düzen+NOUN+A3SG+PNON+NOM}{metaMorphemes=düzen} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Parlamenter}{morphologicalAnalysis=parlamenter+NOUN+A3SG+PNON+NOM}{metaMorphemes=parlamenter}{universalDependency=2$NMOD} {turkish=düzen}{morphologicalAnalysis=düzen+NOUN+A3SG+PNON+NOM}{metaMorphemes=düzen}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

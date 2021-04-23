@@ -1,1 +1,1 @@
-{turkish=Sabunlu}{morphologicalAnalysis=sabunlu+ADJ}{metaMorphemes=sabunlu} {turkish=su}{morphologicalAnalysis=su+NOUN+A3SG+PNON+NOM}{metaMorphemes=su} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sabunlu}{morphologicalAnalysis=sabunlu+ADJ}{metaMorphemes=sabunlu}{universalDependency=2$AMOD} {turkish=su}{morphologicalAnalysis=su+NOUN+A3SG+PNON+NOM}{metaMorphemes=su}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

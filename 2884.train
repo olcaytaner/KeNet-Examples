@@ -1,1 +1,1 @@
-{turkish=Ekmek} {turkish=içi} {turkish=.}
+{turkish=Ekmek}{morphologicalAnalysis=ekmek+NOUN+A3SG+PNON+NOM}{metaMorphemes=ekmek}{universalDependency=2$NMOD} {turkish=içi}{morphologicalAnalysis=iç+NOUN+A3SG+P3SG+NOM}{metaMorphemes=iç+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

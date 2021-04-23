@@ -1,1 +1,1 @@
-{turkish=Perdenin}{morphologicalAnalysis=perde+NOUN+A3SG+PNON+GEN}{metaMorphemes=perde+nHn} {turkish=saçağı}{morphologicalAnalysis=saçak+NOUN+A3SG+P3SG+NOM}{metaMorphemes=saçak+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Perdenin}{morphologicalAnalysis=perde+NOUN+A3SG+PNON+GEN}{metaMorphemes=perde+nHn}{universalDependency=2$NMOD} {turkish=saçağı}{morphologicalAnalysis=saçak+NOUN+A3SG+P3SG+NOM}{metaMorphemes=saçak+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

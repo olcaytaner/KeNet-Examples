@@ -1,1 +1,1 @@
-{turkish=Zarfı}{morphologicalAnalysis=zarf+NOUN+A3SG+P3SG+NOM}{metaMorphemes=zarf+sH} {turkish=pulladı}{morphologicalAnalysis=pulla+VERB+POS+PAST+A3SG}{metaMorphemes=pulla+DH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Zarfı}{morphologicalAnalysis=zarf+NOUN+A3SG+P3SG+NOM}{metaMorphemes=zarf+sH}{universalDependency=2$OBJ} {turkish=pulladı}{morphologicalAnalysis=pulla+VERB+POS+PAST+A3SG}{metaMorphemes=pulla+DH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

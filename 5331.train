@@ -1,1 +1,1 @@
-{turkish=Sabunluk}{morphologicalAnalysis=sabunluk+NOUN+A3SG+PNON+NOM}{metaMorphemes=sabunluk} {turkish=yağ}{morphologicalAnalysis=yağ+NOUN+A3SG+PNON+NOM}{metaMorphemes=yağ} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sabunluk}{morphologicalAnalysis=sabunluk+NOUN+A3SG+PNON+NOM}{metaMorphemes=sabunluk}{universalDependency=2$NMOD} {turkish=yağ}{morphologicalAnalysis=yağ+NOUN+A3SG+PNON+NOM}{metaMorphemes=yağ}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

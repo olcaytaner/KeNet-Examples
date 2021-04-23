@@ -1,1 +1,1 @@
-{turkish=Kelebek}{morphologicalAnalysis=kelebek+NOUN+A3SG+PNON+NOM}{metaMorphemes=kelebek} {turkish=albümü}{morphologicalAnalysis=albüm+NOUN+A3SG+P3SG+NOM}{metaMorphemes=albüm+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kelebek}{morphologicalAnalysis=kelebek+NOUN+A3SG+PNON+NOM}{metaMorphemes=kelebek}{universalDependency=2$NMOD} {turkish=albümü}{morphologicalAnalysis=albüm+NOUN+A3SG+P3SG+NOM}{metaMorphemes=albüm+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

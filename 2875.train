@@ -1,1 +1,1 @@
-{turkish=Pazarda} {turkish=balık} {turkish=ibadullah} {turkish=.}
+{turkish=Pazarda}{morphologicalAnalysis=pazar+NOUN+A3SG+PNON+LOC}{metaMorphemes=pazar+DA}{universalDependency=3$NMOD} {turkish=balık}{morphologicalAnalysis=balık+NOUN+A3SG+PNON+NOM}{metaMorphemes=balık}{universalDependency=3$NMOD} {turkish=ibadullah}{morphologicalAnalysis=ibadullah+NOUN+A3SG+PNON+NOM}{metaMorphemes=ibadullah}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=3$PUNCT}
