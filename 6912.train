@@ -1,1 +1,1 @@
-{turkish=Yedilik}{morphologicalAnalysis=yedilik+ADJ}{metaMorphemes=yedilik} {turkish=cezve}{morphologicalAnalysis=cezve+NOUN+A3SG+PNON+NOM}{metaMorphemes=cezve} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yedilik}{morphologicalAnalysis=yedilik+ADJ}{metaMorphemes=yedilik}{universalDependency=2$AMOD} {turkish=cezve}{morphologicalAnalysis=cezve+NOUN+A3SG+PNON+NOM}{metaMorphemes=cezve}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

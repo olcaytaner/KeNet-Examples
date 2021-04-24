@@ -1,1 +1,1 @@
-{turkish=Yatısız}{morphologicalAnalysis=yatısız+ADJ}{metaMorphemes=yatısız} {turkish=okul}{morphologicalAnalysis=okul+NOUN+A3SG+PNON+NOM}{metaMorphemes=okul} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yatısız}{morphologicalAnalysis=yatısız+ADJ}{metaMorphemes=yatısız}{universalDependency=2$AMOD} {turkish=okul}{morphologicalAnalysis=okul+NOUN+A3SG+PNON+NOM}{metaMorphemes=okul}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

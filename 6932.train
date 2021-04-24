@@ -1,1 +1,1 @@
-{turkish=Haram}{morphologicalAnalysis=haram+ADJ}{metaMorphemes=haram} {turkish=yemek}{morphologicalAnalysis=yemek+NOUN+A3SG+PNON+NOM}{metaMorphemes=yemek} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Haram}{morphologicalAnalysis=haram+ADJ}{metaMorphemes=haram}{universalDependency=2$AMOD} {turkish=yemek}{morphologicalAnalysis=yemek+NOUN+A3SG+PNON+NOM}{metaMorphemes=yemek}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

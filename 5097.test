@@ -1,1 +1,1 @@
-{turkish=Pey}{morphologicalAnalysis=pey+NOUN+A3SG+PNON+NOM}{metaMorphemes=pey} {turkish=vermek}{morphologicalAnalysis=ver+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=ver+mAk} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Pey}{morphologicalAnalysis=pey+NOUN+A3SG+PNON+NOM}{metaMorphemes=pey}{universalDependency=2$COMPOUND} {turkish=vermek}{morphologicalAnalysis=ver+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=ver+mAk}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

@@ -1,1 +1,1 @@
-{turkish=Genç}{morphologicalAnalysis=genç+ADJ}{metaMorphemes=genç} {turkish=yaşında}{morphologicalAnalysis=yaş+NOUN+A3SG+P3SG+LOC}{metaMorphemes=yaş+sH+nDA} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Genç}{morphologicalAnalysis=genç+ADJ}{metaMorphemes=genç}{universalDependency=2$AMOD} {turkish=yaşında}{morphologicalAnalysis=yaş+NOUN+A3SG+P3SG+LOC}{metaMorphemes=yaş+sH+nDA}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

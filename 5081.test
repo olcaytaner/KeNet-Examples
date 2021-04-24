@@ -1,1 +1,1 @@
-{turkish=Sinema}{morphologicalAnalysis=sinema+NOUN+A3SG+PNON+NOM}{metaMorphemes=sinema} {turkish=perdesi}{morphologicalAnalysis=perde+NOUN+A3SG+P3SG+NOM}{metaMorphemes=perde+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sinema}{morphologicalAnalysis=sinema+NOUN+A3SG+PNON+NOM}{metaMorphemes=sinema}{universalDependency=2$NMOD} {turkish=perdesi}{morphologicalAnalysis=perde+NOUN+A3SG+P3SG+NOM}{metaMorphemes=perde+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

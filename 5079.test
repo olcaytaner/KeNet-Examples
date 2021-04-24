@@ -1,1 +1,1 @@
-{turkish=At}{morphologicalAnalysis=at+NOUN+A3SG+PNON+NOM}{metaMorphemes=at} {turkish=perçemi}{morphologicalAnalysis=perçem+NOUN+A3SG+P3SG+NOM}{metaMorphemes=perçem+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=At}{morphologicalAnalysis=at+NOUN+A3SG+PNON+NOM}{metaMorphemes=at}{universalDependency=2$NMOD} {turkish=perçemi}{morphologicalAnalysis=perçem+NOUN+A3SG+P3SG+NOM}{metaMorphemes=perçem+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

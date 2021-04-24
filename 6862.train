@@ -1,1 +1,1 @@
-{turkish=Yatık}{morphologicalAnalysis=yatık+NOUN+A3SG+PNON+NOM}{metaMorphemes=yatık} {turkish=kumaş}{morphologicalAnalysis=kumaş+NOUN+A3SG+PNON+NOM}{metaMorphemes=kumaş} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yatık}{morphologicalAnalysis=yatık+NOUN+A3SG+PNON+NOM}{metaMorphemes=yatık}{universalDependency=2$NMOD} {turkish=kumaş}{morphologicalAnalysis=kumaş+NOUN+A3SG+PNON+NOM}{metaMorphemes=kumaş}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

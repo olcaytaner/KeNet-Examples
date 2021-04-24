@@ -1,1 +1,1 @@
-{turkish=Doğa}{morphologicalAnalysis=doğa+NOUN+A3SG+PNON+NOM}{metaMorphemes=doğa} {turkish=yasaları}{morphologicalAnalysis=yasa+NOUN+A3PL+P3SG+NOM}{metaMorphemes=yasa+lAr+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Doğa}{morphologicalAnalysis=doğa+NOUN+A3SG+PNON+NOM}{metaMorphemes=doğa}{universalDependency=2$NMOD} {turkish=yasaları}{morphologicalAnalysis=yasa+NOUN+A3PL+P3SG+NOM}{metaMorphemes=yasa+lAr+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
