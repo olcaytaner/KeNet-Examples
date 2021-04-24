@@ -1,1 +1,1 @@
-{turkish=Üçleme}{morphologicalAnalysis=üçleme+ADJ}{metaMorphemes=üçleme} {turkish=halat}{morphologicalAnalysis=halat+NOUN+A3SG+PNON+NOM}{metaMorphemes=halat} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Üçleme}{morphologicalAnalysis=üçleme+ADJ}{metaMorphemes=üçleme}{universalDependency=2$AMOD} {turkish=halat}{morphologicalAnalysis=halat+NOUN+A3SG+PNON+NOM}{metaMorphemes=halat}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
