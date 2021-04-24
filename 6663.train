@@ -1,1 +1,1 @@
-{turkish=Verev}{morphologicalAnalysis=verev+ADJ}{metaMorphemes=verev} {turkish=etek}{morphologicalAnalysis=etek+NOUN+A3SG+PNON+NOM}{metaMorphemes=etek} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Verev}{morphologicalAnalysis=verev+ADJ}{metaMorphemes=verev}{universalDependency=2$AMOD} {turkish=etek}{morphologicalAnalysis=etek+NOUN+A3SG+PNON+NOM}{metaMorphemes=etek}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
