@@ -1,1 +1,1 @@
-{turkish=Yapmayın}{morphologicalAnalysis=yap+VERB+NEG+IMP+A2PL}{metaMorphemes=yap+mA+yHn} {turkish=yahu}{morphologicalAnalysis=yahu+INTERJ}{metaMorphemes=yahu} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Yapmayın}{morphologicalAnalysis=yap+VERB+NEG+IMP+A2PL}{metaMorphemes=yap+mA+yHn}{universalDependency=0$ROOT} {turkish=yahu}{morphologicalAnalysis=yahu+INTERJ}{metaMorphemes=yahu}{universalDependency=1$DISCOURSE} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}

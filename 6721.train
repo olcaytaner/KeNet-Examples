@@ -1,1 +1,1 @@
-{turkish=Yağlı}{morphologicalAnalysis=yağlı+ADJ}{metaMorphemes=yağlı} {turkish=çörek}{morphologicalAnalysis=çörek+NOUN+A3SG+PNON+NOM}{metaMorphemes=çörek} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yağlı}{morphologicalAnalysis=yağlı+ADJ}{metaMorphemes=yağlı}{universalDependency=2$AMOD} {turkish=çörek}{morphologicalAnalysis=çörek+NOUN+A3SG+PNON+NOM}{metaMorphemes=çörek}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
