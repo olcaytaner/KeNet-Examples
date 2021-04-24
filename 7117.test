@@ -1,1 +1,1 @@
-{turkish=Ne}{morphologicalAnalysis=ne+CONJ}{metaMorphemes=ne} {turkish=yüzle}{morphologicalAnalysis=yüz+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+INS}{metaMorphemes=yüz+ylA} {turkish=?}{morphologicalAnalysis=?+PUNC}{metaMorphemes=?}
+{turkish=Ne}{morphologicalAnalysis=ne+ADJ}{metaMorphemes=ne}{universalDependency=2$AMOD} {turkish=yüzle}{morphologicalAnalysis=yüz+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+INS}{metaMorphemes=yüz+ylA}{universalDependency=0$ROOT} {turkish=?}{morphologicalAnalysis=?+PUNC}{metaMorphemes=?}{universalDependency=2$PUNCT}

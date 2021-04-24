@@ -1,1 +1,1 @@
-{turkish=Sanatın}{morphologicalAnalysis=sanat+NOUN+A3SG+PNON+GEN}{metaMorphemes=sanat+nHn} {turkish=zirvesi}{morphologicalAnalysis=zirve+NOUN+A3SG+P3SG+NOM}{metaMorphemes=zirve+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Sanatın}{morphologicalAnalysis=sanat+NOUN+A3SG+PNON+GEN}{metaMorphemes=sanat+nHn}{universalDependency=2$NMOD} {turkish=zirvesi}{morphologicalAnalysis=zirve+NOUN+A3SG+P3SG+NOM}{metaMorphemes=zirve+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

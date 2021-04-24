@@ -1,1 +1,1 @@
-{turkish=Zatî}{morphologicalAnalysis=zatî+ADJ}{metaMorphemes=zatî} {turkish=eşya}{morphologicalAnalysis=eşya+NOUN+A3SG+PNON+NOM}{metaMorphemes=eşya} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Zatî}{morphologicalAnalysis=zatî+ADJ}{metaMorphemes=zatî}{universalDependency=2$AMOD} {turkish=eşya}{morphologicalAnalysis=eşya+NOUN+A3SG+PNON+NOM}{metaMorphemes=eşya}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

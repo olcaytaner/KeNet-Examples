@@ -1,1 +1,1 @@
-{turkish=Zarsı}{morphologicalAnalysis=zarsı+ADJ}{metaMorphemes=zarsı} {turkish=doku}{morphologicalAnalysis=doku+NOUN+A3SG+PNON+NOM}{metaMorphemes=doku} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Zarsı}{morphologicalAnalysis=zarsı+ADJ}{metaMorphemes=zarsı}{universalDependency=2$AMOD} {turkish=doku}{morphologicalAnalysis=doku+NOUN+A3SG+PNON+NOM}{metaMorphemes=doku}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

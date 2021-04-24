@@ -1,1 +1,1 @@
-{turkish=Zararına}{morphologicalAnalysis=zarar+NOUN+A3SG+P3SG+DAT}{metaMorphemes=zarar+sH+nA} {turkish=sattılar}{morphologicalAnalysis=sat+VERB+POS+PAST+A3PL}{metaMorphemes=sat+DH+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Zararına}{morphologicalAnalysis=zarar+NOUN+A3SG+P3SG+DAT}{metaMorphemes=zarar+sH+nA}{universalDependency=2$OBL} {turkish=sattılar}{morphologicalAnalysis=sat+VERB+POS+PAST+A3PL}{metaMorphemes=sat+DH+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
