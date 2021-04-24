@@ -1,1 +1,1 @@
-{turkish=Diş}{morphologicalAnalysis=diş+NOUN+A3SG+PNON+NOM}{metaMorphemes=diş} {turkish=yuvası}{morphologicalAnalysis=yuva+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yuva+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Diş}{morphologicalAnalysis=diş+NOUN+A3SG+PNON+NOM}{metaMorphemes=diş}{universalDependency=2$NMOD} {turkish=yuvası}{morphologicalAnalysis=yuva+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yuva+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

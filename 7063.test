@@ -1,1 +1,1 @@
-{turkish=Yukarı}{morphologicalAnalysis=yukarı+ADJ}{metaMorphemes=yukarı} {turkish=kat}{morphologicalAnalysis=kat+NOUN+A3SG+PNON+NOM}{metaMorphemes=kat} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yukarı}{morphologicalAnalysis=yukarı+ADJ}{metaMorphemes=yukarı}{universalDependency=2$AMOD} {turkish=kat}{morphologicalAnalysis=kat+NOUN+A3SG+PNON+NOM}{metaMorphemes=kat}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

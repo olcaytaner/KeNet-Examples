@@ -1,1 +1,1 @@
-{turkish=Balık}{morphologicalAnalysis=balık+NOUN+A3SG+PNON+NOM}{metaMorphemes=balık} {turkish=yumurtası}{morphologicalAnalysis=yumurta+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yumurta+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Balık}{morphologicalAnalysis=balık+NOUN+A3SG+PNON+NOM}{metaMorphemes=balık}{universalDependency=2$NMOD} {turkish=yumurtası}{morphologicalAnalysis=yumurta+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yumurta+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

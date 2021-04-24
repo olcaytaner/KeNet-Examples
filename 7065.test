@@ -1,1 +1,1 @@
-{turkish=Yün}{morphologicalAnalysis=yün+ADJ}{metaMorphemes=yün} {turkish=yumağı}{morphologicalAnalysis=yumak+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yumak+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Yün}{morphologicalAnalysis=yün+NOUN+A3SG+PNON+NOM}{metaMorphemes=yün}{universalDependency=2$NMOD} {turkish=yumağı}{morphologicalAnalysis=yumak+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yumak+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

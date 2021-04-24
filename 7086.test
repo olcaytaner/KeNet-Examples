@@ -1,1 +1,1 @@
-{turkish=İrfan}{morphologicalAnalysis=irfan+NOUN+A3SG+PNON+NOM}{metaMorphemes=irfan} {turkish=yuvası}{morphologicalAnalysis=yuva+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yuva+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=İrfan}{morphologicalAnalysis=irfan+NOUN+A3SG+PNON+NOM}{metaMorphemes=irfan}{universalDependency=2$NMOD} {turkish=yuvası}{morphologicalAnalysis=yuva+NOUN+A3SG+P3SG+NOM}{metaMorphemes=yuva+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
