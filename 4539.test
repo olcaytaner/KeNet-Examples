@@ -1,1 +1,1 @@
-{turkish=Müfrez}{morphologicalAnalysis=müfrez+ADJ}{metaMorphemes=müfrez} {turkish=arsalar}{morphologicalAnalysis=arsa+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL}{metaMorphemes=arsa+lAr} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Müfrez}{morphologicalAnalysis=müfrez+ADJ}{metaMorphemes=müfrez}{universalDependency=2$AMOD} {turkish=arsalar}{morphologicalAnalysis=arsa+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL}{metaMorphemes=arsa+lAr}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

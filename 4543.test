@@ -1,1 +1,1 @@
-{turkish=Müjde}{morphologicalAnalysis=müjde+NOUN+A3SG+PNON+NOM}{metaMorphemes=müjde} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}
+{turkish=Müjde}{morphologicalAnalysis=müjde+NOUN+A3SG+PNON+NOM}{metaMorphemes=müjde}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}

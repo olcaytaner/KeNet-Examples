@@ -1,1 +1,1 @@
-{turkish=Umutsuz}{morphologicalAnalysis=umut+NOUN+A3SG+PNON+NOM^DB+ADJ+WITHOUT}{metaMorphemes=umut+SHz} {turkish=hasta}{morphologicalAnalysis=hasta+ADJ}{metaMorphemes=hasta} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Umutsuz}{morphologicalAnalysis=umut+NOUN+A3SG+PNON+NOM^DB+ADJ+WITHOUT}{metaMorphemes=umut+SHz}{universalDependency=2$AMOD} {turkish=hasta}{morphologicalAnalysis=hasta+ADJ}{metaMorphemes=hasta}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

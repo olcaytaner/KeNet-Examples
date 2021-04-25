@@ -1,1 +1,1 @@
-{turkish=Profil}{morphologicalAnalysis=profil+NOUN+A3SG+PNON+NOM}{metaMorphemes=profil} {turkish=doğrusu} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}{universalDependency=2$PUNCT}
+{turkish=Profil}{morphologicalAnalysis=profil+NOUN+A3SG+PNON+NOM}{metaMorphemes=profil}{universalDependency=2$NMOD} {turkish=doğrusu}{morphologicalAnalysis=doğru+NOUN+A3SG+P3SG+NOM}{metaMorphemes=doğru+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}{universalDependency=2$PUNCT}
