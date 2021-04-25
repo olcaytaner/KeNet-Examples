@@ -1,1 +1,1 @@
-{turkish=Sabit}{morphologicalAnalysis=sabit+ADJ}{metaMorphemes=sabit} {turkish=gelir}{morphologicalAnalysis=gelir+NOUN+A3SG+PNON+NOM}{metaMorphemes=gelir} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}
+{turkish=Sabit}{morphologicalAnalysis=sabit+ADJ}{metaMorphemes=sabit}{universalDependency=2$AMOD} {turkish=gelir}{morphologicalAnalysis=gelir+NOUN+A3SG+PNON+NOM}{metaMorphemes=gelir}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}{universalDependency=2$PUNCT}
