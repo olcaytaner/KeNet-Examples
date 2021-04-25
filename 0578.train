@@ -1,1 +1,1 @@
-{turkish=Sertabip}{morphologicalAnalysis=sertabip+NOUN+A3SG+PNON+NOM}{metaMorphemes=sertabip}{semantics=TUR10-0680050} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}{universalDependency=1$PUNCT}
+{turkish=Sertabip}{morphologicalAnalysis=sertabip+NOUN+A3SG+PNON+NOM}{metaMorphemes=sertabip}{semantics=TUR10-0680050}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}{universalDependency=1$PUNCT}
