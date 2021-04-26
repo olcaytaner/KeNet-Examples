@@ -1,1 +1,1 @@
-{turkish=Kantarın}{morphologicalAnalysis=kantar+NOUN+A3SG+PNON+GEN}{metaMorphemes=kantar+nHn} {turkish=topu}{morphologicalAnalysis=top+NOUN+A3SG+P3SG+NOM}{metaMorphemes=top+sH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kantarın}{morphologicalAnalysis=kantar+NOUN+A3SG+PNON+GEN}{metaMorphemes=kantar+nHn}{universalDependency=2$NMOD} {turkish=topu}{morphologicalAnalysis=top+NOUN+A3SG+P3SG+NOM}{metaMorphemes=top+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

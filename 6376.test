@@ -1,1 +1,1 @@
-{turkish=Tortul}{morphologicalAnalysis=tortul+ADJ}{metaMorphemes=tortul} {turkish=kütle}{morphologicalAnalysis=kütle+NOUN+A3SG+PNON+NOM}{metaMorphemes=kütle} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Tortul}{morphologicalAnalysis=tortul+ADJ}{metaMorphemes=tortul}{universalDependency=2$AMOD} {turkish=kütle}{morphologicalAnalysis=kütle+NOUN+A3SG+PNON+NOM}{metaMorphemes=kütle}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
