@@ -1,1 +1,1 @@
-{turkish=Durdum}{morphologicalAnalysis=dur+VERB+POS+PAST+A1SG}{metaMorphemes=dur+DH+m} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=1$PUNCT}
+{turkish=Durdum}{morphologicalAnalysis=dur+VERB+POS+PAST+A1SG}{metaMorphemes=dur+DH+m}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=1$PUNCT}

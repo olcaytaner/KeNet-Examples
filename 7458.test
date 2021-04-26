@@ -1,1 +1,1 @@
-{turkish=Ulan}{morphologicalAnalysis=ulan+INTERJ}{metaMorphemes=ulan} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}
+{turkish=Ulan}{morphologicalAnalysis=ulan+INTERJ}{metaMorphemes=ulan}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}
