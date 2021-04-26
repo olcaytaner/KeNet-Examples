@@ -1,1 +1,1 @@
-{turkish=Atla}{morphologicalAnalysis=atla+VERB+POS+IMP+A2SG}{metaMorphemes=atla}{universalDependency=2$PARATAXIS} {turkish=bakayım}{morphologicalAnalysis=bak+VERB+POS+OPT+A1SG}{metaMorphemes=bak+yA+yHm}{universalDependency=0$ROOT} {turkish=.}{universalDependency=2$PUNCT}
+{turkish=Atla}{morphologicalAnalysis=atla+VERB+POS+IMP+A2SG}{metaMorphemes=atla}{universalDependency=2$PARATAXIS} {turkish=bakayım}{morphologicalAnalysis=bak+VERB+POS+OPT+A1SG}{metaMorphemes=bak+yA+yHm}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{universalDependency=2$PUNCT}
