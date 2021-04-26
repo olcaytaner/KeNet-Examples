@@ -1,1 +1,1 @@
-{turkish=Kunduracı}{morphologicalAnalysis=kundura+NOUN+A3SG+PNON+NOM^DB+ADJ+AGT}{metaMorphemes=kundura+CH} {turkish=bizi}{morphologicalAnalysis=biz+NOUN+A3SG+PNON+ACC}{metaMorphemes=biz+yH} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Kunduracı}{morphologicalAnalysis=kunduracı+NOUN+A3SG+PNON+NOM}{metaMorphemes=kunduracı}{universalDependency=2$NMOD} {turkish=bizi}{morphologicalAnalysis=biz+NOUN+A3SG+P3SG+NOM}{metaMorphemes=biz+sH}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}

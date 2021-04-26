@@ -1,1 +1,1 @@
-{turkish=Turistik}{morphologicalAnalysis=turistik+ADJ}{metaMorphemes=turistik} {turkish=otel}{morphologicalAnalysis=otel+NOUN+A3SG+PNON+NOM}{metaMorphemes=otel} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}
+{turkish=Turistik}{morphologicalAnalysis=turistik+ADJ}{metaMorphemes=turistik}{universalDependency=2$AMOD} {turkish=otel}{morphologicalAnalysis=otel+NOUN+A3SG+PNON+NOM}{metaMorphemes=otel}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=2$PUNCT}
