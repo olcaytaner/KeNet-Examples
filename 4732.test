@@ -1,1 +1,1 @@
-{turkish=Hinoğluhin}{morphologicalAnalysis=hinoğluhin+ADJ}{metaMorphemes=hinoğluhin}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=1$PUNCT}
+{turkish=Hinoğluhin}{morphologicalAnalysis=hinoğluhin+ADJ}{metaMorphemes=hinoğluhin}{semantics=TUR10-0004460}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}{universalDependency=1$PUNCT}

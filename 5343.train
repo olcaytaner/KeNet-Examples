@@ -1,1 +1,1 @@
-{turkish=Sağyağ}{morphologicalAnalysis=sağyağ+NOUN+A3SG+PNON+NOM}{metaMorphemes=sağyağ}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{universalDependency=1$PUNCT}
+{turkish=Sağyağ}{morphologicalAnalysis=sağyağ+NOUN+A3SG+PNON+NOM}{metaMorphemes=sağyağ}{semantics=TUR10-0767310}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}{universalDependency=1$PUNCT}

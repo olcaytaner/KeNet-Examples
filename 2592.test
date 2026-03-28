@@ -1,1 +1,1 @@
-{turkish=Hain}{morphologicalAnalysis=hain+ADJ}{metaMorphemes=hain}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}
+{turkish=Hain}{morphologicalAnalysis=hain+ADJ}{metaMorphemes=hain}{semantics=TUR10-0321070}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{semantics=TUR10-0808050}{universalDependency=1$PUNCT}

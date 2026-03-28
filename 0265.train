@@ -1,1 +1,1 @@
-{turkish=Aptal}{morphologicalAnalysis=aptal+ADJ}{metaMorphemes=aptal}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{universalDependency=1$PUNCT}
+{turkish=Aptal}{morphologicalAnalysis=aptal+ADJ}{metaMorphemes=aptal}{universalDependency=0$ROOT} {turkish=!}{morphologicalAnalysis=!+PUNC}{metaMorphemes=!}{semantics=TUR10-0808050}{universalDependency=1$PUNCT}
